@@ -1,0 +1,10 @@
+# Site settings
+title: Craft.
+email: leschnei48@gmail.com
+description: All the crafty news that's fit to print.
+baseurl: "/"
+url: http://localhost:4000
+auto: true
+
+# Build settings
+markdown: kramdown

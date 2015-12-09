@@ -1,0 +1,23 @@
+---
+layout: front-page
+---
+	<div class="row">
+			<h2 style="text-align:center">Ideas</h2>
+		<ul class="grid effect-2" id="grid"><!-- component.css -->
+		
+		{% for idea in site.data.ideas %}
+			<li>
+				<div class="ih-item square effect3 bottom_to_top">
+					<a href="{{ idea.href }}">
+						<img src="{{ site.baseurl }}ideas/img/{{ idea.img }}" />
+						<div class="info">
+							<h3>{{ idea.title }}</h3>
+							<p>{{ idea.hover }}</p>
+						</div><!-- /.info -->
+					</a>
+				</div><!-- ih-item -->
+			</li>
+		{% endfor %}
+		
+		</ul>
+	</div><!-- row -->

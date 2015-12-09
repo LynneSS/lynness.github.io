@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Finished sampler"
+category: Project
+topic: Christmas-Present Towels
+tags: weaving gifts towels
+ravelry:
+---
+
+<div class="row">
+    <div class="col-sm-4 col-sm-offset-1">
+        <img class="img-bordered" src="{{ site.baseurl }}projects/xmas-towels/img/#.jpg" />
+		

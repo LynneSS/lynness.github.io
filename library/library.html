@@ -1,0 +1,35 @@
+---
+layout: library-page
+---
+<section class="ff-container"><!-- style3.css -->
+	
+	<input id="select-type-all" name="radio-set-1" type="radio" class="ff-selector-type-all" checked="checked" />
+	<label for="select-type-all" class="ff-label-type-all">All</label>
+	
+	<input id="select-weaving" name="radio-set-1" type="radio" class="weaving" />
+	<label for="select-weaving" class="label-weaving">Weaving</label>
+	
+	<input id="select-knitting" name="radio-set-1" type="radio" class="knitting" />
+	<label for="select-knitting" class="label-knitting">Knitting</label>
+	
+	<input id="select-spinning" name="radio-set-1" type="radio" class="spinning" />
+	<label for="select-spinning" class="label-spinning">Spinning</label>
+	
+	<input id="select-other" name="radio-set-1" type="radio" class="other" />
+	<label for="select-other" class="label-other">Other</label>
+	
+	<div class="clr"></div>
+	
+	<ul class="ff-items">
+		{% for library in site.data.library %}
+		
+		<li class="ff-item-{{ library.type }}">
+			<a href="{{ library.href }}">
+				<span>{{ library.title }}</span>
+				<img class="img-rounded" src="{{site.baseurl }}library/img/{{ library.img }}" />
+			</a>
+		</li>
+		
+		{% endfor %}
+	</ul>
+</section>

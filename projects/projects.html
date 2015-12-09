@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+	<div id="wrapper">
+	    <div id="list">
+			
+			{% for current in site.data.current %}
+			{% if current.category == "project" %}
+			
+	        <div class="item">
+				<a href="{{ current.href }}">
+					<div class="thumbnail">
+						<img class="img-responsive" src="{{ current.img }}" />
+						<div class="caption">
+							<h3>{{ current.title }}</h3>
+						</div>
+					</div>
+				</a>
+			</div><!-- /.item -->
+	        
+			{% endif %}
+			{% endfor %}
+			
+	    </div><!-- /.list -->
+	</div><!-- /.wrapper -->
