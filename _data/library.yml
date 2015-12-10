@@ -8,7 +8,7 @@
    type: other
    href: "sock-innovation-knitting-techniques--patterns-for-one-of-a-kind-socks"
    
--  title:  Stephanie Pearl-McPhee Casts Off
+-  title: Stephanie Pearl-McPhee Casts Off
    img: "51aqzlbngwl_shelved.jpg"
    type: knitting
    href: "stephanie-pearl-mcphee-casts-off-the-yarn-harlots-guide-to-the-land-of-knitting"
@@ -23,10 +23,20 @@
    type: knitting
    href: "the-great-american-afghan---2007-edition"
    
--  title:  "Cables & Arans"
+-  title: "The Great American Aran Afghan book"
+   img: "51mfplpfrrl_shelved.jpg"
+   type: knitting
+   href: "the-great-american-aran-afghan-book"
+   
+-  title: "Cables & Arans"
    img: "51l3nbmethl_shelved.jpg"
    type: knitting
    href: "the-harmony-guides-cables--arans"
+   
+-  title: "Mason-Dixon Knitting"
+   img: "51s60sve2cl_shelved.jpg"
+   type: knitting
+   href: "mason-dixon-knitting"
    
 -  title: Knitting Outside the Lines
    img: "51mnijzxp8l_shelved.jpg"
@@ -42,11 +52,6 @@
    img: "51n53kd8jpl_shelved.jpg"
    type: knitting
    href: "leisure-arts-3327-sweaters-for-a-lifetime"
-   
--  title: "Mason-Dixon Knitting"
-   img: "51s60sve2cl_shelved.jpg"
-   type: knitting
-   href: "mason-dixon-knitting"
    
 -  title: Knitting in Plain English
    img: "51sjlntyf7l_shelved.jpg"
@@ -197,12 +202,7 @@
 -  title: "Finnish American Rag Rugs: Art, Tradition & Ethnic Continuity"
    img: "finnAmerRagRugs.jpg"
    type: weaving
-
--  title: "The Great American Aran Afghan book"
-   img: "51mfplpfrrl_shelved.jpg"
-   type: knitting
-   href: "the-great-american-aran-afghan-book"
-
+   
 -  title: "Hands on Rigid Heddle Weaving"
    img: "rigid-heddle.jpg"
    type: weaving
@@ -216,12 +216,7 @@
    img: lavold8097_shelved.jpg
    type: book
    href: "book-eight-the-enchanted-garden-collection"
-
--  title: "Spin-Off, Winter 2013/2014"
-   img: h1109_small2.jpg
-   type: magazine
-   href: "spin-off-winter-2013-2014"
-
+   
 -  title: 
    img: 
    type: 
