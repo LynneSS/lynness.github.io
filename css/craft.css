@@ -4,6 +4,9 @@ body {
 .main {
 	margin-bottom: 80px;
 }
+section {
+	margin-bottom: 80px;
+}
 
 /* ==== footer.html, tag_index.html, & post.html ==== */
 .space-above {
@@ -16,6 +19,7 @@ body {
 	text-align: center;
 }
 
+
 /* ==== post.html */
 .space-below {
 	margin-bottom: -15px;
@@ -24,6 +28,7 @@ body {
 	margin-top: 20px;
 	padding-bottom: 35px;
 }
+
 
 /* ==== news.html, index.html */
 .space-before {
@@ -34,6 +39,7 @@ body {
 
 /* ==== projects.html, finish-sidebar */
 /* -- http://osvaldas.info/responsive-jquery-masonry-or-pinterest-style-layout -- */
+
 #wrapper {
     max-width: 60em; /* 960 px */
     margin: 20px auto;
