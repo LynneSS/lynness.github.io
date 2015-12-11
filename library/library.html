@@ -24,10 +24,17 @@ layout: library-page
 		{% for library in site.data.library %}
 		
 		<li class="ff-item-{{ library.type }}">
-			<a href="http://www.ravelry.com/patterns/sources/{{ library.href }}">
+			{% if library.href-rav %}
+			<a href="http://www.ravelry.com/patterns/sources/{{ library.href-rav }}">
 				<span>{{ library.title }}</span>
 				<img class="img-rounded" src="{{site.baseurl }}library/img/{{ library.img }}" />
 			</a>
+			{% else %}
+			<a href="https://drive.google.com/{{ library.href-gd }}">
+				<span>{{ library.title }}</span>
+				<img class="img-rounded" src="{{site.baseurl }}library/img/{{ library.img }}" />
+			</a>
+			{% endif %}
 		</li>
 		
 		{% endfor %}

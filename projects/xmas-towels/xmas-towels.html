@@ -5,7 +5,7 @@ layout: default
 <h2 class="heading-space">Towels for Christmas Presents</h2><!-- margin-top:5px; margin-bottom:20px; text-align:center; in craft.css -->
 
 {% for post in site.posts %}
-	{% if post.topic == "Christmas-Present Towels" %}
+	{% if post.category == "Christmas-Present Towels" %}
 	
 	<div class="space-above"><!-- margin-top:20px; in craft.css -->
 		<h3>{{ post.title }} - <small>Posted on <a href="{{ post.url }}">{{ post.date | date_to_string }}</a></small></h3>

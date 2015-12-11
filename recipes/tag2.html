@@ -1,0 +1,14 @@
+{% for cat in site.data.recipe-cat %}
+{% assign type = cat %}
+
+<ul>
+	{% for recipe in site.data.recipes %}
+	{% if recipe.tags contains cat %}
+	<li class="list-unstyled">
+		<img class="img-rounded" style="margin:4px; border:1px solid #666;" src="{{ site.baseurl }}recipes/img/{{ recipe.img }}"/>
+		<a href="{{ recipe.href }}">{{ recipe.title }}</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+</ul>
+<a href="{{ site.baseurl }}recipes/recipes.html">Back to recipes.</a>

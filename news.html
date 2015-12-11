@@ -8,7 +8,7 @@ layout: default
 	
 		<li>
 			<p><span>{{ post.date | date: "%b %-d, %Y" }}</span>
-				<a class="h3 space-before" href="{{ post.url }}" style="color:#0048b3;">{{ post.title }}</a><small> {{ post.topic }}</small></p>
+				<a class="h3 space-before" href="{{ site.baseurl }}{{ post.url }}" style="color:#0048b3;">{{ post.title }}</a><small> {{ post.topic }}</small></p>
 		</li>
 		
 	{% endfor %}
