@@ -3,29 +3,29 @@ layout: front-page
 ---
 		<div>
 			{% for post in site.posts %}
-			<ul>
-				{% if post.status == "new" %}
-				<li><p><span>{{ post.date | date: "%b %-d, %Y" }}</span>
-					<a class="h3 space-before" href="{{ post.url }}">{{ post.title }}</a></p>
-				</li>
-				{% endif %}
-			</ul>
+			{% if post.status == "new" %}
+			<p><span>{{ post.date | date: "%b %-d, %Y" }}</span>
+				<a class="h3 space-before" href="{{ post.url }}">{{ post.title }}</a></p>
+			{% endif %}
 			{% endfor %}
 		</div>
+		
 		<div class="row">
 			<ul class="grid effect-2" id="grid"><!-- cascading grid effects are in component.css -->
 				
-				{% for current in site.data.current %}
+				{% for project in site.data.projects %}
+				{% if project.status == "in progress" %}
 				<li>
 					<div class="ih-item square effect3 bottom_to_top"><!-- ihover.css -->
-						<a href="{{ current.href }}">
-							<img src="{{ current.img }}" />
+						<a href="{{ site.baseurl }}projects/{{ project.href }}">
+							<img src="{{ site.baseurl }}projects/{{ project.img }}" />
 							<div class="info">
-								<h3>{{ current.title }}</h3>
+								<h3>{{ project.title }}</h3>
 							</div><!-- /.info -->
 						</a>
 					</div><!-- ih-item -->
 				</li>
+				{% endif %}
 				{% endfor %}
 				
 			</ul>

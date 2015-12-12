@@ -4,9 +4,7 @@ body {
 .main {
 	margin-bottom: 80px;
 }
-section {
-	margin-bottom: 80px;
-}
+
 
 /* ==== footer.html, tag_index.html, & post.html ==== */
 .space-above {
@@ -33,6 +31,16 @@ section {
 /* ==== news.html, index.html */
 .space-before {
 	padding-left: 15px;
+}
+
+
+.column1 {
+	width: 50%;
+	float: left;
+}
+.column2 {
+	width: 50%;
+	float: right;
 }
 
 

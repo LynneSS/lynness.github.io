@@ -1,0 +1,82 @@
+-  title: Christmas Present Towels
+   img: "xmas-towels/img/sampler2.jpg"
+   category: project
+   href: "xmas-towels/xmas-towels.html"
+   status: in progress
+   tag: weaving gifts towels
+ 
+-  title: BaaBoo Socks
+   img: "baaboo-socks/img/baaboo.jpg"
+   category: project
+   href: "baaboo-socks/baaboo-socks.html"
+   status: in progress
+   tag: socks knitting
+ 
+-  title: "Bamboo/Tencel Scarf"
+   img: "bamboo-scarf/img/bamboo.jpg"
+   category: project
+   href: "bamboo-scarf/bamboo-scarf.html"
+   status: in progress
+   tag: scarf weaving
+
+-  title: Mitre Block Afghan
+   img: "mitre-afghan/img/mitre7.jpg"
+   category: project
+   href: "mitre-afghan/mitre-afghan.html"
+   status: in progress
+   tag: afghan knitting
+
+-  title: "Twice-Woven Rug"
+   img: "twice-woven/img/twice-woven2.jpg"
+   category: project
+   href: "twice-woven/twice-woven.html"
+   status: in progress
+   tag: weaving rug
+
+-  title: Zoom Loom Blanket
+   img: "zoom-loom/img/zoom3.jpg"
+   category: project
+   href: "zoom-loom/zoom-loom.html"
+   status: in progress
+   tag: weaving afghan
+
+-  title: "Cream/Brown BFL"
+   img: "bfl/img/bfl.jpg"
+   category: project
+   href: "bfl/bfl.html"
+   status: in progress
+   tag: spinning
+
+-  title: "Pewter Merino/Silk"
+   img: "merino-silk/img/tussah-merino.jpg"
+   category: project
+   href: "merino-silk/merino-silk.html"
+   status: in progress
+   tag: spinning
+   
+-  title: Sweater Redo
+   img: "sweater-redo/img/scale.jpg"
+   category: project
+   href: "sweater-redo/sweater-redo.html"
+   status: in progress
+   tag: knitting sweater
+  
+-  title: Log Cabin Afghan
+   img: "log-cabin/img/4-square.jpg"
+   category: project
+   href: "log-cabin/log-cabin.html"
+   status: in progress
+   tag: knitting afghan
+   
+-  title: Loom Width
+   img: "assets/loom-width.jpg"
+   category: projects
+   status: in progress
+   tag: weaving
+   
+-  title: Laurel's Quilt
+   img: "laurels-quilt/img/#.jpg"
+   category: projects
+   href: "laurels-quilt/laurels-quilt.html"
+   status: in progress
+   tag: sewing

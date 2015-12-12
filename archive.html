@@ -1,0 +1,105 @@
+---
+layout: default
+---
+<div class="column1">
+	<h2>Projects by Name</h2>
+	<ul class="list-unstyled">
+	{% for project in site.data.projects %}
+	<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+	{% endfor %}
+	</ul>
+</div><!-- /.column1 -->
+	
+<div class="column2">
+	<h2>Projects By Tag</h2>
+
+	<h3 id="afghan">Afghan</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "afghan" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="gifts">Gifts</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "gifts" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="knitting">Knitting</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "knitting" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="rug">Rug</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "rug" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="scarf">Scarf</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "scarf" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="sewing">Sewing</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "sewing" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="socks">Socks</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "socks" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="sweater">Sweater</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "sweater" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="towels">Towels</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "towels" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	
+	<h3 id="weaving">Weaving</h3>
+	<ul class="list-unstyled">
+		{% for project in site.data.projects %}
+		{% if project.tag contains "weaving" %}
+		<li><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</div><!-- /.column2 -->

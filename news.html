@@ -2,14 +2,12 @@
 layout: default
 ---
 
-<h2>{{ site.description }}</h2>
-<ul>
-	{% for post in site.posts %}
+	<h2>{{ site.description }}</h2>
 	
-		<li>
-			<p><span>{{ post.date | date: "%b %-d, %Y" }}</span>
-				<a class="h3 space-before" href="{{ site.baseurl }}{{ post.url }}" style="color:#0048b3;">{{ post.title }}</a><small> {{ post.topic }}</small></p>
-		</li>
-		
+	{% for post in site.posts %}
+	<p>
+		<a href="{{ site.baseurl }}projects{{ post.url }}">{{ post.title }}</a>, 
+		{{ post.category }}
+		 &mdash; <small>{{ post.date | date_to_string }}</small>
+	</p>
 	{% endfor %}
-</ul>
