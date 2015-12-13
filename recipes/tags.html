@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2>Recipes</h2>
-
+<div class="column1">
 <h3 id="beef" style="padding-top:50px;">Beef</h3>
 <ul>
 	{% for recipe in site.data.recipes %}{% if recipe.tags contains 'beef' %}
@@ -79,7 +79,8 @@ layout: default
 	{% endif %}{% endfor %}
 </ul>
 <a href="{{ site.baseurl }}recipes/recipes.html">Back to recipes.</a>
-
+</div><!-- /.column1 -->
+<div class="column2">
 <h3 id="fish" style="padding-top:50px;">Fish</h3>
 <ul>
 	{% for recipe in site.data.recipes %}{% if recipe.tags contains 'fish' %}
@@ -145,3 +146,4 @@ layout: default
 	{% endif %}{% endfor %}
 </ul>
 <a href="{{ site.baseurl }}recipes/recipes.html">Back to recipes.</a>
+</div><!-- /.column2 -->
