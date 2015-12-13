@@ -97,6 +97,7 @@ layout: default
 
 <div class="col2-archive">
 	<h2>Projects by Name</h2>
+	<p> </p>
 	<ul class="list-unstyled">
 	{% for project in site.data.projects %}
 	<li><p><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a> - {{ project.excerpt }}, <strong>{{ project.status }}</strong></p></li>
