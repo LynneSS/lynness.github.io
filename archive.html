@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="col1-archive">
-	<h2>Projects By Tag</h2>
+	<h2 style="text-decoration:underline;">Projects By Tag</h2>
 
 	<h3 id="afghan">Afghan</h3>
 	<ul class="list-unstyled">
@@ -96,8 +96,7 @@ layout: default
 </div><!-- /.column1-tags -->
 
 <div class="col2-archive">
-	<h2>Projects by Name</h2>
-	<p> </p>
+	<h2 style="text-decoration:underline;">Projects by Name</h2>
 	<ul class="list-unstyled">
 	{% for project in site.data.projects %}
 	<li><p><a href="{{ site.baseurl }}projects/{{ project.href }}">{{ project.title }}</a> - {{ project.excerpt }}, <strong>{{ project.status }}</strong></p></li>

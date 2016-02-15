@@ -27,8 +27,8 @@ layout: library-page
 	<input id="select-othermag" name="radio-set-1" type="radio" class="othermag" />
 	<label for="select-othermag" class="label-othermag">Other Magazines</label>
 	
-	<input id="select-patterns" name="radio-set-1" type="radio" class="patterns" />
-	<label for="select-patterns" class="label-patterns">Patterns</label>
+	<input id="select-pattern" name="radio-set-1" type="radio" class="pattern" />
+	<label for="select-pattern" class="label-pattern">Patterns</label>
 	
 	<input id="select-x" name="radio-set-1" type="radio" class="x" />
 	<label for="select-x" class="label-x">Placeholder</label>
@@ -40,7 +40,7 @@ layout: library-page
 		
 		<li class="ff-item-{{ library.type }}">
 			{% if library.href-rav %}
-			<a href="http://www.ravelry.com/patterns/sources/{{ library.href-rav }}">
+			<a href="http://www.ravelry.com/patterns/{{ library.href-rav }}">
 				<span>{{ library.title }}</span>
 				<img class="img-rounded" src="{{site.baseurl }}library/img/{{ library.img }}" />
 			</a>
