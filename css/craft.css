@@ -52,6 +52,18 @@ body {
 }
 
 
+/* === pressure-cooker === */
+.link-black a {
+	color: #333;
+	text-decoration: none;
+}
+.link-black
+	a:hover,
+	a:focus {
+		color: blue;
+		text-decoration: underline;
+	}
+
 
 /* ==== projects.html, finish-sidebar */
 /* -- http://osvaldas.info/responsive-jquery-masonry-or-pinterest-style-layout -- */
