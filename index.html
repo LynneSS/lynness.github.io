@@ -1,32 +1,36 @@
 ---
-layout: front-page
+layout: default
 ---
-		<div>
-			{% for post in site.posts %}
-			{% if post.status == "new" %}
-			<p><span>{{ post.date | date: "%b %-d, %Y" }}</span>
-				<a class="h3 space-before" href="{{ post.url }}">{{ post.title }}</a></p>
-			{% endif %}
-			{% endfor %}
-		</div>
-		
-		<div class="row">
-			<ul class="grid effect-2" id="grid"><!-- cascading grid effects are in component.css -->
+
+<div class="container">
+	<h2 class="blog-title">{{ site.description }}</h2>
+</div><!-- /.container -->
+		  
+{% for post in site.posts limit:10 %}
+<div class="container">
+	<div class="row">
+		<div class="col-sm-8 blog-main">
+			<div class="blog-post">
+				<h4 class="blog-post-title">{{ post.heading }}</h4>
+				<a href="{{ site.baseurl }}projects/{{ post.category }}/{{ post.category }}.html"><h4="text-muted">- {{ post.title }}</h4></a>
+				<p class="blog-post-meta"><span>{{ post.date | date: "%b %-d, %Y" }}</span></p>
 				
-				{% for project in site.data.projects %}
-				{% if project.status == "in progress" %}
-				<li>
-					<div class="ih-item square effect3 bottom_to_top"><!-- ihover.css -->
-						<a href="{{ site.baseurl }}projects/{{ project.href }}">
-							<img src="{{ site.baseurl }}projects/{{ project.img }}" />
-							<div class="info">
-								<h3>{{ project.title }}</h3>
-							</div><!-- /.info -->
-						</a>
-					</div><!-- ih-item -->
-				</li>
-				{% endif %}
-				{% endfor %}
-				
-			</ul>
-		</div><!-- /.row -->
+				{{ post.content }}
+
+			</div><!-- /.blog-post -->
+		</div><!-- /.col -->
+	</div><!-- /.row -->
+
+	<div class="tags">
+	    <span>
+	        Tags: 
+	        {% for tag in post.tags %}
+	        <a href="{{ site.baseurl }}tag/{{ tag }}/index.html">{{ tag }}</a>
+	        {% endfor %}
+	    </span>
+	    <hr>
+	</div>
+</div><!-- /.container -->
+{% endfor %}
+
+	

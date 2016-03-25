@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<h2 class="heading-space">Pair of Socks #2 from BaaBoo Yarn</h2>
+<h2>Pair of Socks #2 from BaaBoo Yarn</h2>
 
 {% for post in site.posts %}
 	{% if post.category == "baaboo-socks" %}
-<div class="space-above">
+<div>
 	<h3>{{ post.title }} - <small>Posted on <a href="{{ post.url }}"></a>{{ post.date | date_to_string }}</small></h3>
 </div>
 
-<div class="post">
+<div>
 	{{ post.content }}  <!-- content of the post -->
 </div>
 	
