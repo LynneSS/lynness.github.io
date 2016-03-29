@@ -1,26 +1,23 @@
 ---
 layout: default
+title: Current Projects
 ---
-
-	<div id="wrapper">
-	    <div id="list">
-			
-			{% for current in site.data.current %}
-			{% if current.category == "zoom-loom" %}
-			
-	        <div class="item">
-				<a href="{{ current.href }}">
-					<div class="thumbnail">
-						<img class="img-responsive" src="{{ current.img }}" />
-						<div class="caption">
-							<h3>{{ current.title }}</h3>
-						</div>
-					</div>
-				</a>
-			</div><!-- /.item -->
-	        
+<section class="projects">
+	<ul class="list-reset">
+		{% for project in site.data.projects %}
+		{% if project.status == "in progress" %}
+		<li>
+			<a class="left-align" href="{{ site.baseurl }}/projects/{{ project.href }}"><h3>{{ project.title }}</h3></a>
+			<img class="center-image vert-space" src="{{ site.baseurl }}/projects/{{ project.img }}" />
+			{% if project.started %}
+			<p class="right-align m0">Started: {{ project.started }}</p>
 			{% endif %}
-			{% endfor %}
-			
-	    </div><!-- /.list -->
-	</div><!-- /.wrapper -->
+			{% if project.finished %}
+			<p class="right-align">Finished: {{ project.finished }}</p>
+			{% endif %}
+		</li>
+		<hr />
+		{% endif %}
+        {% endfor %}
+    </ul>
+</section>

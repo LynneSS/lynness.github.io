@@ -1,261 +1,657 @@
--  title: "Book of Yarn"
-   img: "41x9huhkzpl_shelved.jpg"
-   type: other
-   href-rav: "sources/the-knitters-book-of-yarn"
-
 -  title: McCall's Needlework Treasury
+   author: "McCall's, various"
    img: "41y8sw6qanl_shelved.jpg"
    type: other
-   href-rav: "sources/sock-innovation-knitting-techniques--patterns-for-one-of-a-kind-socks"
+   url: "http://www.ravelry.com/patterns/sources/mccalls-needlework-treasury"
    
--  title: Stephanie Pearl-McPhee Casts Off
+-  title: "Knitters' Book of Yarn"
+   author: "Parkes, Clara"
+   img: "41x9huhkzpl_shelved.jpg"
+   type: other
+   url: "http://www.ravelry.com/patterns/sources/the-knitters-book-of-yarn"
+
+-  title: Casts Off
+   author: "Pearl-McPhee, Stephanie"
    img: "51aqzlbngwl_shelved.jpg"
    type: knitting
-   href-rav: "sources/stephanie-pearl-mcphee-casts-off-the-yarn-harlots-guide-to-the-land-of-knitting"
+   url: "http://www.ravelry.com/patterns/sources/stephanie-pearl-mcphee-casts-off-the-yarn-harlots-guide-to-the-land-of-knitting"
    
 -  title: Knitting Rules!
+   author: "Pearl-McPhee, Stephanie"
    img: "knitting-rules.jpg"
    type: knitting
-   href-rav: "sources/knitting-rules"
+   url: "http://www.ravelry.com/patterns/sources/knitting-rules"
 
 -  title: The Great American Afghan
+   author: various
    img: "51eyh--kv8l_shelved.jpg"
    type: knitting
-   href-rav: "sources/the-great-american-afghan---2007-edition"
+   url: "http://www.ravelry.com/patterns/sources/the-great-american-afghan---2007-edition"
    
 -  title: "The Great American Aran Afghan book"
+   author: various
    img: "51mfplpfrrl_shelved.jpg"
    type: knitting
-   href-rav: "sources/the-great-american-aran-afghan-book"
+   url: "http://www.ravelry.com/patterns/sources/the-great-american-aran-afghan-book"
    
 -  title: "Cables & Arans"
+   author: "Knight, Erica - editor"
    img: "51l3nbmethl_shelved.jpg"
    type: knitting
-   href-rav: "sources/the-harmony-guides-cables--arans"
+   url: "http://www.ravelry.com/patterns/sources/the-harmony-guides-cables--arans"
    
 -  title: "Mason-Dixon Knitting"
+   author: "Gardiner, Kay & Shayne, Ann"
    img: "51s60sve2cl_shelved.jpg"
    type: knitting
-   href-rav: "sources/mason-dixon-knitting"
+   url: "http://www.ravelry.com/patterns/sources/mason-dixon-knitting"
    
 -  title: Knitting Outside the Lines
+   author: "Gardiner, Kay & Shayne, Ann"
    img: "51mnijzxp8l_shelved.jpg"
    type: knitting
-   href-rav: "sources/mason-dixon-knitting-outside-the-lines"
-   
--  title: Vogue Knitting American Collection
+   url: "http://www.ravelry.com/patterns/sources/mason-dixon-knitting-outside-the-lines"
+
+-  title: American Collection
+   author: "Vogue Knitting, various"
    img: "51r0zgmej5l_shelved.jpg"
    type: knitting
-   href-rav: "sources/vogue-knitting-american-collection"
+   url: "http://www.ravelry.com/patterns/sources/vogue-knitting-american-collection"
    
 -  title: Sweaters for a Lifetime
+   author: "Spinrite and Leisure Arts, various"
    img: "51n53kd8jpl_shelved.jpg"
    type: knitting
-   href-rav: "sources/leisure-arts-3327-sweaters-for-a-lifetime"
+   url: "http://www.ravelry.com/patterns/sources/leisure-arts-3327-sweaters-for-a-lifetime"
    
 -  title: Knitting in Plain English
+   author: "Rhigetti, Maggie"
    img: "51sjlntyf7l_shelved.jpg"
    type: knitting
-   href-rav: "sources/knitting-in-plain-english"
+   url: "http://www.ravelry.com/patterns/sources/knitting-in-plain-english"
 
 -  title: Viking Patterns for Knitting
+   author: "Lavold, Elsebeth"
    img: "51ssprz131l_shelved.jpg"
    type: knitting
-   href-rav: "sources/viking-patterns-for-knitting"
+   url: "http://www.ravelry.com/patterns/sources/viking-patterns-for-knitting"
 
--  title: Vogue Knitting
+-  title: "Book Eight: The Enchanted Garden Collection"
+   img: lavold8097_shelved.jpg
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/book-eight-the-enchanted-garden-collection"
+   
+-  title: The Ultimate Knitting Book
+   author: "Vogue Knitting, various"
    img: "51t93grqrel_shelved.jpg"
    type: knitting
-   href-rav: "sources/folk-vests-25-knitting-patterns--tales-from-around-the-world"
+   url: "http://www.ravelry.com/patterns/sources/vogue-knitting-the-ultimate-knitting-book-2002"
 
 -  title: Simply Crochet
+   author: "Chachula, Robyn"
    img: "51u7tysq1yl_shelved.jpg"
    type: book
-   href-rav: "sources/simply-crochet-22-stylish-designs-for-every-day"
+   url: "http://www.ravelry.com/patterns/sources/simply-crochet-22-stylish-designs-for-every-day"
    
 -  title: A Treasury of Magical Knitting
    img: "51xnwsmmvsl_shelved.jpg"
    type: knitting
-   href-rav: "sources/a-treasury-of-magical-knitting"
+   url: "http://www.ravelry.com/patterns/sources/a-treasury-of-magical-knitting"
 
 -  title: Folk Shawls
    img: "51xt9thbiyl_shelved.jpg"
    type: knitting
-   href-rav: "sources/folk-shawls-25-knitting-patterns-and-tales-from-around-the-world"
-
--  title: "Stitch 'N Bitch"
-   img: "51ypt7yyyxl_shelved.jpg"
-   type: knitting
-   href-rav: "sources/stitch-n-bitch-the-knitters-handbook"
-   
--  title: Knitting Design
-   img: "51z9qrdkdil_shelved.jpg"
-   type: knitting
-   href-rav: "sources/teach-yourself-visually-knitting-design"
-   
--  title: The New Knitting Stitch Library
-   img: "61w2ss9ht9l_shelved.jpg"
-   type: knitting
-   href-rav: "sources/the-new-knitting-stitch-library"
-   
--  title: Spin It
-   img: "71apskektal_shelved.jpg"
-   type: spinning
-   href-rav: "sources/spin-it-making-yarn-from-scratch"
-   
--  title: The Twisted Sisters Sock Workbook
-   img: "71cp2ti1t5l_shelved.jpg"
-   type: spinning
-   href-rav: "sources/the-twisted-sisters-sock-workbook"
-   
--  title: Knitter's Stash
-   img: "513na0kb26l_shelved.jpg"
-   type: knitting
-   href-rav: "sources/knitters-stash-favorite-patterns-from-americas-yarn-shops"
-
--  title: A Fine Fleece
-   img: "517vrfccrdl_shelved.jpg"
-   type: spinning
-   href-rav: "sources/a-fine-fleece"
-   
--  title: Spin to Knit
-   img: "710y_2ber5p8l_shelved.jpg"
-   type: spinning
-   href-rav: "sources/spin-to-knit-the-knitters-guide-to-making-yarn"
-   
--  title: Tapestry Weaving
-   img: "3485.jpg"
-   type: weaving
-   
--  title: Weaving Contemporary Rag Rugs
-   img: "3599.jpg"
-   type: weaving
-   
--  title: A Handbook of Weaves
-   img: "7398.jpg"
-   type: weaving
-   
--  title: Ply Split Braiding
-   img: "10266.jpg"
-   type: weaving
-   
--  title: Tapestry Handbbook
-   img: "12858.jpg"
-   type: weaving
-   
--  title: Designer Knits
-   img: "157389009x_g_shelved.jpg"
-   type: knitting
-   href-rav: "sources/vogue-knitting-designer-knits"
-   
--  title: Sweater Design in Plain English
-   img: "books_shelved.jpg"
-   type: knitting
-   href-rav: "sources/sweater-design-in-plain-english"
-   
--  title: Designing Knitwear
-   img: "designing-knitwear-shelved-a.jpg"
-   type: knitting
-   href-rav: "sources/designing-knitwear"
-   
--  title: Spin Your Socks
-   img: "ep1601_shelved.jpg"
-   type: spinning
-   href-rav: "sources/spin-off-presents-spin-your-socks"
-   
--  title: Sock Innovation
-   img: "ep4332_shelved.jpg"
-   type: knitting
-   
--  title: Favorite Socks
-   img: "ep4341_shelved.jpg"
-   type: knitting
-   href-rav: "sources/favorite-socks-25-timeless-designs-from-interweave"
+   url: "http://www.ravelry.com/patterns/sources/folk-shawls-25-knitting-patterns-and-tales-from-around-the-world"
    
 -  title: Folk Vests
    img: "ep5071_shelved.jpg"
    type: knitting
-   href-rav: "sources/folk-vests-25-knitting-patterns--tales-from-around-the-world"
+   url: "http://www.ravelry.com/patterns/sources/folk-vests-25-knitting-patterns--tales-from-around-the-world"
    
+-  title: "Stitch 'N Bitch"
+   img: "51ypt7yyyxl_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/stitch-n-bitch-the-knitters-handbook"
+   
+-  title: Knitting Design
+   img: "51z9qrdkdil_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/teach-yourself-visually-knitting-design"
+   
+-  title: The New Knitting Stitch Library
+   img: "61w2ss9ht9l_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/the-new-knitting-stitch-library"
+   
+-  title: Spin It
+   img: "71apskektal_shelved.jpg"
+   type: spinning
+   url: "http://www.ravelry.com/patterns/sources/spin-it-making-yarn-from-scratch"
+   
+-  title: The Twisted Sisters Sock Workbook
+   img: "71cp2ti1t5l_shelved.jpg"
+   type: spinning
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/the-twisted-sisters-sock-workbook"
+      
 -  title: The Twisted Sisters Knit Sweaters
    img: "ep5523_shelved.jpg"
    type: spinning
-   href-rav: "sources/the-twisted-sisters-knit-sweaters-a-knit-to-fit-workshop"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/the-twisted-sisters-knit-sweaters-a-knit-to-fit-workshop"
+   
+-  title: Knitter's Stash
+   img: "513na0kb26l_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/knitters-stash-favorite-patterns-from-americas-yarn-shops"
+
+-  title: A Fine Fleece
+   img: "517vrfccrdl_shelved.jpg"
+   type: spinning
+   url: "http://www.ravelry.com/patterns/sources/a-fine-fleece"
+   
+-  title: Spin to Knit
+   img: "710y_2ber5p8l_shelved.jpg"
+   type: spinning
+   url: "http://www.ravelry.com/patterns/sources/spin-to-knit-the-knitters-guide-to-making-yarn"
+   
+-  title: Tapestry Weaving
+   img: "3485.jpg"
+   type: weaving
+   url: "http://www.amazon.com/Tapestry-Weaving-Search-Press-Classics/dp/1782212043/ref=sr_1_1?ie=UTF8&qid=1459039966&sr=8-1&keywords=Tapestry+Weaving"
+   
+-  title: Weaving Contemporary Rag Rugs
+   img: "3599.jpg"
+   type: weaving
+   url: "http://www.amazon.com/Weaving-Contemporary-Rag-Rugs-Traditional/dp/1887374396/ref=sr_1_1?ie=UTF8&qid=1459039998&sr=8-1&keywords=Weaving+Contemporary+Rag+Rugs"
+   
+-  title: A Handbook of Weaves
+   img: "7398.jpg"
+   type: weaving
+   url: "http://www.amazon.com/Handbook-Weaves-1875-Illustrations/dp/0486231690/ref=sr_1_1?ie=UTF8&qid=1459040030&sr=8-1&keywords=Handbook+of+Weaves"
+   
+-  title: Ply Split Braiding
+   img: "10266.jpg"
+   type: other
+   url: "http://www.amazon.com/Ply-split-Braiding-Introduction-Designs-Twining/dp/0955418704/ref=sr_1_6?ie=UTF8&qid=1459039827&sr=8-6&keywords=ply-split"
+   
+-  title: Tapestry Handbbook
+   img: "12858.jpg"
+   type: weaving
+   url: "http://www.amazon.com/Tapestry-Handbook-Generation-Schiffer-Books/dp/0764327569/ref=sr_1_1?ie=UTF8&qid=1459040076&sr=8-1&keywords=tapestry+handbook"
+   
+-  title: Designer Knits
+   img: "157389009x_g_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/vogue-knitting-designer-knits"
+   
+-  title: Sweater Design in Plain English
+   img: "books_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/sweater-design-in-plain-english"
+   
+-  title: Designing Knitwear
+   img: "designing-knitwear-shelved-a.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/designing-knitwear"
+   
+-  title: Spin Your Socks
+   img: "ep1601_shelved.jpg"
+   type: spinning
+   url: "http://www.ravelry.com/patterns/sources/http://www.ravelry.com/patterns/sources/spin-off-presents-spin-your-socks"
+   
+-  title: Sock Innovation
+   img: "ep4332_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/sock-innovation-knitting-techniques--patterns-for-one-of-a-kind-socks"
+   
+-  title: Favorite Socks
+   img: "ep4341_shelved.jpg"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/favorite-socks-25-timeless-designs-from-interweave"
    
 -  title: "450 Knitting Stitches, Volume 2"
    img: "harmony_20guide_202-450_20knitting_20stitches_shelved.jpg"
    type: knitting
-   href-rav: "sources/the-harmony-guides-450-knitting-stitches-vol-2"
+   url: "http://www.ravelry.com/patterns/sources/the-harmony-guides-450-knitting-stitches-vol-2"
    
 -  title: "Mastering Weave Structures"
    img: "masteringWeaveStructures.jpg"
-   type: knitting
+   type: weaving
+   url: "http://www.amazon.com/Mastering-Weave-Structures-Transforming-Ideas/dp/1931499322/ref=sr_1_1?ie=UTF8&qid=1459041182&sr=8-1&keywords=Mastering+Weave+Structures"
    
 -  title: "Cut My Cote"
    img: "51ozVAUlokL._SY413_BO1,204,203,200_.jpg"
    type: other
+   url: "http://www.amazon.com/Cut-My-Cote-Dorothy-Burnham/dp/0888540469/ref=sr_1_1?ie=UTF8&qid=1459040168&sr=8-1&keywords=Cut+My+Cote"
    
 -  title: "Textures and Patterns for the Rigid Heddle Loom"
    img: "61bcQJvgCvL._SX392_BO1,204,203,200_.jpg"
    type: weaving
+   url: "http://www.amazon.com/Textures-Patterns-Rigid-Heddle-Loom/dp/B001DCVCEM/ref=sr_1_1?ie=UTF8&qid=1459040197&sr=8-1&keywords=Textures+and+Patterns+for+the+Rigid+Heddle+Loom"
 
 -  title: "Finnish American Rag Rugs: Art, Tradition & Ethnic Continuity"
    img: "finnAmerRagRugs.jpg"
    type: weaving
+   url: "http://www.amazon.com/Finnish-American-Rag-Rugs-Continuity/dp/0870138642/ref=sr_1_1?ie=UTF8&qid=1459040240&sr=8-1&keywords=Finnish+American+Rag+Rugs"
    
 -  title: "Hands on Rigid Heddle Weaving"
    img: "rigid-heddle.jpg"
    type: weaving
+   url: "http://www.amazon.com/Hands-Rigid-Heddle-Weaving/dp/0934026254/ref=sr_1_1?ie=UTF8&qid=1459041045&sr=8-1&keywords=Hands+on+Rigid+Heddle+Weaving"
 
 -  title: "Classic Elite #9070, Boathouse"
    img: boathouse.jpg
-   type: book
-   href-rav: "sources/classic-elite-9070-boathouse"
-
--  title: "Book Eight: The Enchanted Garden Collection"
-   img: lavold8097_shelved.jpg
-   type: book
-   href-rav: "sources/book-eight-the-enchanted-garden-collection"
+   type: knitting
+   url: "http://www.ravelry.com/patterns/sources/classic-elite-9070-boathouse"
    
 -  title: Weaving with Wool
    img: weave-wool.jpg
-   type: book
-   href-gd: "open?id=0B3wUb_0xSQVuQW5OclFxNmRjX2c"
+   type: weaving
+   url: "http://www.interweavestore.com/best-of-handwoven-yarn-series-weaving-with-wool"
    
 -  title: "'brainless'"
    img: brainless.jpg
    type: pattern
-   href-rav: "library/brainless"
+   url: "http://www.ravelry.com/patterns/library/brainless"
    
 -  title: "Adult Clog-n-Soc"
    img: clog.jpg
    type: pattern
-   href-rav: "library/adult-clog-n-soc"
+   url: "http://www.ravelry.com/patterns/library/adult-clog-n-soc"
    
 -  title: "Albuquerque Gloves"
    img: mitts.jpg
    type: pattern
-   href-rav: "library/albuquerque-gloves"
+   url: "http://www.ravelry.com/patterns/library/albuquerque-gloves"
    
 -  title: "Amigurumi Pi Guy"
    img: pi.jpg
    type: pattern
-   href-rav: "library/amigurumi-pi-guy"
+   url: "http://www.ravelry.com/patterns/library/amigurumi-pi-guy"
    
 -  title: "Argyle Socks"
    img: argyle.jpg
    type: pattern
-   href-rav: "library/argyle-socks-11"
+   url: "http://www.ravelry.com/patterns/library/argyle-socks-11"
    
 -  title: "Aria Delicato"
    img: aria.jpg
    type: pattern
-   href-rav: "library/aria-delicato"
+   url: "http://www.ravelry.com/patterns/library/aria-delicato"
    
 -  title: "Beeline"
    img: beeline.jpg
    type: pattern
-   href-rav: "library/beeline"
+   url: "http://www.ravelry.com/patterns/library/beeline"
    
+-  type: magazine
+   title: "Handwoven Magazine, September/October 2011"
+   url: http://www.ravelry.com/patterns/sources/handwoven-magazine-september-october-2011
+
+-  type: magazine
+   title: "Interweave Knit & Spin, 2011"
+   url: http://www.ravelry.com/patterns/sources/interweave-knit--spin-2011
+
+-  type: magazine
+   title: "Interweave Knits, Fall 2008"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-fall-2008
+
+-  type: magazine
+   title: "Interweave Knits, Fall 2009"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-fall-2009
+
+-  type: magazine
+   title: "Interweave Knits, Fall 2010"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-fall-2010
+
+-  type: magazine
+   title: "Interweave Knits, Spring 2007"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-spring-2007
+
+-  type: magazine
+   title: "Interweave Knits, Spring 2008"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-spring-2008
+
+-  type: magazine
+   title: "Interweave Knits, Spring 2010"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-spring-2010
+
+-  type: magazine
+   title: "Interweave Knits, Summer 2007"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-summer-2007
+
+-  type: magazine
+   title: "Interweave Knits, Summer 2008"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-summer-2008
+
+-  type: magazine
+   title: "Interweave Knits, Summer 2009"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-summer-2009
+
+-  type: magazine
+   title: "Interweave Knits, Summer 2010"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-summer-2010
+
+-  type: magazine
+   title: "Interweave Knits, Winter 2007"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-winter-2007
+
+-  type: magazine
+   title: "Interweave Knits, Winter 2008"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-winter-2008
+
+-  type: magazine
+   title: "Interweave Knits, Winter 2009"
+   url: http://www.ravelry.com/patterns/sources/interweave-knits-winter-2009
+
+-  type: magazine
+   title: "Spin-Off,  Fall 2014"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2014
+
+-  type: magazine
+   title: "Spin-Off, Fall 2007"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2007
+
+-  type: magazine
+   title: "Spin-Off, Fall 2009"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2009
+
+-  type: magazine
+   title: "Spin-Off, Fall 2010"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2010
+
+-  type: magazine
+   title: "Spin-Off, Fall 2011"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2011
+
+-  type: magazine
+   title: "Spin-Off, Fall 2012"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2012
+
+-  type: magazine
+   title: "Spin-Off, Fall 2013"
+   url: http://www.ravelry.com/patterns/sources/spin-off-fall-2013
+
+-  type: magazine
+   title: "Spin-Off, Spring 2007"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2007
+
+-  type: magazine
+   title: "Spin-Off, Spring 2009"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2009
+
+-  type: magazine
+   title: "Spin-Off, Spring 2010"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2010
+
+-  type: magazine
+   title: "Spin-Off, Spring 2011"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2011
+
+-  type: magazine
+   title: "Spin-Off, Spring 2012"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2012
+
+-  type: magazine
+   title: "Spin-Off, Spring 2013"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2013
+
+-  type: magazine
+   title: "Spin-Off, Spring 2014"
+   url: http://www.ravelry.com/patterns/sources/spin-off-spring-2014
+
+-  type: magazine
+   title: "Spin-Off, Summer 2007"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2007
+
+-  type: magazine
+   title: "Spin-Off, Summer 2008"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2008
+
+-  type: magazine
+   title: "Spin-Off, Summer 2009"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2009
+
+-  type: magazine
+   title: "Spin-Off, Summer 2010"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2010
+
+-  type: magazine
+   title: "Spin-Off, Summer 2011"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2011
+
+-  type: magazine
+   title: "Spin-Off, Summer 2012"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2012
+
+-  type: magazine
+   title: "Spin-Off, Summer 2013"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2013
+
+-  type: magazine
+   title: "Spin-Off, Summer 2014"
+   url: http://www.ravelry.com/patterns/sources/spin-off-summer-2014
+
+-  type: magazine
+   title: "Spin-Off, Winter 2009"
+   url: http://www.ravelry.com/patterns/sources/spin-off-winter-2009
+
+-  type: magazine
+   title: "Spin-Off, Winter 2010"
+   url: http://www.ravelry.com/patterns/sources/spin-off-winter-2010
+
+-  type: magazine
+   title: "Spin-Off, Winter 2011"
+   url: http://www.ravelry.com/patterns/sources/spin-off-winter-2011
+
+-  type: magazine
+   title: "Spin-Off, Winter 2012/2013"
+   url: http://www.ravelry.com/patterns/sources/spin-off-winter-2012-2013
+
+-  type: magazine
+   title: "Spin-Off, Winter 2013/2014"
+   url: http://www.ravelry.com/patterns/sources/spin-off-winter-2013-2014
+
+-  type: pattern
+   title: LazyKaty
+   url: "http://www.ravelry.com/patterns/library/tuch---shawl-lazykaty"
    
+-  type: pattern
+   title: "Bender, Guardian of the Bum Fodder"
+   url: "http://www.ravelry.com/patterns/library/bender-guardian-of-the-bum-fodder"
+
+-  type: pattern
+   title: Bermuda Scarf
+   url: "http://www.ravelry.com/patterns/library/bermuda-scarf"
+
+-  type: pattern
+   title: Diamond Rain
+   url: "http://www.ravelry.com/patterns/library/diamond-rain"
+
+-  type: pattern
+   title: Doctor Who TARDIS Afghan
+   url: "http://www.ravelry.com/patterns/library/doctor-who-tardis-afghan"
+
+-  type: pattern
+   title: Drifting
+   url: "http://www.ravelry.com/patterns/library/drifting-2"
+
+-  type: pattern
+   title: Elegant Lacey Drape Shawl
+   url: "http://www.ravelry.com/patterns/library/elegant-lacey-drape-shawl"
+
+-  type: pattern
+   title: Ethereal Triangular Shawl
+   url: "http://www.ravelry.com/patterns/library/ethereal-3"
+
+-  type: pattern
+   title: Fish Lips Kiss Heel
+   url: "http://www.ravelry.com/patterns/library/fish-lips-kiss-heel"
+
+-  type: pattern
+   title: "Fleegles Toe Up Socks"
+   url: "http://www.ravelry.com/patterns/library/fleegles-toe-up-socks"
+
+-  type: pattern
+   title: Folklore Socks
+   url: "http://www.ravelry.com/patterns/library/folklore-socks"
+
+-  type: pattern
+   title: Hip To Be Square Blanket
+   url: "http://www.ravelry.com/patterns/library/hip-to-be-square-blanket"
+
+-  type: pattern
+   title: Hitchhiker
+   url: "http://www.ravelry.com/patterns/library/hitchhiker"
+
+-  type: pattern
+   title: Horai Scarf
+   url: "http://www.ravelry.com/patterns/library/horai-scarf"
+
+-  type: pattern
+   title: Kiss Of North
+   url: "http://www.ravelry.com/patterns/library/kiss-of-north"
+
+-  type: pattern
+   title: Marrowstone Shawl
+   url: "http://www.ravelry.com/patterns/library/marrowstone-shawl"
+
+-  type: pattern
+   title: Mini Mania Scarf
+   url: "http://www.ravelry.com/patterns/library/mini-mania-scarf"
+
+-  type: pattern
+   title: Nalu Mitts
+   url: "http://www.ravelry.com/patterns/library/nalu-mitts"
+
+-  type: pattern
+   title: Oh Deer! 
+   url: "http://www.ravelry.com/patterns/library/oh-deer-4"
+
+-  type: pattern
+   title: "Posts & Stripes Blanket PDF12-115"
+   url: "http://www.ravelry.com/patterns/library/posts--stripes-blanket-pdf12-115"
+
+-  type: pattern
+   title: Randig
+   url: "http://www.ravelry.com/patterns/library/randig"
+
+-  type: pattern
+   title: "Revontuli -huivi/Northern Lights"
+   url: "http://www.ravelry.com/patterns/library/revontuli--huivi-northern-lights"
+
+-  type: pattern
+   title: Robin Hood Bandana Cowl
+   url: "http://www.ravelry.com/patterns/library/robin-hood-bandana-cowl"
+
+-  type: pattern
+   title: Sabbatical
+   url: "http://www.ravelry.com/patterns/library/sabbatical"
+
+-  type: pattern
+   title: San Juan Socks
+   url: "http://www.ravelry.com/patterns/library/san-juan-socks"
+
+-  type: pattern
+   title: Sargassum Scarf
+   url: "http://www.ravelry.com/patterns/library/sargassum-scarf"
+
+-  type: pattern
+   title: Simple Summer Tweed Top Down V-Neck
+   url: "http://www.ravelry.com/patterns/library/simple-summer-tweed-top-down-v-neck"
+
+-  type: pattern
+   title: Spice Road Cap
+   url: "http://www.ravelry.com/patterns/library/spice-road-cap"
+
+-  type: pattern
+   title: Squishy Soft Cowl
+   url: "http://www.ravelry.com/patterns/library/squishy-soft-cowl-2"
+
+-  type: pattern
+   title: Stitch Sampler Shawl
+   url: "http://www.ravelry.com/patterns/library/stitch-sampler-shawl"
+
+-  type: pattern
+   title: swing scarf
+   url: "http://www.ravelry.com/patterns/library/swing-scarf-3"
+
+-  type: pattern
+   title: Vanilla Sock with Gusset and Choice of Reinforced Heel
+   url: "http://www.ravelry.com/patterns/library/vanilla-sock-with-gusset--choice-of-heel"
+
+-  type: pattern
+   title: Vine Yoke Cardigan
+   url: "http://www.ravelry.com/patterns/library/vine-yoke-cardigan"
+
+-  type: pattern
+   title: Wellfleet
+   url: "http://www.ravelry.com/patterns/library/wellfleet"
+
+-  type: pattern
+   title: Wildflower
+   url: "http://www.ravelry.com/patterns/library/wildflower-3"
    
+-  type: magazine
+   title: Handwoven 1993
+
+-  type: magazine
+   title: Handwoven 1999
+
+-  type: magazine
+   title: Handwoven 2001
+   
+-  type: magazine
+   title: Handwoven 2004
+   
+-  type: magazine
+   title: Handwoven 2005
+   
+-  type: magazine
+   title: Handwoven 2006
+   
+-  type: magazine
+   title: Handwoven 2007
+   
+-  type: magazine
+   title: Handwoven 2008
+   
+-  type: magazine
+   title: Handwoven 2009
+   
+-  type: magazine
+   title: Handwoven 2011
+   
+-  type: magazine
+   title: Handwoven 2012
+   
+-  type: magazine
+   title: Handwoven 2013
+   
+-  type: magazine
+   title: Handwoven 2014
+   
+-  type: magazine
+   title: Handwoven 2015
+   
+-  type: magazine
+   title: Handwoven 2016
+   
+-  type: magazine
+   title: Knit Accessories 2009
+   
+-  type: magazine
+   title: Knit and Spin 2011
+
+-  type: magazine
+   title: KnitScene 2011
+   
+-  type: magazine
+   title: Piecework 2012
+
+-  type: magazine
+   title: Quiltscene 2011
+
+-  type: magazine
+   title: Stitch 2011

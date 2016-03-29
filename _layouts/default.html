@@ -1,22 +1,75 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" />
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/craft.css" />
 
-{% include head.html %}
+    <!-- Fonts -->
+    {% if site.extended_fonts %}
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    {% else %}
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    {% endif %}
+</head>
 
-    {% include header.html %}
-	
-	<div class="banner">
-		<img style="width:100%; max-height: 57px; padding-bottom: 10px;" src="assets/loom1200.jpg" alt="" />
-	</div>
-
-    <div class="main">
-
-            {{ content }}
-
-    </div><!-- /.main -->
-
-    <script src="{{ site.baseurl }}js/jquery-1.10.2.js" type="text/javascript"></script>
-    <script src="{{ site.baseurl }}js/bootstrap.js" type="text/javascript"></script>
+<body class="site">
+	<div class="site-wrap">
+		<div class="top">
+			<a class="no-underline" href="/"><img class="banner" src="{{ site.baseurl }}/assets/loom1200.jpg" alt="A warped loom" /></a>
+		</div>
+		<header class="site-header px2 px-responsive no-bottom">
+			<div class="mt2 wrap no-top-marg">
+			    <div class="measure">
+					<nav>
+					<!--CSS will hide this checkbox while at the same time during a media query,
+					check the box to cause proper display of menu-->
+						<label for="show-menu" class="show-menu font-2 vert-hide">{{ site.title }}</label>
+						<input type="checkbox" id="show-menu" name="button">
+						<ul id="menu">
+							<li><a class="active" href="{{ site.baseurl }}/projects/projects.html">Projects</a></li>
+							<li><a href="{{ site.baseurl }}tags.html">Archive</a></li>
+					        <li><a href="{{ site.baseurl }}/library/library.html">Library</a></li>
+							<li><a href="{{ site.baseurl }}/ideas/ideas.html">Ideas</a></li>
+							<li><a href="{{ site.baseurl }}/recipes/recipes.html">Recipes</a></li>
+					    </ul>
+					</nav>
+					<div class="clearfix"></div><!-- /.cleaerfix -->
+				</div><!-- /.measure -->
+			</div><!-- /.mt2 wrap -->
+		</header>
+		<div>
+			<div class="main post p2 p-responsive wrap no-top" role="main">
+				<div class="measure">
+					
+				{{ content }}
+				
+				</div><!-- /.measure -->
+			</div><!-- /.main post p2 -->
+			<aside class="projects">
+				<ul class="mt1 list-reset">
+					{% for project in site.data.projects %}
+					{% if project.status == "in progress" %}
+					<li><a href="{{ site.baseurl }}/projects/{{ project.href }}">
+						<img class="center-image" src="{{ site.baseurl }}/projects/{{ project.img }}" />
+					</a><li>
+					<hr />
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</aside>
+		</div>
+	</div><!-- /.site-wrap -->
+	<footer class="p2">
+		<div class="measure">
+			<small>Crafted on the <a href="http://pixyll.com">Pixyll</a> theme.<br>Dropdown menu from <a href="http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/">medialoot.com</a>.</small>
+		</div><!-- /.measure -->
+	</footer>	
 </body>
-
 </html>

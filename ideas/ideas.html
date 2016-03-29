@@ -1,23 +1,18 @@
 ---
 layout: default
 ---
-	<div class="row">
-			<h2 style="text-align:center">Ideas</h2>
-		<ul><!-- component.css -->
-		
-		{% for idea in site.data.ideas %}
-			<li>
-				<div>
-					<a href="{{ idea.href }}">
-						<img src="{{ site.baseurl }}ideas/img/{{ idea.img }}" />
-						<div class="info">
-							<h3>{{ idea.title }}</h3>
-							<p>{{ idea.hover }}</p>
-						</div><!-- /.info -->
-					</a>
-				</div><!-- ih-item -->
-			</li>
-		{% endfor %}
-		
-		</ul>
-	</div><!-- row -->
+	<ul class="list-reset"
+	{% for idea in site.data.ideas %}
+		<li>
+			<div>
+				<a href="{{ idea.href }}">
+					<img class="mt1 center-image" src="{{ site.baseurl }}/ideas/img/{{ idea.img }}" />
+					<h3 class="mt1 left-align">{{ idea.title }}</h3>
+					<p class="mb3rem left-align">{{ idea.hover }}</p>
+				</a>
+			</div>
+		</li>
+	{% endfor %}
+	
+	</ul>
+</div><!-- row -->

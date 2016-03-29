@@ -1,0 +1,12 @@
+<aside class="projects">
+	<ul class="list-reset">
+		{% for project in site.data.projects %}
+		{% if project.status == "in progress" %}
+		<li><a href="{{ site.baseurl }}/projects/{{ project.href }}">
+			<img class="center-image" src="{{ site.baseurl }}/projects/{{ project.img }}" />
+		</a><li>
+		<hr />
+		{% endif %}
+        {% endfor %}
+    </ul>
+</aside>

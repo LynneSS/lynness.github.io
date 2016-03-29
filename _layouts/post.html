@@ -1,29 +1,17 @@
 ---
 layout: default
 ---
-<h2>{{ post.title }}</h2>
-{% for post in site.posts %}
-<div class="container">
-	<div class="row">
-		<div class="col-sm-8 blog-main">
-			<div class="blog-post">
-				<h2 class="blog-post-title">{{ post.heading }}</h2>
-				<p class="blog-post-meta"><span>{{ post.date | date: "%b %-d, %Y" }}</span></p>
-				
-				{{ post.content }}
-
-			</div><!-- /.blog-post -->
-		</div><!-- /.col -->
-	</div><!-- /.row -->
-
-	<div class="tags">
-	    <span>
-	        Tags: 
-	        {% for tag in post.tags %}
-	        <a href="{{ site.baseurl }}tag/{{ tag }}/index.html">{{ tag }}</a>
-	        {% endfor %}
-	    </span>
-	    <hr>
-	</div>
-</div><!-- /.container -->
-{% endfor %}
+<div class="post p2 p-responsive wrap no-top" role="main">
+	<div class="measure">
+		<div class="post-header mb2">
+			<h2>{{ page.heading }}</h2>
+			{% include post-tags.html %}
+			<span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
+		</div><!-- /.post-header -->
+		<article class="post-content">
+			
+			{{ content }}
+			
+		</article>
+	</div><!-- /.measure -->
+</div><!-- /.post p2 -->

@@ -3,35 +3,32 @@ layout: default
 title: Recipes
 ---
 
-<a style="color:#333" href="{{ site.baseurl }}recipes/tags.html"><h5>List of recipes by tag</h5></a>
-<a style="color:#333" href="{{ site.baseurl }}recipes/pressure-cooker.html"><h5>Pressure Cooker Recipes</h5></a>
-
-<h2 style="text-align:center;">{{ page.title }}</h2>
-
-<div class="row">
+<a href="{{ site.baseurl }}/recipes/tags.html"><h4 class="right-align no-top-marg">Recipes by tag</h4></a>
+<a href="{{ site.baseurl }}/recipes/pressure-cooker.html"><h4 class="right-align">Pressure Cooker</h4></a>
+<hr class="mb0 mt2" />
+<section>
     {% for recipe in site.data.recipes %}
-    <div class="col-sm-4" style="padding-bottom:15px;">
-        <a style="color:#333" href="{{ recipe.href }}">
-            <img class="img-rounded img-recipe" src="{{ site.baseurl }}recipes/img/{{ recipe.img }}" />
-            <h5>{{ recipe.title }}<br>
-				<small>({{ recipe.source }})</small></h5>
-        </a>
-        {% if recipe.tags contains "beef" %}<a href="{{ site.baseurl }}recipes/tags.html#beef">beef</a>{% endif %} 
-		{% if recipe.tags contains "bread" %}<a href="{{ site.baseurl }}recipes/tags.html#bread">bread</a>{% endif %} 
-		{% if recipe.tags contains "breakfast" %}<a href="{{ site.baseurl }}recipes/tags.html#breakfast">breakfast</a>{% endif %} 
-		{% if recipe.tags contains "candy" %}<a href="{{ site.baseurl }}recipes/tags.html#candy">candy</a>{% endif %} 
-		{% if recipe.tags contains "cookies" %}<a href="{{ site.baseurl }}recipes/tags.html#cookies">cookies</a>{% endif %} 
-		{% if recipe.tags contains "crackers" %}<a href="{{ site.baseurl }}recipes/tags.html#crackers">crackers</a>{% endif %} 
-		{% if recipe.tags contains "dessert" %}<a href="{{ site.baseurl }}recipes/tags.html#dessert">dessert</a>{% endif %} 
-		{% if recipe.tags contains "fish" %}<a href="{{ site.baseurl }}recipes/tags.html#fish">fish</a>{% endif %} 
-		{% if recipe.tags contains "lentils" %}<a href="{{ site.baseurl }}recipes/tags.html#lentils">lentils</a>{% endif %} 
-		{% if recipe.tags contains "main" %}<a href="{{ site.baseurl }}recipes/tags.html#main">main</a>{% endif %} 
-		{% if recipe.tags contains "salad" %}<a href="{{ site.baseurl }}recipes/tags.html#salad">salad</a>{% endif %} 
-		{% if recipe.tags contains "soup" %}<a href="{{ site.baseurl }}recipes/tags.html#soup">soup</a>{% endif %} 
-		{% if recipe.tags contains "xmas" %}<a href="{{ site.baseurl }}recipes/tags.html#xmas">xmas</a>{% endif %}
+    <div class="recipes">
+        <a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+            <img class="center-image" src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}" />
+		</a>
+		<h5 class="center">({{ recipe.source }})</h5>
+        
+        {% if recipe.tags contains "beef" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#beef">beef</a>{% endif %} 
+		{% if recipe.tags contains "bread" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#bread">bread</a>{% endif %} 
+		{% if recipe.tags contains "breakfast" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#breakfast">breakfast</a>{% endif %} 
+		{% if recipe.tags contains "candy" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#candy">candy</a>{% endif %} 
+		{% if recipe.tags contains "cookies" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#cookies">cookies</a>{% endif %} 
+		{% if recipe.tags contains "crackers" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#crackers">crackers</a>{% endif %} 
+		{% if recipe.tags contains "dessert" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#dessert">dessert</a>{% endif %} 
+		{% if recipe.tags contains "fish" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#fish">fish</a>{% endif %} 
+		{% if recipe.tags contains "lentils" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#lentils">lentils</a>{% endif %} 
+		{% if recipe.tags contains "main" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#main">main</a>{% endif %} 
+		{% if recipe.tags contains "salad" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#salad">salad</a>{% endif %} 
+		{% if recipe.tags contains "soup" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#soup">soup</a>{% endif %} 
+		{% if recipe.tags contains "xmas" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#xmas">xmas</a>{% endif %}
 
     </div>
-    <!-- /.col -->
     {% endfor %}
 </div>
-<!-- /.row -->

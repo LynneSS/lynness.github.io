@@ -1,9 +1,36 @@
 # Site settings
 title: Craft.
-description: Keeping track of crafty things.
-baseurl: "/"
+author: LynneSS
+description: "Keeping track of crafty things."
+baseurl: ""
 url: http://localhost:4000
-auto: true
+date_format: "%b %-d, %Y"
+meta_robots: noindex
+
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footers:    false
+
+# Social icons
+github_username:
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  post:
+    updated: 'Updated'
+    minute_read: 'minute read'
+    related_posts: 'Related Posts'
 
 # Build settings
 markdown: kramdown
+paginate: 10
+sass:
+  compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]

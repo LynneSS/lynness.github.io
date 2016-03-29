@@ -4,7 +4,8 @@
    href: "xmas-towels/xmas-towels.html"
    status: in progress
    tag: weaving gifts towels
-   excerpt: towels to be given as Christmas presents
+   started: 11/15/2015
+   finished: 3/23/2016
  
 -  title: BaaBoo Socks
    img: "baaboo-socks/img/baaboo.jpg"
@@ -12,55 +13,48 @@
    href: "baaboo-socks/baaboo-socks.html"
    status: in progress
    tag: socks knitting
-   excerpt: yarn leftover from Lee's socks
- 
+   
 -  title: "Bamboo/Tencel Scarf"
    img: "bamboo-scarf/img/bamboo.jpg"
    category: project
    href: "bamboo-scarf/bamboo-scarf.html"
    status: in progress
    tag: scarf weaving
-   excerpt: bambbo yarn that Pat bought in Chester
-
+   
 -  title: Mitre Block Afghan
    img: "mitre-afghan/img/mitre7.jpg"
    category: project
    href: "mitre-afghan/mitre-afghan.html"
    status: in progress
    tag: afghan knitting
-   excerpt: "leftovers from Grandma, Mom, & stuff that I bought"
-
+   
 -  title: "Twice-Woven Rug"
    img: "twice-woven/img/twice-woven2.jpg"
    category: project
    href: "twice-woven/twice-woven.html"
    status: in progress
    tag: weaving rug
-   excerpt: lots of handspun, mostly mystery wool
-
+   
 -  title: Zoom Loom Blanket
    img: "zoom-loom/img/zoom3.jpg"
    category: project
    href: "zoom-loom/zoom-loom.html"
    status: in progress
    tag: weaving afghan
-   excerpt: leftover sock yarn
-
+   
 -  title: "Cream/Brown BFL"
    img: "bfl/img/bfl.jpg"
    category: project
    href: "bfl/bfl.html"
    status: in progress
    tag: spinning
-   excerpt: two types of wool from Shepherd's Harvest
-
+   
 -  title: "Pewter Merino/Silk"
    img: "merino-silk/img/tussah-merino.jpg"
    category: project
    href: "merino-silk/merino-silk.html"
    status: in progress
    tag: spinning
-   excerpt: fiber from a Weaver's Guild sale
    
 -  title: Sweater Redo
    img: "sweater-redo/img/scale.jpg"
@@ -68,15 +62,13 @@
    href: "sweater-redo/sweater-redo.html"
    status: in progress
    tag: knitting sweater
-   excerpt: frogged an ugly sweater
-  
+   
 -  title: Log Cabin Afghan
    img: "log-cabin/img/4-square.jpg"
    category: project
    href: "log-cabin/log-cabin.html"
    status: in progress
    tag: knitting afghan
-   excerpt: leftovers from a gamp blanket and Dr Who scarf
    
 -  title: Laurel's Quilt
    img: "laurels-quilt/img/#.jpg"
@@ -84,4 +76,3 @@
    href: "laurels-quilt/laurels-quilt.html"
    status: in progress
    tag: sewing
-   excerpt: repairing a much-loved quilt

@@ -1,26 +1,113 @@
 ---
 layout: default
+title: Library
 ---
-<section>
-    <div></div>
+<h2 class="no-top-marg">{{ page.title }}</h2>
+<ul class="list-reset">
+	<li class="vert-space"><a class="link-reset" href="#weaving">- Weaving Books & Drafts</a></li>
+	<li class="vert-space"><a class="link-reset" href="#spinning">- Spinning Books</a></li>
+	<li class="vert-space"><a class="link-reset" href="#knitting">- Knitting Books</a></li>
+	<li class="vert-space"><a class="link-reset" href="#other">- Others Books & Stuff</a></li>
+	<li class="vert-space"><a class="link-reset" href="#mags">- Magazines</a></li>
+	<li class="vert-space"><a class="link-reset" href="#patterns">- Individual Patterns</a></li>
+</ul>
 
-    <ul>
-        {% for library in site.data.library %}
-
-        <li>
-            {% if library.href-rav %}
-            <a href="http://www.ravelry.com/patterns/{{ library.href-rav }}">
-                <span>{{ library.title }}</span>
-                <img class="img-rounded" src="{{site.baseurl }}library/img/{{ library.img }}" />
+<section class="library">
+	<h2 id="weaving">Weaving Books & Drafts</h2>
+	<ul class="list-reset">
+    {% for library in site.data.library %}
+	{% if library.type == "weaving" %}
+		<li>
+            <a href="{{ library.url }}">
+				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
             </a>
-            {% else %}
-            <a href="https://drive.google.com/{{ library.href-gd }}">
-                <span>{{ library.title }}</span>
-                <img class="img-rounded" src="{{site.baseurl }}library/img/{{ library.img }}" />
-            </a>
-            {% endif %}
         </li>
-
-        {% endfor %}
-    </ul>
+	{% endif %}
+	{% endfor %}
+	</ul>
 </section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+	<h2 id="spinning">Spinning Books</h2>
+	<ul class="list-reset">
+	{% for library in site.data.library %}
+	{% if library.type == "spinning" %}
+		<li>
+            <a href="{{ library.url }}">
+				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+	{% endif %}
+	{% endfor %}
+	</ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+	<h2 id="knitting">Knitting Books</h2>
+	<ul class="list-reset">
+	{% for library in site.data.library %}
+	{% if library.type == "knitting" %}
+		<li>
+            <a href="{{ library.url }}">
+				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+	{% endif %}
+	{% endfor %}
+	</ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+	<h2 id="other">Other Books & Stuff</h2>
+	<ul class="list-reset">
+	{% for library in site.data.library %}
+	{% if library.type == "other" %}
+		<li>
+            <a href="{{ library.url }}">
+				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+	{% endif %}
+	{% endfor %}
+	</ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section>
+	<h2 id="mags">Magazines</h2>
+	<ul class="list-reset">
+	{% for library in site.data.library %}
+	{% if library.type == "magazine" %}
+		{% if library.url %}<li class="vert-space"><a class="link-reset" href="{{ library.url }}">{{ library.title }}</a></li>
+		{% else %}<li class="dark-gray">{{ library.title }}</li>{% endif %}
+	{% endif %}
+	{% endfor %}
+	</ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+	<h2 id="patterns">Patterns</h2>
+	<ul class="list-reset">
+	{% for library in site.data.library %}
+	{% if library.type == "pattern" %}
+		{% if library.img %}<li>
+            <a href="{{ library.url }}">
+				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+		{% else %}
+		<li id="width100" class="clear"><a class="dark-gray" href="{{ library.url }}">- {{ library.title }}</li>{% endif %}
+	{% endif %}
+	{% endfor %}
+	</ul>
+</section>
+<div class="clear"></div>
