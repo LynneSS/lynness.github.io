@@ -1,3 +1,9 @@
+html {
+	max-width: 72rem;
+	display: block;
+	margin: 0 auto;
+}
+
 .site {
 	background: url(../assets/sandbag.jpg);
 }
@@ -11,11 +17,8 @@
 }
 
 
-/* --
-Drop Down Navigation
- Originally provided by:
- http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/
--- */
+/* -- Drop Down Navigation --------------------- */
+/*Originally provided by: http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/*/
 
 nav {
 	clear:both;
@@ -29,14 +32,12 @@ nav ul {
 	margin:0 auto;
 	padding:0;
 	display: none
-	
 }
 /*Create vertical spacing*/
 nav li {
 	margin-bottom: 1px;
 	background:#fff;
 }
-
 /*Style for menu links*/
 nav li a {
 	display:block;
@@ -51,18 +52,15 @@ nav li a {
 	color: #fff;
 	text-decoration: none;
 }
-
 /*Hover state for top level links*/
 nav li:hover a {
 	background: #19c589;
 }
-
 /*Make all menu links full width*/
 nav ul li, li a {
 	width: 100%;
 	text-align:center;
 }
-
 /*Style 'show menu' label button and hide it by default*/
 .show-menu {
 	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
@@ -73,12 +71,10 @@ nav ul li, li a {
 	display: block;
 	font-size; 3rem;
 }
-
 /*Hide checkbox*/
 	input[type=checkbox]{
 	    display: none;
-	}
-	
+	}	
 /*Show menu when invisible checkbox is checked
 	http://jsfiddle.net/Kqscu/4/
 	*/
@@ -87,13 +83,13 @@ input[type=checkbox]:checked  ~ #menu {
 }
 
 
-/* -- Sidebar -- */
+/* -- Sidebar --------------------- */
 aside {
 	display: none;
 }
 
 
-/* -- Tag cloud and tag archives -- */
+/* -- Tag cloud and tag archives --------------------- */
 .tag-cloud {
   list-style: none;
   padding: 0;
@@ -116,7 +112,7 @@ aside {
 }
 
 
-/* -- Library -- */
+/* -- Library --------------------- */
 .library li {
 	margin: 0 .5rem 1rem;
 	display: inline-block;
@@ -128,7 +124,7 @@ aside {
 }
 
 
-/* -- Projects -- */
+/* -- Projects --------------------- */
 .projects li a {
 	color: #444;
 }
@@ -137,7 +133,7 @@ aside {
 }
 
 
-/* -- Recipe Pages -- */
+/* -- Recipe Pages --------------------- */
 .pressure li a {
 	color: #666;
 	background-image: none;
@@ -166,7 +162,64 @@ aside {
 }
 
 
-/* -- Miscellaneous -- */
+/* -- Photo Grid ---------------------*/
+/*https://css-tricks.com/seamless-responsive-photo-grid/*/
+#photos {
+  /* Prevent vertical gaps */
+  line-height: 0;
+ 
+  column-count: 1;
+  column-gap: 6px;
+  -webkit-column-count: 1;
+  -webkit-column-gap: 6px;
+  background: #666;
+  padding: 4px 6px;
+}
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+  margin: 6px 0;
+}
+
+/*http://www.robinsonprogramming.com/tuts/?page=tutorials_html_css_$_pop_up_text*/
+a.hide-display {
+	position: relative;  /* Position is relative to the elememt that calls .hide-display */
+	z-index: 20;  /* A small number here put this element underneath. */
+	color: #000;
+	text-decoration: none;
+}
+a.hide-display:hover {
+	z-index: 30;  /* Higher z-index lets pop-up hover over the page. */
+}
+a.hide-display span.click-title {
+	display: none;  /* Tells the browser to remove the element called by these classes. */
+}
+/*Styling of the pop-up when it appears*/
+a.hide-display:hover span.click-title {
+	display: block;  /* displays when the anchor is clicked. */
+	position: absolute;
+	font-size: 18px;
+	line-height: 25px;
+	top: 5px;  /* Positions the box */
+	left: 20px;  /* Positions the box */
+	width: auto;
+	padding: 10px;
+	border: 1px solid #666;
+	background-color: #c0cedd;
+	color: #000;
+	text-align: left;
+}
+/*Styling of second text section*/
+span.click-text {
+	font-size: 16px;
+	font-weight: normal;
+	color: #444;
+	line-height: 18px;
+}
+
+
+/* -- Miscellaneous --------------------- */
 .small-font {
 	font-size: .8rem;
 }
@@ -233,6 +286,13 @@ aside {
 }
 
 
+@media screen and (min-width: 32em) {
+	#photos {
+		column-count: 2;
+		-webkit-column-count: 2;
+	}
+}
+
 
 @media screen and (min-width: 48em) {
 	.banner {
@@ -281,6 +341,10 @@ aside {
 	.recipes h5 {
 		font-size: .75rem;
 	}
+		#photos {
+		column-count: 3;
+		-webkit-column-count: 3;
+	}
 }
 
 
@@ -305,4 +369,17 @@ aside {
 	.small-font {
 		font-size: .75rem;
 	}
+		#photos {
+		column-count: 4;
+		-webkit-column-count: 4;
+	}
 }
+
+/*
+@media screen and (min-width: 64em) {
+		#photos {
+		column-count: 5;
+		-webkit-column-count: 5;
+	}
+}
+*/

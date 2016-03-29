@@ -1,0 +1,9 @@
+---
+layout: default
+Title: Ideas
+---
+<section id="photos">
+	{% for idea in site.data.ideas %}
+	<img src="{{ site.baseurl }}/ideas/img/{{ idea.img }}" />
+	{% endfor %}
+</section>

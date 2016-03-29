@@ -4,6 +4,7 @@
    hover: Mati Ventrillon Bespoke Knitwear
    tags: 
    href: "http://www.mativentrillon.co.uk"
+   id: 1
 
 -  title: A Medieval Bird
    img: "medieval-bird.jpg"
@@ -11,6 +12,7 @@
    hover: Can't find the citation.
    tags: 
    href:
+   id: 2
  
 -  title: Creative Blocks Rug
    img: "creative-blocks.jpg"

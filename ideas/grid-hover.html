@@ -1,0 +1,14 @@
+---
+layout: default
+Title: Ideas
+---
+<section id="photos">
+	{% for idea in site.data.ideas %}
+	<a class="hide-display">
+		<img src="{{ site.baseurl }}/ideas/img/{{ idea.img }}" />
+		<span class="click-title">{{ idea.title }}
+			<span class="click-text">{{ idea.hover }}</span>
+		</span>
+	</a>
+	{% endfor %}
+</section>
