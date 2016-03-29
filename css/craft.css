@@ -199,12 +199,12 @@ a.hide-display span.click-title {
 a.hide-display:hover span.click-title {
 	display: block;  /* displays when the anchor is clicked. */
 	position: absolute;
-	font-size: 18px;
-	line-height: 25px;
-	top: 5px;  /* Positions the box */
-	left: 20px;  /* Positions the box */
+	font-size: 1rem;
+	line-height: 1.67rem;
+	top: .357rem;  /* Positions the box */
+	left: 1.43rem;  /* Positions the box */
 	width: auto;
-	padding: 10px;
+	padding: .714rem;
 	border: 1px solid #666;
 	background-color: #c0cedd;
 	color: #000;
@@ -212,10 +212,10 @@ a.hide-display:hover span.click-title {
 }
 /*Styling of second text section*/
 span.click-text {
-	font-size: 16px;
+	font-size: .8rem;
 	font-weight: normal;
 	color: #444;
-	line-height: 18px;
+	line-height: 1.28rem;
 }
 
 
@@ -369,9 +369,12 @@ span.click-text {
 	.small-font {
 		font-size: .75rem;
 	}
-		#photos {
+	#photos {
 		column-count: 4;
 		-webkit-column-count: 4;
+	}
+	span.click-text {
+		font-size: .65rem;
 	}
 }
 
