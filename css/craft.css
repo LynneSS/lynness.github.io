@@ -113,11 +113,11 @@ aside {
 
 
 /* -- Index.html --------------------- */
-.home.post {
+#index-post {
 	border-bottom: none;
 }
 footer.p2 {
-	background-color: none;
+	background-color: transparent;
 	border-top: none;
 }
 
