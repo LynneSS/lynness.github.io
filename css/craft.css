@@ -189,7 +189,7 @@ footer.p2 {
   /* Just in case there are inline attributes */
   width: 100% !important;
   height: auto !important;
-  margin: 6px 0;
+  margin: 3px 0;
 }
 
 /*http://www.robinsonprogramming.com/tuts/?page=tutorials_html_css_$_pop_up_text*/
@@ -198,6 +198,7 @@ a.hide-display {
 	z-index: 20;  /* A small number here put this element underneath. */
 	color: #000;
 	text-decoration: none;
+	background-image: none;
 }
 a.hide-display:hover {
 	z-index: 30;  /* Higher z-index lets pop-up hover over the page. */
