@@ -112,6 +112,16 @@ aside {
 }
 
 
+/* -- Index.html --------------------- */
+.home.post {
+	border-bottom: none;
+}
+footer.p2 {
+	background-color: none;
+	border-top: none;
+}
+
+
 /* -- Library --------------------- */
 .library li {
 	margin: 0 .5rem 1rem;
