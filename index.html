@@ -9,7 +9,7 @@ extras: aside
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
-        <div class="post">
+        <div id="index-post" class="post">
           <p class="post-meta">{{ post.date | date: site.date_format }}</p>
 		  <a href="{{ site.baseurl }}/projects/{{ post.category }}/{{ post.category }}.html">
 			  <p class="med-grey mt0 right-align h5">{{ post.title }}</p>
