@@ -10,7 +10,7 @@ extras: aside
     <div class="posts">
       {% for post in paginator.posts %}
         <div id="index-post" class="post">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <p class="post-meta dark">{{ post.date | date: site.date_format }}</p>
 		  <a href="{{ site.baseurl }}/projects/{{ post.category }}/{{ post.category }}.html">
 			  <p class="med-grey mt0 right-align h5">{{ post.title }}</p>
 		  </a>
@@ -24,7 +24,8 @@ extras: aside
               {{ post.excerpt }}
             {% endif %}
           </p>
-        </div><!-- /.post -->
+  		  {% include post-tags.html %}
+        </div><!-- /#index-post -->
 		<hr class="mt0 mb2" />
       {% endfor %}
     </div><!-- /.posts -->
