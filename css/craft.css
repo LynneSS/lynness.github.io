@@ -342,7 +342,7 @@ span.click-text {
 		color: #fff;
 		text-align: left;
 		display: inline-block;
-		font-family: 'Asap', sans-serif;
+		font-family: 'Asap', Helvetica, sans-serif;
 		/* font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
 		 */
 	}
