@@ -67,9 +67,9 @@ nav ul li, li a {
 	text-decoration: none;
 	color: #333;
 	text-align: center;
-	padding: 10px 0;
+	padding: 10px 0 10px 20px;
 	display: block;
-	font-size: 3rem;
+	font-size: 2rem;
 }
 /*Hide checkbox*/
 	input[type=checkbox]{
@@ -343,6 +343,7 @@ span.click-text {
 		text-align: left;
 		display: inline-block;
 		font-family:'Lucida Console', Monaco, monospace;
+		float: left;
 	}
 	.p-responsive {
 		margin-top: 2rem;
