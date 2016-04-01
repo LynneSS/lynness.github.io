@@ -63,13 +63,13 @@ nav ul li, li a {
 }
 /*Style 'show menu' label button and hide it by default*/
 .show-menu {
-	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+	font-family:'Lucida Console', Monaco, monospace;
 	text-decoration: none;
 	color: #333;
 	text-align: center;
 	padding: 10px 0;
 	display: block;
-	font-size; 3rem;
+	font-size: 3rem;
 }
 /*Hide checkbox*/
 	input[type=checkbox]{
@@ -342,9 +342,7 @@ span.click-text {
 		color: #fff;
 		text-align: left;
 		display: inline-block;
-		font-family: 'Asap', Helvetica, sans-serif;
-		/* font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
-		 */
+		font-family:'Lucida Console', Monaco, monospace;
 	}
 	.p-responsive {
 		margin-top: 2rem;
