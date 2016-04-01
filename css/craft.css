@@ -342,6 +342,9 @@ span.click-text {
 		color: #fff;
 		text-align: left;
 		display: inline-block;
+		font-family: 'Asap', sans-serif;
+		/* font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+		 */
 	}
 	.p-responsive {
 		margin-top: 2rem;
