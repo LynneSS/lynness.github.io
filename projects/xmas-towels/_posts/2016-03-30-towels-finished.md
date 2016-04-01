@@ -7,8 +7,8 @@ tags: weaving gifts towels
 ravelry:
 ---
 
-![Hemming the napkins]({{ site.baseurl }}/projects/xmas-towels/img/ironing.jpg)
+![Hemming the napkins]({{ site.baseurl }}/projects/xmas-towels/img/ironing.jpg){: .center-image}
 
 The last towel +5 napkins were hemmed and washed. There is also a small towel made with bamboo weft. The bamboo makes the towel softer but less crisp in appearance.
 
-![All the napkins laid out]({{ site.baseurl }}/projects/xmas-towels/img/napkins.jpg)
+![All the napkins laid out]({{ site.baseurl }}/projects/xmas-towels/img/napkins.jpg){: .center-image}
