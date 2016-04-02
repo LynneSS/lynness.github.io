@@ -4,108 +4,169 @@ title: Library
 ---
 <h2 class="no-top-marg">{{ page.title }}</h2>
 <ul class="list-reset">
-	<li class="vert-space"><a class="link-reset" href="#weaving">- Weaving Books & Drafts</a></li>
-	<li class="vert-space"><a class="link-reset" href="#spinning">- Spinning Books</a></li>
-	<li class="vert-space"><a class="link-reset" href="#knitting">- Knitting Books</a></li>
-	<li class="vert-space"><a class="link-reset" href="#other">- Others Books & Stuff</a></li>
-	<li class="vert-space"><a class="link-reset" href="#mags">- Magazines</a></li>
-	<li class="vert-space"><a class="link-reset" href="#patterns">- Individual Patterns</a></li>
+    <li class="vert-space"><a class="link-reset" href="#weaving">- Weaving Books & Videos</a></li>
+    <li class="vert-space"><a class="link-reset" href="#spinning">- Spinning Books & Videos</a></li>
+    <li class="vert-space"><a class="link-reset" href="#knitting">- Knitting Books & Videos</a></li>
+	<li class="vert-space"><a class="link-reset" href="#sewing">- Sewing</a></li>
+    <li class="vert-space"><a class="link-reset" href="#other">- Others Books & Stuff</a></li>
+    <li class="vert-space"><a class="link-reset" href="#mags">- Magazines</a></li>
+    <li class="vert-space"><a class="link-reset" href="#patterns">- Individual Patterns</a></li>
 </ul>
 
 <section class="library">
-	<h2 id="weaving">Weaving Books & Drafts</h2>
-	<ul class="list-reset">
-    {% for library in site.data.library %}
-	{% if library.type == "weaving" %}
-		<li>
+    <h2 id="weaving">Weaving</h2>
+	<h3>Books:</h3>
+    <ul class="list-reset">
+        {% for library in site.data.library %}
+		{% if library.type == "weaving" %}
+		{% if library.media == "book" %}
+        <li>
             <a href="{{ library.url }}">
-				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
             </a>
         </li>
-	{% endif %}
-	{% endfor %}
+        {% endif %}{% endif %}
+		{% endfor %}
+	</ul>
+	<div class="clear"></div>
+        <h3>Videos:</h3>
+	<ul class="list-reset">
+		{% for library in site.data.library %}
+		{% if library.type == "weaving" %}
+		{% if library.media == "video" %}
+        <li>
+            <a href="{{ library.url }}">
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+        {% endif %}{% endif %}
+		{% endfor %}
+    </ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+    <h2 id="spinning">Spinning</h2>
+	<h3>Books:</h3>
+    <ul class="list-reset">
+        {% for library in site.data.library %}
+		{% if library.type == "spinning" %}
+		{% if library.media == "book" %}
+        <li>
+            <a href="{{ library.url }}">
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+        {% endif %}{% endif %}
+		{% endfor %}
+	</ul>
+	<div class="clear"></div>
+        <h3>Videos:</h3>
+	<ul class="list-reset">
+		{% for library in site.data.library %}
+		{% if library.type == "spinning" %}
+		{% if library.media == "video" %}
+        <li>
+            <a href="{{ library.url }}">
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+        {% endif %}{% endif %}
+		{% endfor %}
+    </ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+    <h2 id="knitting">Knitting</h2>
+	<h3>Books:</h3>
+    <ul class="list-reset">
+        {% for library in site.data.library %}
+		{% if library.type == "knitting" %}
+		{% if library.media == "book" %}
+        <li>
+            <a href="{{ library.url }}">
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+        {% endif %}{% endif %}
+		{% endfor %}
+	</ul>
+	<div class="clear"></div>
+        <h3>Videos:</h3>
+	<ul class="list-reset">
+		{% for library in site.data.library %}
+		{% if library.type == "knitting" %}
+		{% if library.media == "video" %}
+        <li>
+            <a href="{{ library.url }}">
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+        {% endif %}{% endif %}
+		{% endfor %}
+    </ul>
+</section>
+<div class="clear"></div>
+<hr />
+
+<section class="library">
+    <h2 id="sewing">Sewing</h2>
+    <ul class="list-reset">
+        {% for library in site.data.library %}
+		{% if library.type == "sewing" %}
+        <li>
+            <a href="{{ library.url }}">
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+            </a>
+        </li>
+        {% endif %}
+		{% endfor %}
 	</ul>
 </section>
 <div class="clear"></div>
 <hr />
 
 <section class="library">
-	<h2 id="spinning">Spinning Books</h2>
-	<ul class="list-reset">
-	{% for library in site.data.library %}
-	{% if library.type == "spinning" %}
-		<li>
+    <h2 id="other">Other Books & Stuff</h2>
+    <ul class="list-reset">
+        {% for library in site.data.library %} {% if library.type == "other" %}
+        <li>
             <a href="{{ library.url }}">
-				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
             </a>
         </li>
-	{% endif %}
-	{% endfor %}
-	</ul>
-</section>
-<div class="clear"></div>
-<hr />
-
-<section class="library">
-	<h2 id="knitting">Knitting Books</h2>
-	<ul class="list-reset">
-	{% for library in site.data.library %}
-	{% if library.type == "knitting" %}
-		<li>
-            <a href="{{ library.url }}">
-				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
-            </a>
-        </li>
-	{% endif %}
-	{% endfor %}
-	</ul>
-</section>
-<div class="clear"></div>
-<hr />
-
-<section class="library">
-	<h2 id="other">Other Books & Stuff</h2>
-	<ul class="list-reset">
-	{% for library in site.data.library %}
-	{% if library.type == "other" %}
-		<li>
-            <a href="{{ library.url }}">
-				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
-            </a>
-        </li>
-	{% endif %}
-	{% endfor %}
-	</ul>
+        {% endif %} {% endfor %}
+    </ul>
 </section>
 <div class="clear"></div>
 <hr />
 
 <section>
-	<h2 id="mags">Magazines</h2>
-	<ul class="list-reset">
-	{% for library in site.data.library %}
-	{% if library.type == "magazine" %}
-		{% if library.url %}<li class="vert-space"><a class="link-reset" href="{{ library.url }}">{{ library.title }}</a></li>
-		{% else %}<li class="dark-gray">{{ library.title }}</li>{% endif %}
-	{% endif %}
-	{% endfor %}
-	</ul>
+    <h2 id="mags">Magazines</h2>
+    <ul class="list-reset">
+        {% for library in site.data.library %} {% if library.type == "magazine" %} {% if library.url %}
+        <li class="vert-space"><a class="link-reset" href="{{ library.url }}">{{ library.title }}</a></li>
+        {% else %}
+        <li class="dark-gray">{{ library.title }}</li>{% endif %} {% endif %} {% endfor %}
+    </ul>
 </section>
 <div class="clear"></div>
 <hr />
 
 <section class="library">
-	<h2 id="patterns">Patterns</h2>
-	<ul class="list-reset">
-	{% for library in site.data.library %}
-	{% if library.type == "pattern" %}
-		{% if library.img %}<li>
+    <h2 id="patterns">Individual Patterns</h2>
+    <ul class="list-reset">
+        {% for library in site.data.library %} {% if library.type == "pattern" %} {% if library.img %}
+        <li>
             <a href="{{ library.url }}">
-				<img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
+                <img class="center-image" src="{{site.baseurl }}/library/img/{{ library.img }}" />
             </a>
         </li>
-		{% else %}
-		<li id="width100" class="clear"><a class="dark-gray" href="{{ library.url }}">- {{ library.title }}</li>{% endif %}
+        {% else %}
+        <li id="width100" class="clear"><a class="dark-gray" href="{{ library.url }}">- {{ library.title }}</li>{% endif %}
 	{% endif %}
 	{% endfor %}
 	</ul>
