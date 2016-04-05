@@ -1,5 +1,6 @@
 <div class="post-tags">
-  Tags: 
+  <h5>Tags: 
+	  <span>
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
@@ -8,4 +9,5 @@
   {% for tag in tags %}
   <a class="h5 med-grey" href="{{ site.baseurl }}/tags.html/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}
+</span></h5>
 </div>
