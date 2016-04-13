@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sewing Machine Pad
-heading: I made a sewing machine pad!
+heading: Sewing machine pad - woo!
 category: sewing-machine
 tags: sewing
 ravelry:
