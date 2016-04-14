@@ -5,8 +5,8 @@ heading: Silk singles
 category: silk-wool-fabric
 tags: spinning
 ---
+![Balls of silk singles]({{ site.baseurl }}/projects/silk-wool-fabric/img/silk-singles.jpg){: .center-image}
 
-Insert image
 Silk singles have been spun and weighed.
 
 - Variegated: 33 g
