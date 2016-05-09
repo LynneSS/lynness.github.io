@@ -1,12 +1,12 @@
 ---
 layout: post
 Title: Tyson Lake Yarn
-heading: Yarn details
+heading: Yarn details, Tyson Lake
 category: tyson-lake
 tags: knitting
 ravelry: 
 ---
-![Balls of silk singles]({{ site.baseurl }}/projects/tyso-lake/img/yarn1.jpg){: .center-image}
+![Ball of Tyson Lake yarn]({{ site.baseurl }}/projects/tyso-lake/img/yarn1.jpg){: .center-image}
 
 Piedmont yarns hand dyed yarn
 60% merino, 40% silk
@@ -16,7 +16,7 @@ Color: Tyson lake
 257 g remaining = 9.07 oz = 623 yd
 550/8 = 68.75 yd/g
 
-![Balls of silk singles]({{ site.baseurl }}/projects/tyso-lake/img/yarn2.jpg){: .center-image}
+![Ball of Opal yarn]({{ site.baseurl }}/projects/tyso-lake/img/yarn2.jpg){: .center-image}
 Opal yarn
 75% super wash 25% polyamide
 100 g/425 m
