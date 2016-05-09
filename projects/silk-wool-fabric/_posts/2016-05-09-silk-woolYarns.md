@@ -10,7 +10,8 @@ ravelry:
 The yarns for the silk/wool fabric.
 
 Warp:
-- Bouclé]({{ site.baseurl }}/projects/silk-wool-fabric/img/boucle.jpg){: .center-image}  
+- Purple bouclé, 31 g
+[Bouclé]({{ site.baseurl }}/projects/silk-wool-fabric/img/boucle.jpg){: .center-image}  
 - Red/coral silk, 117 g  
 ![Cora silk]({{ site.baseurl }}/projects/silk-wool-fabric/img/red-coralSilk.jpg){: .center-image}  
 - Purple silk/merino, 97 g (I may toss this one out)  
