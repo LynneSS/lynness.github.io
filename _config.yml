@@ -4,7 +4,7 @@ author: LynneSS
 description: "Keeping track of crafty things."
 baseurl: ""
 url: http://localhost:4000
-date_format: "%b %-d, %Y"
+date_format: "%-d %b %Y"
 meta_robots: noindex
 
 text:
