@@ -1,12 +1,3 @@
--  title: Christmas Present Towels
-   img: "xmas-towels/img/sampler2.jpg"
-   category: project
-   href: "xmas-towels/xmas-towels.html"
-   status: in progress
-   tag: weaving gifts towels
-   started: 11/15/2015
-   finished: 3/23/2016
- 
 -  title: BaaBoo Socks
    img: "baaboo-socks/img/baaboo.jpg"
    category: project
@@ -60,7 +51,7 @@
    img: "sweater-redo/img/scale.jpg"
    category: project
    href: "sweater-redo/sweater-redo.html"
-   status: in progress
+   status: 
    tag: knitting sweater
    
 -  title: Log Cabin Afghan
