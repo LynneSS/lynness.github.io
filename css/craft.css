@@ -356,6 +356,10 @@ span.click-text {
     margin-bottom: 1rem;
 }
 
+.vert-space-both {
+	margin-top: 1rem;
+}
+
 .link-reset {
     color: #333;
     background-image: none;
