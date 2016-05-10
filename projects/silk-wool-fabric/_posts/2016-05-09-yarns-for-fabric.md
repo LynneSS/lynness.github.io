@@ -3,7 +3,7 @@ layout: post
 Title: Silk-Wool Fabric
 heading: Yarn for the fabric
 category: silk-wool-fabric
-tags: weaving fabric
+tags: spinning fabric
 ravelry: 
 ---
 ![All yarns]({{ site.baseurl }}/projects/silk-wool-fabric/img/allYarns.jpg){: .center-image .vert-space-both}
