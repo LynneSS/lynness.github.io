@@ -2,10 +2,12 @@
 layout: default
 ---
 <div class="post-header mb2">
-	<h2>{{ page.heading }}</h2>
+	<h2>{{ post.heading }}</h2>
 	<span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
 </div><!-- /.post-header -->
-<article class="post-content">
+<article class="post-content">	
+	
+	![{{ img-alt }}]({{ site.baseurl }}/projects/{{ post.category }}/img/{{ post.img }}){: .center-image .vert-space-both}
 	
 	{{ content }}
 	

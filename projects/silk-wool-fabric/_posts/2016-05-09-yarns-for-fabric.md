@@ -4,10 +4,10 @@ Title: Silk-Wool Fabric
 heading: Yarn for the fabric
 category: silk-wool-fabric
 tags: weaving fabric
+img-alt: All yarns
+img: allYarns.jpg
 ravelry: 
 ---
-![Skeins of 2-ply]({{ site.baseurl }}/projects/silk-wool-fabric/img/allYarns.jpg){: .center-image .vert-space-both}
-
 Warp:
 
 - Purple bouclé, 31 g
