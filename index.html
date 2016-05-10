@@ -12,7 +12,7 @@ extras: aside
         <div id="index-post" class="post">
           <p class="post-meta dark">{{ post.date | date: site.date_format }}</p>
 		  <a href="{{ site.baseurl }}/projects/{{ post.category }}/{{ post.category }}.html">
-			  <p class="med-grey mt0 right-align h5">{{ page.title }}</p>
+			  <p class="med-grey mt0 right-align h5">{{ post.title }}</p>
 		  </a>
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
 			  <h2 class="post-title">{{ post.heading }}</h2>
