@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Silk-Wool Fabric
+title: Silk-Wool Fabric
 heading: Plying silk
 category: silk-wool-fabric
 tags: spinning fabric
