@@ -5,7 +5,7 @@ heading: Silk singles
 category: silk-wool-fabric
 tags: spinning
 ---
-![Balls of silk singles]({{ site.baseurl }}/projects/silk-wool-fabric/img/silkSingles.jpg){: .center-image}
+![Balls of silk singles]({{ site.baseurl }}/projects/silk-wool-fabric/img/silkSingles.jpg){: .center-image .vert-space-both}
 
 Silk singles have been spun and weighed.
 

@@ -6,7 +6,7 @@ category: xmas-towels
 tags: weaving gifts towels
 ravelry:
 ---
-![Six finished towels]({{ site.baseurl }}/projects/xmas-towels/img/towels.jpg){: .center-image }
+![Six finished towels]({{ site.baseurl }}/projects/xmas-towels/img/towels.jpg){: .center-image .vert-space-both}
 
 The first six towels were washed, hemmed, and washed again. They will go to Mom (2), Pat (2), Ron & Charlotte (1), and Rick & Pam (1).
 
