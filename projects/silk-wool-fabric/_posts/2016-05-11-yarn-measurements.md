@@ -6,7 +6,7 @@ category: silk-wool-fabric
 tags: weaving fabric
 ravelry: 
 ---
- 
+![Warp & weft calculations]({{ base.url }}/projects/silk-wool-fabric/img/plan.jpg) 
 
 - Pink & rainbow silk:   
   590/3 = **196 yd**   
@@ -30,6 +30,8 @@ ravelry:
 - Wool bouclé:   
   **200 yd**/31 g = 6.4 yd/g (**5.58 g/inch**)
   
+=> 1710.7 yd for the warp. Or 1160.7, if I double the silk noil. This is enough for a 24 x 48 inch fabric.
+  
 - Cascade:   
   584/3 = **194.7 yd**   
   194.7 yd/100 g = 1.95 yd/g (**18.5 g/inch**)
@@ -45,6 +47,7 @@ ravelry:
   * 53 g x 1.89 yd/g = 100.2 yd  
   * 57 g x 1.89 yd/g = 107.7 yd  
   * 68 g x 1.89 yd/g = 128.5 yd  
+  946.8 yd total of onion-dyed wool
 
 
 
