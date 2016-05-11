@@ -35,8 +35,16 @@ ravelry:
   194.7 yd/100 g = 1.95 yd/g (18.5 g/inch)
   
 - Onion-dyed wool:   
-  397/3 = 132.3 yd   
-  132.3 yd/70 g = 1.89 yd/g (19.0 g/inch)
+  * 397/3 = 132.3 yd  
+    132.3 yd/70 g = 1.89 yd/g (19.0 g/inch)  
+  * 66 g x 1.89 yd/g = 124.7 yd  
+  * 57 g x 1.89 yd/g = 107.7 yd  
+  * 73 g x 1.89 yd/g = 138.0 yd  
+  * 64 g x 1.89 yd/g = 121.0 yd  
+  * 59 g x 1.89 yd/g = 111.5 yd  
+  * 53 g x 1.89 yd/g = 100.2 yd  
+  * 57 g x 1.89 yd/g = 107.7 yd  
+  * 68 g x 1.89 yd/g = 128.5 yd  
 
 
 
