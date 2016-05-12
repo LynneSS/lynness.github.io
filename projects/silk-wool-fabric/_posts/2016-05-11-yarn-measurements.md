@@ -51,6 +51,7 @@ ravelry:
 
 To get a consistent fabric density, adjust epi according to the yd/g.  
 Silk noil is the finest = 9.4 yd/g.
+
 - Silk noil, **36 epi**
 - Golden silk, 6.5/9.4 * 36 = 24.8 >> **24 epi**
 - Wool bouclé, 6.4/9.4 * 36 = 24.5 >> **24 epi**
@@ -60,13 +61,15 @@ Silk noil is the finest = 9.4 yd/g.
 
 How many warp threads available/color?  
 Warp length is 1.9 yd.
+
 - Silk noil, 1100/1.9 = 578, 6x96  
 - Golden silk, 103.7/1.9 = 54, 9x6
 - Wool bouclé, 200/1.9 = 105, 20x5
 - Pink & rainbow, 196/1.9 = 103, 10x10
 - Burnt orange, 44/1.9 = 23, 3x8
 - Rainbow, 67/1.9 = 35, 4x8
-Total = 898 warp threads
+
+Total = 898 warp threads  
 
 Warp colors arranged in a random order: [Warp color order]({{ base.url }}/projects/silk-wool-fabric/random.md)
 

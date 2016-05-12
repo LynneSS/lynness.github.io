@@ -1,5 +1,13 @@
+---
+layout: post
+title: Silk-Wool Fabric
+heading: Measuring the yarn
+category: silk-wool-fabric
+tags: weaving fabric
+ravelry: 
+---
 Random order of color groups  
-Color (# of warp threads), # dents
+Color (# of warp threads), # dents  
 Silk noil at 3 threads/dent, all others at 2 threads/dent.
 
 - Silk noil (6), 2 dents
