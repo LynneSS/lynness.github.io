@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: Silk-Wool Fabric
-heading: Measuring the yarn
+heading: Color warp order
 category: silk-wool-fabric
 tags: weaving fabric
 ravelry: 
