@@ -10,19 +10,19 @@ ravelry:
 
 - Pink & rainbow silk:   
   590/3 = **196 yd**   
-  196 yd/32 g = 6.1 yd/g (**5.9 g/inch**)
+  196 yd/31 g = 6.3 yd/g (**5.7 g/inch**)
 
 - Rainbow silk:   
   201/3 = **67 yd**   
-  67 yd/14 g = 4.8 yd/g (**7.5 g/inch**)
+  67 yd/13 g = 5.2 yd/g (**7.0 g/inch**)
   
 - Golden silk:   
   311/3 = **103.7 yd**   
-  103.7 yd/15 g = 6.9 yd/g (**5.2 g/inch**)
+  103.7 yd/16 g = 6.5 yd/g (**5.6 g/inch**)
   
 - Burnt orange silk:   
   132/3 = **44 yd**   
-  44 yd/8 g = 5.5 yd/g (**6.5 g/inch**)
+  44 yd/7 g = 6.3 yd/g (**5.7 g/inch**)
   
 - Silk noil:   
   **1100 yd**/117 g = 9.4 yd/g (**3.8 g/inch**)
@@ -48,6 +48,28 @@ ravelry:
   * 57 g x 1.89 yd/g = 107.7 yd  
   * 68 g x 1.89 yd/g = 128.5 yd  
   946.8 yd total of onion-dyed wool
+
+To get a consistent fabric density, adjust epi according to the yd/g.  
+Silk noil is the finest = 9.4 yd/g.
+- Silk noil, **36 epi**
+- Golden silk, 6.5/9.4 * 36 = 24.8 >> **24 epi**
+- Wool bouclé, 6.4/9.4 * 36 = 24.5 >> **24 epi**
+- Pink & rainbow, 6.3/9.4 * 36 = 24.2 >> **24 epi**
+- Burnt orange, 6.3/9.4 * 36 = 24.1 >> **24 epi**
+- Rainbow, 5.2/9.4 * 36 = 19.7 >> **20 epi**
+
+How many warp threads available/color?  
+Warp length is 1.9 yd.
+- Silk noil, 1100/1.9 = 578, 6x96  
+- Golden silk, 103.7/1.9 = 54, 9x6
+- Wool bouclé, 200/1.9 = 105, 20x5
+- Pink & rainbow, 196/1.9 = 103, 10x10
+- Burnt orange, 44/1.9 = 23, 3x8
+- Rainbow, 67/1.9 = 35, 4x8
+Total = 898 warp threads
+
+Warp colors arranged in a random order: [Warp color order]({{ base.url }}/projects/silk-wool-fabric/random.md)
+
 
 
 
