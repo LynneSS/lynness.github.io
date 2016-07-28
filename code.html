@@ -14,6 +14,111 @@ Elements can be assigned attributes using this syntax at the end of the line:
 
 <code>{#identifier .class .class key=value key=value}</code>
 
-Thus, for example, the following headings will all be assigned the identifier foo:
+For example, the following heading will be assigned the identifier foo:
 
 <code># My heading {#foo}</code>
+
+- - -
+Markdown:
+Blank line beteen paragraphs.
+Two spaces or \\ for a line break.
+# H1 header
+
+> Blockquote
+> Still start of the same blockquote
+> Can include line breaks, nested quotes, headings, etc
+As long as there's no blank line, the quote will continue.
+
+Preformatted code,
+    Indent by 4 spaces.
+	    Continue to indent by adding 4 more spaces.
+		
+Inline code,
+	Use `backticks` to convert the `text` in kramdown syntax to HTML.
+	Processes as,
+		<p>Use <code>backticks</code> to convert the <code>text</code> in kramdown syntax to HTML.</p>
+
+Horizontal line, - - -
+
+1. Ordered list
+* Unordered list
+Must have a blank line before a list.
+
+Definition Lists
+term
+: definition
+: another definition
+
+html can be included, but markdown will not be processed within the html code.
+
+Block attributes
+To assign attributes,
+    > A nice blockquote
+	{: title="Blockquote title"}
+	
+	This processes to,
+	<blockquote title="Blockquote title">
+	  <p>A nice blockquote</p>
+	</blockquote>
+
+To add css classes & id's,
+	Block-level
+		> A nice blockquote
+		{: .class1 #with-an-id}
+		
+		Processes to,
+		
+	Span-level
+		This is <span style="color: red">written in red</span>.
+		
+		Processes to,
+		<p>This is <span style="color: red">written in red</span>.</p>
+		
+		or,
+		This is *red*{: style="color: red"}.
+		Processes to,
+		<p>This is <em style="color: red">red</em>.</p>
+	
+Surround comments with,
+	{::comment}
+	
+*Italics*
+**Bold**
+
+Link w/title
+	A [link](http://kramdown.gettalong.org "hp") to the homepage.
+	
+	Processes to,
+	<p>A <a href="http://kramdown.gettalong.org" title="hp">link</a> to the homepage.</p>
+	
+	or,
+	A [link][kramdown hp] to the homepage.
+
+		[kramdown hp]: http://kramdown.gettalong.org "hp"
+		
+Img
+	An image: ![gras](img/image.jpg)
+	
+	Processes to,
+	<p>An image: <img src="img/image.jpg" alt="gras" /></p>
+	
+Footnotes	
+	This is a text with a footnote[^1].
+	
+	[^1]: And here is the definition.
+	
+	Processes to,
+	<p>This is a text with a footnote<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+
+	<div class="footnotes">
+		<ol>
+			<li id="fn:1">
+				<p>And here is the definition. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+			</li>
+		</ol>
+	</div>
+
+	
+	
+
+	
