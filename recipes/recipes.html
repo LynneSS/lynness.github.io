@@ -1,34 +1,212 @@
 ---
 layout: default
-title: Recipes
+title: Recipes by tag
 ---
-
-<a href="{{ site.baseurl }}/recipes/tags.html"><h4 class="right-align no-top-marg">Recipes by tag</h4></a>
-<a href="{{ site.baseurl }}/recipes/pressure-cooker.html"><h4 class="right-align">Pressure Cooker</h4></a>
-<hr class="mb0 mt2" />
-<section>
-    {% for recipe in site.data.recipes %}
-    <div class="recipes">
-        <a href="{{ recipe.href }}">
-			<h3>{{ recipe.title }}</h3>
-            <img class="center-image" src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}" />
-		</a>
-		<h5 class="center">({{ recipe.source }})</h5>
-        
-        {% if recipe.tags contains "beef" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#beef">beef</a>{% endif %} 
-		{% if recipe.tags contains "bread" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#bread">bread</a>{% endif %} 
-		{% if recipe.tags contains "breakfast" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#breakfast">breakfast</a>{% endif %} 
-		{% if recipe.tags contains "candy" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#candy">candy</a>{% endif %} 
-		{% if recipe.tags contains "cookies" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#cookies">cookies</a>{% endif %} 
-		{% if recipe.tags contains "crackers" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#crackers">crackers</a>{% endif %} 
-		{% if recipe.tags contains "dessert" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#dessert">dessert</a>{% endif %} 
-		{% if recipe.tags contains "fish" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#fish">fish</a>{% endif %} 
-		{% if recipe.tags contains "lentils" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#lentils">lentils</a>{% endif %} 
-		{% if recipe.tags contains "main" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#main">main</a>{% endif %} 
-		{% if recipe.tags contains "salad" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#salad">salad</a>{% endif %} 
-		{% if recipe.tags contains "soup" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#soup">soup</a>{% endif %} 
-		{% if recipe.tags contains "xmas" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#xmas">xmas</a>{% endif %}
-
-    </div>
-    {% endfor %}
+<div>
+	<h3 class="spread" id="beef">Beef:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'beef' %}
+	    <li>
+	    <a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+	        <img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}" />
+	        </a></li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="bread">Breads:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'bread' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="breakfast">Breakfast:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'breakfast' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="candy">Candy:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'candy' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="cookies">Cookies:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'cookies' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="crackers">Crackers:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'crackers' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="soup">Dairy:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'dairy' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="dessert">Desserts:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'dessert' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="soup">Eggs:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'eggs' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="fish">Fish:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'fish' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="lentils">Lentils:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'lentils' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="main">Main:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'main' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="salad">Salad:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'salad' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="soup">Soup:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'soup' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="soup">Vegetables:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'vegetable' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<hr class="small-hr"/>
+	
+	<h3 class="spread" id="christmas">Christmas:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'xmas' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h4>{{ recipe.title }} {% if recipe.tags contains 'pressure' %}<span style="color:#ff0000;"> P</span>{% endif %}</h4>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
 </div>
