@@ -70,7 +70,7 @@
    
 -  title: Laurel's Quilt
    img: "laurels-quilt/img/#.jpg"
-   category: projects
+   category: project
    href: "laurels-quilt/laurels-quilt.html"
    status: in progress
    tag: sewing
@@ -83,3 +83,12 @@
    tag: weaving gifts towels
    started: 11/15/2015
    finished: 3/23/2016
+
+-  title: Sample Towel
+   img: ""
+   category: project
+   href: "towel-sample/towel-sample.html"
+   status: in progress
+   tag: weaving towels
+   started: 08/2/2016
+   
