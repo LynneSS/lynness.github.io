@@ -4,7 +4,7 @@ layout: default
 <h2 class="center">Zoom-Loom Afghan</h2>
 
 {% for post in site.posts %}
-{% if post.project == "Zoom loom afghan" %}
+{% if post.category == "zoom-loom" %}
 <div class="space-above">
 	<h3>{{ post.title }} - <small>Posted on <a href="{{ post.url }}">{{ post.date | date_to_string }}</a></small></h3>
 </div>
