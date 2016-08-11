@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h2 class="center">Sewing Machine Pad</h2><!-- margin-top:5px; margin-bottom:20px; text-align:center; in craft.css -->
+
+{% for post in site.posts %}
+{% if post.project == "Sewing machine pad" %}
+<div class="space-above">
+	<h3>{{ post.heading }} - <small>Posted on <a href="{{ post.url }}">{{ post.date | date_to_string }}</a></small></h3>
+</div>
+
+<div class="post">
+	{{ post.content }}  <!-- content of the post -->
+</div>
+<hr>
+{% endif %}
+{% endfor %}
