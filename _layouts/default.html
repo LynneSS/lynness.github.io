@@ -37,7 +37,7 @@
 						<label for="show-menu" class="show-menu vert-hide">{{ site.title }}</label>
 						<input type="checkbox" id="show-menu" name="button">
 						<ul id="menu">
-							<li><a class="active" href="{{ site.baseurl }}/projects.html">Projects</a></li>
+							<li><a class="active" href="{{ site.baseurl }}/projects/projects.html">Projects</a></li>
 							<li><a href="{{ site.baseurl }}/tags.html">Archive</a></li>
 					        <li><a href="{{ site.baseurl }}/library/library.html">Library</a></li>
 							<li><a href="{{ site.baseurl }}/ideas/grid-hover.html">Ideas</a></li>
@@ -67,7 +67,7 @@
 					{% for project in site.data.projects %}
 					{% if project.status == "in progress" %}
 					<li><a href="{{ site.baseurl }}/projects/{{ project.href }}">
-						<img class="center-image" src="{{ site.baseurl }}/assets/img/{{ project.img }}" />
+						<img class="center-image" src="{{ site.baseurl }}/projects/{{ project.img }}" />
 					</a><li>
 					<hr />
 					{% endif %}
