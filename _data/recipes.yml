@@ -132,3 +132,28 @@
    - cookies
    - dessert
    - xmas
+
+-  title: Artichokes
+   img: artichoke.jpg
+   href: "http://www.hippressurecooking.com/steamed-artichokes-a-pressure-cooker-classic/"
+   tags:
+   - vegetable
+   - pressure
+   
+-  title: Yogurt
+   href: "http://www.hippressurecooking.com/video-how-to-make-yogurt-in-instant-pot-duo/"
+   tags:
+   - dairy
+   - pressure
+   
+-  title: Hard-Boiled Eggs
+   href: "http://www.pressurecookingtoday.com/pressure-cooker-hard-boiled-eggs/"
+   tags:
+   - eggs
+   - pressure
+   
+-  title: Heating Up Ham Slices
+   href: "http://www.pressurecookingtoday.com/heating-ham-slices-in-the-pressure-cooker/"
+   tags:
+   - main
+   - pressure
