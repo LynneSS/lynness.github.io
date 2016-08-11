@@ -5,7 +5,7 @@ title: Tags
 <h2>Projects</h2>
 <ul>
 	{% for project in site.data.projects %}
-	<li><a class="no-dec" href="{{ site.baseurl }}/projects/{{ project.href }}">{{ project.project }}</a> - {{ project.status }}
+	<li><a class="no-dec" href="{{ site.baseurl }}/projects/{{ project.href }}">{{ project.title }}</a> - {{ project.status }}
 	{% endfor %}
 </ul>
 <hr>
@@ -27,7 +27,7 @@ title: Tags
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>-<small>{{ post.project }}</small><p>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.heading }}</a>-<small>{{ post.title }}</small></h4>
     </article>
     {% endfor %}
   </div>
