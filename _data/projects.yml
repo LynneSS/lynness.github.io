@@ -1,11 +1,11 @@
--  project: Silk-wool fabric
+-  project: "Silk-wool fabric"
    img: "allYarnsSq.jpg"
    folder: silk-wool-fabric
    href: "silk-wool-fabric.html"
    status: on hold
    tag: spinning 
 
--  project: BaaBoo socks
+-  project: "BaaBoo socks"
    img: "baaboo.jpg"
    folder: baaboo-socks
    href: "baaboo-socks.html"
@@ -19,7 +19,7 @@
    status: in progress
    tag: scarf weaving
    
--  project: Mitre block afghan
+-  project: "Mitre block afghan"
    img: "mitre7.jpg"
    folder: mitre-afghan
    href: "mitre-afghan.html"
@@ -33,7 +33,7 @@
    status: in progress
    tag: weaving rug
    
--  project: Zoom loom blanket
+-  project: "Zoom loom blanket"
    img: "zoom3.jpg"
    folder: zoom-loom
    href: "zoom-loom.html"
@@ -54,28 +54,28 @@
    status: in progress
    tag: spinning
    
--  project: Sweater redo
+-  project: "Sweater redo"
    img: "scale.jpg"
    folder: sweater-redo
    href: "sweater-redo.html"
    status: frogged
    tag: knitting sweater
    
--  project: Log cabin afghan
+-  project: "Log cabin afghan"
    img: "4-square.jpg"
    folder: log-cabin
    href: "log-cabin.html"
    status: in progress
    tag: knitting afghan
    
--  project: Laurel's quilt
+-  project: "Laurel's quilt"
    img: "#.jpg"
    folder: laurels-quilt
    href: "laurels-quilt.html"
    status: in progress
    tag: sewing
 
--  project: Christmas present towels
+-  project: "Christmas present towels"
    img: "sampler2.jpg"
    folder: xmas-towels
    href: "xmas-towels.html"
@@ -84,7 +84,7 @@
    started: 11/15/2015
    finished: 3/23/2016
 
--  project: Supplementary warp towels
+-  project: "Supplementary warp towels"
    img: "suppl-warp2.jpg"
    folder: suppl-warp
    href: "suppl-warp.html"

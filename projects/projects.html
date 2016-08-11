@@ -7,8 +7,9 @@ title: Current Projects
 		{% for project in site.data.projects %}
 		{% if project.status == "in progress" %}
 		<li>
-			<a class="left-align" href="{{ site.baseurl }}/projects/{{ project.href }}"><h3>{{ project.title }}</h3></a>
-			<img class="center-image vert-space" src="{{ site.baseurl }}/projects/{{ project.img }}" />
+			<a class="left-align" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}"><h3>{{ project.title }}</h3>
+				<img class="center-image vert-space" src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+			</a>
 			{% if project.started %}
 			<p class="right-align m0">Started: {{ project.started }}</p>
 			{% endif %}
