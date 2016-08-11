@@ -66,8 +66,8 @@
 				<ul class="mt1 list-reset">
 					{% for project in site.data.projects %}
 					{% if project.status == "in progress" %}
-					<li><a href="{{ site.baseurl }}/projects/{{ project.href }}">
-						<img class="center-image" src="{{ site.baseurl }}/projects/{{ project.img }}" />
+					<li><a href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
+						<img class="center-image" src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
 					</a><li>
 					<hr />
 					{% endif %}
