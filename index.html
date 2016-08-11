@@ -1,24 +1,35 @@
 ---
 layout: default
+title: Home
+extras: aside
 ---
+{% assign posts_count = (paginator.posts | size) %}
+
 <div class="home">
-	<div class="posts">
-		{% for post in site.posts %}
-		<div id="index-post" class="post">
-			<span class="post-meta dark">{{ post.date | date: "%-d %B %Y" }}</span><br />
-			<a style="float:right;" href="{{ post.project }}.html">{{ post.project }}</a><br />
-			<h2 class="post-title">
-				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			</h2>
-			<p class="post-summary">
-			{% if post.summary %}
-				{{ post.summary }}
-			{% else %}
-				{{ post.excerpt }}
-			{% endif %}
-			</p>
-		</div><!-- /#index-post -->
+  {% if posts_count > 0 %}
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <div id="index-post" class="post">
+          <p class="post-meta dark">{{ post.date | date: site.date_format }}</p>
+		  <a href="{{ site.baseurl }}/projects/{{ post.category }}/{{ post.category }}.html">
+			  <p class="med-grey mt0 right-align h5">{{ post.title }}</p>
+		  </a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+			  <h2 class="post-title">{{ post.heading }}</h2>
+		  </a>
+          <p class="post-summary">
+            {% if post.summary %}
+              {{ post.summary }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </p>
+  		  {% include post-tags.html %}
+        </div><!-- /#index-post -->
 		<hr class="mt0 mb2" />
-		{% endfor %}
-	</div><!-- /.posts -->
+      {% endfor %}
+    </div><!-- /.posts -->
+
+    {% include pagination.html %}
+  {% endif %}
 </div><!-- /.home -->
