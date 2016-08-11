@@ -370,10 +370,6 @@ span.click-text {
     margin-bottom: 3rem;
 }
 
-.no-dec {
-	text-decoration: none;
-}
-
 @media screen and (min-width: 32em) {
     #photos {
         column-count: 2;
