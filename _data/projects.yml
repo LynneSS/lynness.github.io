@@ -1,85 +1,93 @@
--  title: Silk-Wool Fabric
-   img: "silk-wool-fabric/img/allYarnsSq.jpg"
+-  project: Silk-wool fabric
+   img: "allYarnsSq.jpg"
    category: project
-   href: "silk-wool-fabric/silk-wool-fabric.html"
-   status: in progress
+   href: "silk-wool-fabric.html"
+   status: on hold
    tag: spinning 
 
--  title: BaaBoo Socks
-   img: "baaboo-socks/img/baaboo.jpg"
+-  project: BaaBoo socks
+   img: "baaboo.jpg"
    category: project
-   href: "baaboo-socks/baaboo-socks.html"
+   href: "baaboo-socks.html"
    status: in progress
    tag: socks knitting
    
--  title: "Bamboo/Tencel Scarf"
-   img: "bamboo-scarf/img/bamboo.jpg"
+-  project: "Bamboo/tencel scarf"
+   img: "bamboo.jpg"
    category: project
-   href: "bamboo-scarf/bamboo-scarf.html"
+   href: "bamboo-scarf.html"
    status: in progress
    tag: scarf weaving
    
--  title: Mitre Block Afghan
-   img: "mitre-afghan/img/mitre7.jpg"
+-  project: Mitre block afghan
+   img: "mitre7.jpg"
    category: project
-   href: "mitre-afghan/mitre-afghan.html"
+   href: "mitre-afghan.html"
    status: in progress
    tag: afghan knitting
    
--  title: "Twice-Woven Rug"
-   img: "twice-woven/img/twice-woven2.jpg"
+-  project: "Twice-woven rug"
+   img: "twice-woven2.jpg"
    category: project
-   href: "twice-woven/twice-woven.html"
+   href: "twice-woven.html"
    status: in progress
    tag: weaving rug
    
--  title: Zoom Loom Blanket
-   img: "zoom-loom/img/zoom3.jpg"
+-  project: Zoom loom blanket
+   img: "zoom3.jpg"
    category: project
-   href: "zoom-loom/zoom-loom.html"
+   href: "zoom-loom.html"
    status: in progress
    tag: weaving afghan
    
--  title: "Cream/Brown BFL"
-   img: "bfl/img/bfl.jpg"
+-  project: "Cream/brown BFL"
+   img: "bfl.jpg"
    category: project
-   href: "bfl/bfl.html"
+   href: "bfl.html"
    status: in progress
    tag: spinning
    
--  title: "Pewter Merino/Silk"
-   img: "merino-silk/img/tussah-merino.jpg"
+-  project: "Pewter merino/silk"
+   img: "#"
    category: project
-   href: "merino-silk/merino-silk.html"
+   href: "merino-silk.html"
    status: in progress
    tag: spinning
    
--  title: Sweater Redo
-   img: "sweater-redo/img/scale.jpg"
+-  project: Sweater redo
+   img: "scale.jpg"
    category: project
-   href: "sweater-redo/sweater-redo.html"
-   status: 
+   href: "sweater-redo.html"
+   status: frogged
    tag: knitting sweater
    
--  title: Log Cabin Afghan
-   img: "log-cabin/img/4-square.jpg"
+-  project: Log cabin afghan
+   img: "4-square.jpg"
    category: project
-   href: "log-cabin/log-cabin.html"
+   href: "log-cabin.html"
    status: in progress
    tag: knitting afghan
    
--  title: Laurel's Quilt
-   img: "laurels-quilt/img/#.jpg"
-   category: projects
-   href: "laurels-quilt/laurels-quilt.html"
+-  project: Laurel's quilt
+   img: "#.jpg"
+   category: project
+   href: "laurels-quilt.html"
    status: in progress
    tag: sewing
 
--  title: Christmas Present Towels
-   img: "xmas-towels/img/sampler2.jpg"
+-  project: Christmas present towels
+   img: "sampler2.jpg"
    category: project
-   href: "xmas-towels/xmas-towels.html"
+   href: "xmas-towels.html"
    status: finished
    tag: weaving gifts towels
    started: 11/15/2015
    finished: 3/23/2016
+
+-  project: Supplementary warp towels
+   img: "suppl-warp2.jpg"
+   category: project
+   href: "suppl-warp.html"
+   status: in progress
+   tag: weaving towels
+   started: 08/2/2016
