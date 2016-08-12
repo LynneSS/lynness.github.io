@@ -1,0 +1,17 @@
+---
+layout: post
+title: 
+heading: 
+category: 
+tags: 
+ravelry:
+---
+Sleyed the reed at 20 epi.
+
+![Warp test 1]({{ site.baseurl }}/projects/suppl-warp-fabric/suppl-warp1.jpg)
+
+The plain weave section is sticking out too much. Need to re-sley at 25 epi for the twill sections and leave at 20 epi for the plain weave.
+
+![Warp test 1]({{ site.baseurl }}/projects/suppl-warp-fabric/suppl-warp2.jpg)
+
+Much better.
