@@ -6,7 +6,7 @@ category: suppl-warp-towels
 tags: weaving towels gifts
 ravelry:
 ---
-![Six finished towels]({{ site.baseurl }}/projects/suppl-warp-towels/img/store-bought.jpg)
+![Six finished towels]({{ site.baseurl }}/projects/suppl-warp-towels/img/store-bought.jpg){: .center-image}
 
 Set of 3 towels in bamboo. Like the pattern, hate the towel.
 
