@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 
-heading: 
-category: 
-tags: 
+title: Supplementary-warp towels
+heading: Getting the epi right
+category: suppl-warp-towels
+tags: weaving towels gifts
 ravelry:
 ---
 Sleyed the reed at 20 epi.
