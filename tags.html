@@ -2,15 +2,8 @@
 layout: default
 title: Tags
 ---
-<h2>Projects</h2>
-<ul>
-	{% for project in site.data.projects %}
-	<li>
-		<a class="no-dec" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">{{ project.project }}</a> - {{ project.status }}
-	</li>
-	{% endfor %}
-</ul>
-<hr>
+<h2>Tags</h2>
+
 <ul class="tag-cloud">
 {% for tag in site.tags %}
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
