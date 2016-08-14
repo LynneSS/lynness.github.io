@@ -143,6 +143,20 @@ title: Recipes by tag
 	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
 	<hr class="small-hr"/>
 	
+	<h3 class="spread" id="main">Main:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'pressure' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+	
 	<h3 class="spread" id="salad">Salad:</h3>
 	<ul class="list-reset recipe-tags mb0">
 		{% for recipe in site.data.recipes %}{% if recipe.tags contains 'salad' %}
