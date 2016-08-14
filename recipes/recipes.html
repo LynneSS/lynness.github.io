@@ -4,7 +4,6 @@ title: Recipes
 ---
 
 <a href="{{ site.baseurl }}/recipes/tags.html"><h4 class="right-align no-top-marg">Recipes by tag</h4></a>
-<a href="{{ site.baseurl }}/recipes/pressure-cooker.html"><h4 class="right-align">Pressure Cooker</h4></a>
 <hr class="mb0 mt2" />
 <section>
     {% for recipe in site.data.recipes %}
@@ -25,6 +24,7 @@ title: Recipes
 		{% if recipe.tags contains "fish" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#fish">fish</a>{% endif %} 
 		{% if recipe.tags contains "lentils" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#lentils">lentils</a>{% endif %} 
 		{% if recipe.tags contains "main" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#main">main</a>{% endif %} 
+		{% if recipe.tags contains "pressure" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#pressure">main</a>{% endif %} 
 		{% if recipe.tags contains "salad" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#salad">salad</a>{% endif %} 
 		{% if recipe.tags contains "soup" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#soup">soup</a>{% endif %} 
 		{% if recipe.tags contains "xmas" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#xmas">xmas</a>{% endif %}
