@@ -136,24 +136,38 @@
 -  title: Artichokes
    img: artichoke.jpg
    href: "http://www.hippressurecooking.com/steamed-artichokes-a-pressure-cooker-classic/"
+   source: Hip Pressure Cooking
    tags:
    - vegetable
    - pressure
    
 -  title: Yogurt
+   img: yogurt.jpg
    href: "http://www.hippressurecooking.com/video-how-to-make-yogurt-in-instant-pot-duo/"
+   source: Hip Pressure Cooking
    tags:
    - dairy
    - pressure
    
 -  title: Hard-Boiled Eggs
+   img: hard-boiled-eggs.jpg
    href: "http://www.pressurecookingtoday.com/pressure-cooker-hard-boiled-eggs/"
+   source: Pressure Cooking Today
    tags:
    - eggs
    - pressure
    
 -  title: Heating Up Ham Slices
+   img: ham.jpg
    href: "http://www.pressurecookingtoday.com/heating-ham-slices-in-the-pressure-cooker/"
+   source: Pressure Cooking Today
    tags:
    - main
+   - pressure
+
+-  title: Applesauce
+   img: applesauce.jpg
+   href: "http://www.pressurecookingtoday.com/pressure-cooker-applesauce/"
+   source: Pressure Cooking Today
+   tags:
    - pressure
