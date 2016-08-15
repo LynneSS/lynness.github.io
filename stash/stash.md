@@ -31,7 +31,7 @@ layout: default
 
 
 ## Cotton warp
-![]({{ sitebase.url }}/stash/img/{{ cotton-rug.jpg }})
+![]({{ sitebase.url }}/stash/img/cotton-rug.jpg)
 
 |Color | Cones | Yards |  
 |---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "cotton-rug" %}
