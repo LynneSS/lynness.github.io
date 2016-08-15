@@ -4,13 +4,13 @@
   amount:
   yards:
 
-  - img: 
+- img: 
   tag: unmercerized
   color: Copenhagen blue (Spectrum)
   amount:
   yards:
 
-  - img: 
+- img: 
   tag: unmercerized
   color: Emeraude
   amount:
@@ -112,13 +112,13 @@
   amount:
   yards: 
     
-- img: 
+- img: california-gold.jpg
   tag: perle5/2
   color: California gold
   amount:
   yards:
 
-- img: 
+- img: daffodil.jpg
   tag: perle5/2
   color: Daffodil
   amount:
@@ -130,55 +130,55 @@
   amount:
   yards:
 
-- img: 
+- img: fuchsia.jpg
   tag: perle5/2
   color: Fuchsia
   amount:
   yards:
 
-- img: 
+- img: king-blue.jpg
   tag: perle5/2
   color: King blue
   amount:
   yards:
 
-- img: 
+- img: lipstick.jpg
   tag: perle5/2
   color: Lipstick
   amount:
   yards:
 
-- img: 
+- img: magenta.jpg
   tag: perle5/2
   color: Magenta
   amount:
   yards:
 
-- img: 
+- img: natural.jpg
   tag: perle5/2
   color: Natural
   amount:
   yards:
 
-- img: 
+- img: paradise.jpg
   tag: perle5/2
   color: Paradise
   amount:
   yards:
   
-- img: 
+- img: peacock.jpg
   tag: perle5/2
   color: Peacock
   amount:
   yards:
 
-- img: 
+- img: persian-green.jpg
   tag: perle5/2
   color: Persian green
   amount:
   yards:
 
-- img: 
+- img: purple-passion.jpg
   tag: perle5/2
   color: Purple passion
   amount:
@@ -190,7 +190,7 @@
   amount:
   yards:
 
-- img: 
+- img: scarab.jpg
   tag: perle5/2
   color: Scarab
   amount:
@@ -208,7 +208,7 @@
   amount:
   yards:
 
-- img: 
+- img: cotton-rug.jpg
   tag: cotton-rug
   color: Blue, dark
   amount: "8.78 oz/1 cone"
