@@ -33,7 +33,7 @@ layout: default
 ## Cotton warp
 
 | Color | Cones | Yards |  
-|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "cotton-warp" %}
+|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "cotton-rug" %}
 | {{ yarn.color }} | {{yarn.cones}} | {{ yarn.yards }} |{% endif %}{% endfor %}
 
 
