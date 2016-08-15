@@ -97,7 +97,6 @@
 - img: 
   tag: unmercerized
   color: Vieux bleu
-<<<<<<< Updated upstream
   amount/cones:
   yards: 
 
@@ -304,7 +303,3 @@
   color: Navy
   amount/cones:
   yards:
-=======
-  amount:
-  yards: 
->>>>>>> Stashed changes
