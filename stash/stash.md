@@ -31,10 +31,11 @@ layout: default
 
 
 ## Cotton warp
+![]({{ sitebase.url }}/stash/img/{{ yarn.img }})
 
-|---|Color | Cones | Yards |  
-|---|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "rug-cotton" %}
-| ![]({{ sitebase.url }}/stash/img/{{ yarn.img }}) | {{ yarn.color }} | {{yarn.amount}} | {{ yarn.yards }} |{% endif %}{% endfor %}
+|Color | Cones | Yards |  
+|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "cotton-rug" %}
+| {{ yarn.color }} | {{yarn.amount}} | {{ yarn.yards }} |{% endif %}{% endfor %}
 
 
 ## 20/2 cottolin
