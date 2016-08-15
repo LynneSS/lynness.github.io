@@ -257,31 +257,31 @@
   yards:
 
 - img: 
-  tag: Bamboo8/2
+  tag: bamboo8/2
   color: Blue moyen
   amount/cones:
   yards:
 
 - img: 
-  tag: Bamboo8/2
+  tag: bamboo8/2
   color: Gris pale
   amount/cones:
   yards:
 
 - img: 
-  tag: Bamboo16/2
+  tag: bamboo16/2
   color: Gris pale
   amount/cones:
   yards:
 
 - img: 
-  tag: Tencel8/2
+  tag: tencel8/2
   color: Blue moyen
   amount/cones:
   yards:
 
 - img: 
-  tag: Tencel8/2
+  tag: tencel8/2
   color: Gris pale
   amount/cones:
   yards:
@@ -293,13 +293,13 @@
   yards:
 
 - img: 
-  tag: Tencel8/2
+  tag: tencel8/2
   color: Marigold
   amount/cones:
   yards:
 
 - img: 
-  tag: Tencel8/2
+  tag: tencel8/2
   color: Navy
   amount/cones:
   yards:
