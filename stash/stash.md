@@ -47,12 +47,20 @@ layout: default
 ## 8/2 bamboo
 
 | Color | Cones | Yards |  
-|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "bamboo" %}
+|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "bamboo8/2" %}
+| {{ yarn.color }} | {{yarn.cones}} | {{ yarn.yards }} |{% endif %}{% endfor %}
+
+
+
+## 16/2 bamboo
+
+| Color | Cones | Yards |  
+|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "bamboo16/2" %}
 | {{ yarn.color }} | {{yarn.cones}} | {{ yarn.yards }} |{% endif %}{% endfor %}
 
 
 ## 8/2 tencel
 
 | Color | Cones | Yards |  
-|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "tencel" %}
+|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "tencel8/2" %}
 | {{ yarn.color }} | {{yarn.cones}} | {{ yarn.yards }} |{% endif %}{% endfor %}
