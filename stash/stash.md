@@ -20,7 +20,7 @@ layout: default
 
 |---|Color | Cones | Yards |  
 |---|---|---|---|{% for yarn in site.data.yarn %}{% if yarn.tag contains "perle5/2" %}
-| {{sitebase.url }}/stash/img/{{ yarn.img }} | {{ yarn.color }} | {{yarn.amount}} | {{ yarn.yards }} |{% endif %}{% endfor %}
+| !({{sitebase.url }}/stash/img/{{ yarn.img }}) | {{ yarn.color }} | {{yarn.amount}} | {{ yarn.yards }} |{% endif %}{% endfor %}
 
 
 ## 10/2 perle cotton
