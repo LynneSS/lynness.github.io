@@ -1,0 +1,310 @@
+- img: 
+  tag: unmercerized
+  color: Bleu
+  amount:
+  yards:
+
+  - img: 
+  tag: unmercerized
+  color: Copenhagen blue (Spectrum)
+  amount:
+  yards:
+
+  - img: 
+  tag: unmercerized
+  color: Emeraude
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Jaune or
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Light blue
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Lime
+  amount:
+  yards: 
+  
+  - img: 
+  tag: unmercerized
+  color: Limette
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Marine
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Mauve foncé
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Mauve pale
+  amount: 
+  yards: 
+  
+- img: 
+  tag: unmercerized
+  color: Natural
+  amount:
+  yards:  
+
+- img: 
+  tag: unmercerized
+  color: Navy
+  amount: "/2"
+  yards: 800
+
+- img: 
+  tag: unmercerized
+  color: Olive foncé
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Peacock
+  amount: "/1"
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Royal
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Vert foncé
+  amount:
+  yards: 
+
+- img: 
+  tag: unmercerized
+  color: Vieux bleu
+<<<<<<< Updated upstream
+  amount/cones:
+  yards: 
+
+- img: 
+  tag: perle3/2
+  color: Cocoa
+  amount/cones:
+  yards: 
+
+- img: 
+  tag: perle3/2
+  color: Natural
+  amount/cones:
+  yards: 
+    
+- img: 
+  tag: perle5/2
+  color: California gold
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Daffodil
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Dark Green
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Fuchsia
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: King blue
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Lipstick
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Magenta
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Natural
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Paradise
+  amount/cones:
+  yards:
+  
+- img: 
+  tag: perle5/2
+  color: Peacock
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Persian green
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Purple passion
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Red
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle5/2
+  color: Scarab
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle10/2
+  color: Black
+  amount/cones:
+  yards:
+
+- img: 
+  tag: perle10/2
+  color: Natural
+  amount/cones:
+  yards:
+
+- img: 
+  tag: cotton-rug
+  color: Blue, dark
+  amount/cones: "8.78 oz/1 cone"
+  yards:
+
+- img: 
+  tag: cotton-rug
+  color: Blue, light
+  amount/cones: "2.64 oz/1 cone"
+  yards:
+
+- img: 
+  tag: cotton-rug
+  color: Blue, medium
+  amount/cones: "10.62 oz/1 cone"
+  yards:
+
+- img: 
+  tag: cotton-rug
+  color: Green
+  amount/cones: "5.54 oz/1 cone"
+  yards:
+
+- img: 
+  tag: cotton-rug
+  color: Grey
+  amount/cones: "1.42 oz/1 cone"
+  yards:
+
+- img: 
+  tag: cottolin
+  color: Medium blue
+  amount/cones:
+  yards:
+
+- img: 
+  tag: cottolin
+  color: Peacock
+  amount/cones:
+  yards:
+
+- img: 
+  tag: cottolin
+  color: White
+  amount/cones:
+  yards:
+
+- img: 
+  tag: bamboo8/2
+  color: Blue moyen
+  amount/cones:
+  yards:
+
+- img: 
+  tag: bamboo8/2
+  color: Gris pale
+  amount/cones:
+  yards:
+
+- img: 
+  tag: bamboo16/2
+  color: Gris pale
+  amount/cones:
+  yards:
+
+- img: 
+  tag: tencel8/2
+  color: Blue moyen
+  amount/cones:
+  yards:
+
+- img: 
+  tag: tencel8/2
+  color: Gris pale
+  amount/cones:
+  yards:
+
+- img: 
+  tag: Tencel8/2
+  color: Magenta
+  amount/cones:
+  yards:
+
+- img: 
+  tag: tencel8/2
+  color: Marigold
+  amount/cones:
+  yards:
+
+- img: 
+  tag: tencel8/2
+  color: Navy
+  amount/cones:
+  yards:
+=======
+  amount:
+  yards: 
+>>>>>>> Stashed changes
