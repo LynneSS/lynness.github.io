@@ -164,4 +164,14 @@
    img: applesauce.jpg
    source: "Hip Pressure Cooking"
    href: "http://www.pressurecookingtoday.com/pressure-cooker-applesauce/"
-   tags: pressure
+   tags: 
+   - pressure
+   - fruit
+
+-  title: Refried beans
+   img: beans.jpg
+   source: "Dad Cooks Dinner"
+   href: "http://dadcooksdinner.com/2013/02/pressure-cooker-refried-pinto-beans.html/"
+   tags: 
+   - pressure
+   - beans
