@@ -1,32 +1,32 @@
--  title: Cream Scones
+-  title: Cream scones
    img: "scones.jpg"
    source: "Cooks' Illustrated"
    id: "001"
    href: "https://www.cooksillustrated.com/recipes/1914-cream-scones/"
    tags: bread
 
--  title: Cream Biscuits
+-  title: Cream biscuits
    img: "biscuits.jpg"
    source: "Cooks' Illustrated"
    id: "001"
    href: "http://www.cooksillustrated.com/recipes/576-quick-and-easy-cream-biscuits?ref=new_search_experience_4&incode=MCSCD00L0"
    tags: bread
    
--  title: Cucumber Salad
+-  title: Cucumber salad
    img: "cucumber-salad.jpg"
    source: "Simply Recipes"
    id: "001"
    href: "http://www.simplyrecipes.com/recipes/cucumber_salad/"
    tags: salad
 
--  title: German Apple Pancake
+-  title: German apple pancake
    img: "apple-pancake.jpg"
    source: "Cooks' Illustrated"
    id: "002"
    href: "http://www.cooksillustrated.com/recipes/23-german-apple-pancake?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: breakfast
 
--  title: Well-Done Stovetop Hamburgers
+-  title: Stovetop hamburgers
    img: "hamburger.jpg"
    source: "Cooks' Illustrated"
    id: "003"
@@ -35,21 +35,21 @@
    - main
    - beef
 
--  title: Light and Fluffy Pancakes
+-  title: Light and fluffy pancakes
    img: "pancakes.jpg"
    source: "Cooks' Illustrated"
    id: "004"
    href: "http://www.cooksillustrated.com/recipes/1273-light-and-fluffy-pancakes?ref=new_search_experience_18&incode=MCSCD00L0"
    tags: breakfast
 
--  title: French Chicken in a Pot
+-  title: French chicken in a pot
    img: "chicken.jpg"
    source: "Cooks' Illustrated"
    id: "005"
    href: "http://www.cooksillustrated.com/recipes/4022-french-chicken-in-a-pot?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: main
 
--  title: Seared Ahi Tuna
+-  title: Seared Ahi tuna
    img: "ahi-tuna.jpg"
    source: "Simply Recipes"
    id: "006"
@@ -58,21 +58,21 @@
    - main
    - fish
 
--  title: Chia Seed Crispbread Crackers
+-  title: Chia seed crispbread
    img: "chia-crackers.jpg"
    source: "Nyoutritious"
    id: "007"
    href: "http://nyoutritious.com/chia-seed-crispbread-crackers/"
    tags: crackers
 
--  title: Profiteroles with Coffee Ice Cream and Chocolate Sauce
+-  title: Profiteroles and chocolate sauce
    img: "chocolate-sauce.jpg"
    source: "Gourmet"
    id: "008"
    href: "http://www.gourmet.com/recipes/2000s/2008/03/profiteroles.html"
    tags: dessert
    
--  title: Red Lentil Soup with Lemon
+-  title: Red lentil soup with lemon
    img: "red-lentil-soup.jpg"
    source: "NYT, Melissa Clark"
    id: "009"
@@ -81,14 +81,14 @@
    - soup
    - lentils
 
--  title: Classic Sourdough Waffles
+-  title: Sourdough waffles
    img: "waffles.jpg"
    source: "King Arthur Flour"
    id: "010"
    href: "http://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe"
    tags: breakfast
    
--  title: Almond Crescents
+-  title: Almond crescents
    img: crescents.jpg
    source: "Cooks' Illustrated"
    href: "http://www.cooksillustrated.com/recipes/1054-almond-or-hazelnut-crescent-cookies?ref=new_search_experience_1&incode=MCSCD00L0"
@@ -96,7 +96,7 @@
    - cookies
    - xmas
    
--  title: English Toffee
+-  title: English toffee
    img: toffee.jpg
    source: "Cooking for Engineers"
    href: "http://www.cookingforengineers.com/recipe/159/English-Toffee"
@@ -112,7 +112,7 @@
    - candy
    - xmas
    
--  title: "Black & White Spiral Cookies"
+-  title: "Black & white spiral cookies"
    img: spiral.jpg
    source: "Cooks' Illustrated"
    href: "http://www.cooksillustrated.com/recipes/4510-black-and-white-spiral-cookies?ref=new_search_experience_3&incode=MCSCD00L0"
@@ -137,7 +137,7 @@
    - vegetables
    
 -  title: Yogurt
-   img: yogurt.jpg
+   img: 
    source: "Hip Pressure Cooking"
    href: "http://www.hippressurecooking.com/video-how-to-make-yogurt-in-instant-pot-duo/"
    tags:
