@@ -489,6 +489,7 @@
 
 -  title: Flock of Cranes
    img: "flock-of-cranes.jpg"
+   imgBig: "flock-of-cranes-big.jpg"
    category: ideas
    hover:  'Ishida Yutei’s 18th-century "Flock of Cranes", at the MIA'
    tags: 
