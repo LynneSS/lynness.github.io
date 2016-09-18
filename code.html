@@ -16,4 +16,12 @@ Elements can be assigned attributes using this syntax at the end of the line:
 
 Thus, for example, the following headings will all be assigned the identifier foo:
 
-<code># My heading {#foo}</code>
+<code># My heading {
+	#foo}</code>
+
+<h3>Liquid</h3>
+<h4>Filters</h4>
+<ul>
+	<li>upcase, <code><h1>{{ page.heading | upcase }}</h1></code></li>
+	<li>truncate:8</li>
+</ul>

@@ -4,7 +4,7 @@ Title: Ideas
 ---
 <section id="photos">
 	{% for idea in site.data.ideas %}
-	<a class="hide-display" href="#expand">
+	<a class="hide-display" href="{{ site.baseurl }}/ideas/img/{{ idea.imgBig }}">
 		<img src="{{ site.baseurl }}/ideas/img/{{ idea.img }}" />
 		<span class="click-title">{{ idea.title }}<br/>
 			<span class="click-text">{{ idea.hover }}</span>
