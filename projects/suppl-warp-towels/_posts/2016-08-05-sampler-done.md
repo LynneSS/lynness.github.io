@@ -7,7 +7,7 @@ tags: weaving towels gifts
 ravelry:
 ---
 
-![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-samp.jpg){: .center-image}
+![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-sam.jpg){: .center-image}
 
 The order of colors is:
 * Olive foncé
@@ -18,11 +18,11 @@ The order of colors is:
 * Peacock
 * Navy
 
-![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-samp1.jpg)
+![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-sam1.jpg)
 
-![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-samp2.jpg)
+![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-samp.jpg)
 
-![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-samp3.jpg){: .center-image}
+![Finished sampler]({{ site.baseurl }}/projects/suppl-warp-towels/img/sw-sam3.jpg){: .center-image}
 
 Problems
 1. Overall it is too dense and cardboardy.
