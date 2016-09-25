@@ -8,6 +8,7 @@ ravelry:
 ---
 ![Warp & weft calculations]({{ base.url }}/projects/silk-wool-fabric/img/plan.jpg) 
 
+The possible yarns for the warp:
 - Pink & rainbow silk:   
   590/3 = **196 yd**   
   196 yd/31 g = 6.3 yd/g (**5.7 g/inch**)
