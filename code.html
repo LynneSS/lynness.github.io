@@ -1,5 +1,6 @@
 ---
 layout: default
+
 ---
 
 <p>git add.</p>
@@ -20,8 +21,30 @@ Thus, for example, the following headings will all be assigned the identifier fo
 	#foo}</code>
 
 <h3>Liquid</h3>
-<h4>Filters</h4>
+<h4>Filters</h4> 
 <ul>
-	<li>upcase, <code><h1>{{ page.heading | upcase }}</h1></code></li>
-	<li>truncate:8</li>
+	<li>Convert to uppercase - <code>{ page.heading | upcase }</code> //use double brackets</li>
+
+	<li>Limit number of characters - <code>{ page.heading | truncate:8 }</code></li> //double brackets
+	
+	<li>if/else statements -<br />
+		<code>
+			[% if page.show_heading %] //if this parameter in the front matter is true and use {brackets}<br />
+				{ page.heading | upcase } //double brackets<br />
+			[% elsif page.heading contains "cupcake" %] // { & %<br />
+				I want cupcakes<br />
+			[% else %] // { & %<br />
+				I don't want cupcakes<br />
+			[% endif %] // { & %<br />
+		</code>
+	</li>
+
+	<li>Looping - <br />
+		<code>
+			[% for cupcake in page.cupcakes %] //list of cupcakes in front matter. // { & %<br />
+			ul><br />
+				li>{ cupcake }/li><br />
+				[% endfor %] // { & %<br />
+			/ul>
+		</code>
 </ul>
