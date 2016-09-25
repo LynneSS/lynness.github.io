@@ -70,11 +70,4 @@ Warp length is 1.9 yd.
 - Burnt orange, 44/1.9 = 23, 3x8
 - Rainbow, 67/1.9 = 35, 4x8
 
-Total = 898 warp threads  
-
-Warp colors arranged in a random order: [Warp color order]({{ base.url }}/projects/silk-wool-fabric/random.md)
-
-
-
-
-![]({{ base.url }}/projects/silk-wool-fabric/img/){: .center-image .vert-space-both} 
+Total = 898 warp threads  ndom.md)
