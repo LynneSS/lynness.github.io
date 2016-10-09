@@ -9,7 +9,7 @@ tags: knitting scarf gifts
 
 For Laurel's Christmas present.
 
-Pattern: [Spring Fever pattern]("http://www.ravelry.com/patterns/library/spring-fever-2")
+Pattern: [Spring Fever pattern](http://www.ravelry.com/patterns/library/spring-fever-2)
 
 Color order:
 
