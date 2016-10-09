@@ -6,7 +6,7 @@ category: spring-fever
 tags: knitting scarf gifts
 ravelry: "http://www.ravelry.com/patterns/library/spring-fever-2"
 ---
-![Dornick section]({{ site.baseurl }}/projects/spring-fever/img/colors.jpg){: .center-image }
+![Yarn colors]({{ site.baseurl }}/projects/spring-fever/img/colors.jpg){: .center-image }
 
 For Laurel's Christmas present.
 
