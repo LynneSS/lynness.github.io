@@ -10,7 +10,7 @@ ravelry: "http://www.ravelry.com/patterns/library/spring-fever-2"
 
 For Laurel's Christmas present.
 
-Pattern: [Spring Fever pattern]({{ post.ravelry }} Spring Fever)
+Pattern: [Spring Fever pattern]({{ post.ravelry }} "Spring Fever")
 
 Color order:
 
