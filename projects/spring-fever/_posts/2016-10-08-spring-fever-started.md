@@ -4,17 +4,12 @@ title: Spring Fever Scarf
 heading: Laurel's scarf
 category: spring-fever
 tags: knitting scarf gifts
-ravelry: "http://www.ravelry.com/patterns/library/spring-fever-2"
 ---
 ![Yarn colors]({{ site.baseurl }}/projects/spring-fever/img/colors.jpg){: .center-image }
 
 For Laurel's Christmas present.
 
-<<<<<<< Updated upstream
-Pattern: [Spring Fever pattern]({{ post.ravelry }} "Spring Fever")
-=======
-Pattern: [Spring Fever pattern]({{ post.ravelry }})
->>>>>>> Stashed changes
+Pattern: [Spring Fever pattern]("http://www.ravelry.com/patterns/library/spring-fever-2")
 
 Color order:
 
