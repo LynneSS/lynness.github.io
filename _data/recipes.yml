@@ -1,35 +1,35 @@
 -  title: Cream scones
    img: "scones.jpg"
    source: "Cooks' Illustrated"
-   id: "001"
+   category: breads
    href: "https://www.cooksillustrated.com/recipes/1914-cream-scones/"
    tags: bread
 
 -  title: Cream biscuits
    img: "biscuits.jpg"
    source: "Cooks' Illustrated"
-   id: "001"
+   category: breads
    href: "http://www.cooksillustrated.com/recipes/576-quick-and-easy-cream-biscuits?ref=new_search_experience_4&incode=MCSCD00L0"
    tags: bread
    
 -  title: Cucumber salad
    img: "cucumber-salad.jpg"
    source: "Simply Recipes"
-   id: "001"
+   category: vegetables
    href: "http://www.simplyrecipes.com/recipes/cucumber_salad/"
    tags: salad
 
 -  title: German apple pancake
    img: "apple-pancake.jpg"
    source: "Cooks' Illustrated"
-   id: "002"
+   category: breakfast
    href: "http://www.cooksillustrated.com/recipes/23-german-apple-pancake?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: breakfast
 
 -  title: Stovetop hamburgers
    img: "hamburger.jpg"
    source: "Cooks' Illustrated"
-   id: "003"
+   category: main-dishes
    href: "http://www.cooksillustrated.com/recipes/3307-stovetop-well-done-hamburgers?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: 
    - main
@@ -38,21 +38,21 @@
 -  title: Light and fluffy pancakes
    img: "pancakes.jpg"
    source: "Cooks' Illustrated"
-   id: "004"
+   category: breakfast
    href: "http://www.cooksillustrated.com/recipes/1273-light-and-fluffy-pancakes?ref=new_search_experience_18&incode=MCSCD00L0"
    tags: breakfast
 
 -  title: French chicken in a pot
    img: "chicken.jpg"
    source: "Cooks' Illustrated"
-   id: "005"
+   category: main-dishes
    href: "http://www.cooksillustrated.com/recipes/4022-french-chicken-in-a-pot?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: main
 
 -  title: Seared Ahi tuna
    img: "ahi-tuna.jpg"
    source: "Simply Recipes"
-   id: "006"
+   category: main-dishes
    href: "http://www.simplyrecipes.com/recipes/seared_ahi_tuna/"
    tags:
    - main
@@ -61,21 +61,21 @@
 -  title: Chia seed crispbread
    img: "chia-crackers.jpg"
    source: "Nyoutritious"
-   id: "007"
+   category: breads
    href: "http://nyoutritious.com/chia-seed-crispbread-crackers/"
    tags: crackers
 
 -  title: Profiteroles and chocolate sauce
    img: "chocolate-sauce.jpg"
    source: "Gourmet"
-   id: "008"
+   category: dessers
    href: "http://www.gourmet.com/recipes/2000s/2008/03/profiteroles.html"
    tags: dessert
    
 -  title: Red lentil soup with lemon
    img: "red-lentil-soup.jpg"
    source: "NYT, Melissa Clark"
-   id: "009"
+   category: main-dishes
    href: "http://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon?em_pos=medium&emc=edit_ck_20151205&nl=cooking&nlid=62598762"
    tags: 
    - soup
@@ -84,13 +84,14 @@
 -  title: Sourdough waffles
    img: "waffles.jpg"
    source: "King Arthur Flour"
-   id: "010"
+   category: breakfast
    href: "http://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe"
    tags: breakfast
    
 -  title: Almond crescents
    img: crescents.jpg
    source: "Cooks' Illustrated"
+   category: desserts
    href: "http://www.cooksillustrated.com/recipes/1054-almond-or-hazelnut-crescent-cookies?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: 
    - cookies
@@ -99,6 +100,7 @@
 -  title: English toffee
    img: toffee.jpg
    source: "Cooking for Engineers"
+   category: desserts
    href: "http://www.cookingforengineers.com/recipe/159/English-Toffee"
    tags: 
    - candy
@@ -107,6 +109,7 @@
 -  title: Meltaways
    img: meltaways.jpg
    source: "Serious Eats"
+   category: desserts   
    href: "http://www.seriouseats.com/recipes/2011/04/mint-meltaways-recipe.html"
    tags: 
    - candy
@@ -115,6 +118,7 @@
 -  title: "Black & white spiral cookies"
    img: spiral.jpg
    source: "Cooks' Illustrated"
+   category: desserts
    href: "http://www.cooksillustrated.com/recipes/4510-black-and-white-spiral-cookies?ref=new_search_experience_3&incode=MCSCD00L0"
    tags: 
    - cookies
@@ -123,6 +127,7 @@
 -  title: Mocha nut butterballs
    img: butterball.jpg
    source: "food.com"
+   category: desserts
    href: "http://www.food.com/recipe/mocha-butterballs-12910"
    tags: 
    - cookies
@@ -131,6 +136,7 @@
 -  title: Artichokes
    img: artichoke.jpg
    source: "Hip Pressure Cooking"
+   category: vegetables
    href: "http://www.hippressurecooking.com/steamed-artichokes-a-pressure-cooker-classic/"
    tags: 
    - pressure
@@ -139,6 +145,7 @@
 -  title: Yogurt
    img: 
    source: "Hip Pressure Cooking"
+   category: sides
    href: "http://www.hippressurecooking.com/video-how-to-make-yogurt-in-instant-pot-duo/"
    tags:
    - dairy
@@ -147,6 +154,7 @@
 -  title: Hard-Boiled Eggs
    img: hard-boiled-eggs.jpg
    source: "Hip Pressure Cooking"
+   category: sides
    href: "http://www.pressurecookingtoday.com/pressure-cooker-hard-boiled-eggs/"
    tags:
    - eggs
@@ -155,6 +163,7 @@
 -  title: Heating Up Ham Slices
    img: ham.jpg
    source: "Hip Pressure Cooking"
+   category: main-dishes
    href: "http://www.pressurecookingtoday.com/heating-ham-slices-in-the-pressure-cooker/"
    tags:
    - main
@@ -163,6 +172,7 @@
 -  title: Applesauce
    img: applesauce.jpg
    source: "Hip Pressure Cooking"
+   category: sides
    href: "http://www.pressurecookingtoday.com/pressure-cooker-applesauce/"
    tags: 
    - pressure
@@ -171,6 +181,7 @@
 -  title: Refried beans
    img: refried.jpg
    source: "Dad Cooks Dinner"
+   category: sides
    href: "http://dadcooksdinner.com/2013/02/pressure-cooker-refried-pinto-beans.html/"
    tags: 
    - pressure
