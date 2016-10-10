@@ -1,5 +1,6 @@
 -  title: Bass Player
    img: "bass.jpg"
+   dropbox: 
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
    tags: 
@@ -28,6 +29,7 @@
    
 -  title: Map Book Detail
    img: boat.jpg
+   dropbox: https://dl.dropboxusercontent.com/u/26736957/extra-photos/boat-big.jpg
    category: ideas
    hover: Painted scenes from a 17th-c map book of the city of Zaandam
    tags: 

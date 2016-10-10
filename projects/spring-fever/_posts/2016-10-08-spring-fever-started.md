@@ -13,15 +13,17 @@ Pattern: [Spring Fever pattern](http://www.ravelry.com/patterns/library/spring-f
 
 Color order:
 
-1. Gold
+1. Mustard
 2. Purple
-3. Green
+3. Lemongrass
 4. Grey
-5. Pink
+5. Mauve
 6. Blue
-7. Orange
+7. Harvest orange
 8. Red
 
 Gauge: about 20 stitches/4 inches on size 7 needle.
 
-Cast on 135 stitches on size 5 needle.
+Cast on 135 stitches on size 5 needle, and knit 8 rows of edging.
+
+Switched to size 7 needle and begin stockinette.
