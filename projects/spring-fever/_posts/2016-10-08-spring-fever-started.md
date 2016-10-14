@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Laurel's scarf
-heading: Spring Fever Scarf
+title: Spring Fever Scarf
+heading: Laurel's scarf
 category: spring-fever
 tags: knitting scarf gifts
 ---
