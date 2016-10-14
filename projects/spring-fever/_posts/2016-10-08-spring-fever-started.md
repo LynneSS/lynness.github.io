@@ -24,6 +24,8 @@ Color order:
 
 Gauge: about 20 stitches/4 inches on size 7 needle.
 
+![Yarn colors]({{ site.baseurl }}/projects/spring-fever/img/swatch-spring.jpg){: .center-image }
+
 Cast on 135 stitches on size 5 needle, and knit 8 rows of edging.
 
 Switched to size 7 needle and begin stockinette.
