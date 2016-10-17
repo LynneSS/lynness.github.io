@@ -2,6 +2,30 @@
 layout: default
 title: Recipes
 ---
+	<!-- **** DROPDOWN HEADER **** -->
+		
+		<header class="site-header px2 px-responsive no-bottom">
+			<!-- Dropdown menu from <a href="http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/">medialoot.com</a> -->
+			<div class="mt2 wrap no-top-marg">
+			    <div class="measure">
+					<nav>
+					<!--CSS will hide this checkbox while at the same time during a media query,
+					check the box to cause proper display of menu-->
+						<label for="show-menu" class="show-menu vert-hide">{{ site.title }}</label>
+						<input type="checkbox" id="show-menu" name="button">
+						<ul id="menu">
+							<li><a class="active" href="{{ site.baseurl }}/archive.html">Archive</a></li>
+							<li><a href="{{ site.baseurl }}/tags.html">Tags</a></li>
+							<li><a href="{{ site.baseurl }}/stash/stash.html">Stashes</a></li>
+					        <li><a href="{{ site.baseurl }}/library/library.html">Library</a></li>
+							<li><a href="{{ site.baseurl }}/ideas/dropbox.html">Ideas</a></li>
+							<li><a href="{{ site.baseurl }}/recipes/recipes.html">Recipes</a></li>
+					    </ul>
+					</nav>
+					<div class="clearfix"></div><!-- /.cleaerfix -->
+				</div><!-- /.measure -->
+			</div><!-- /.mt2 wrap -->
+		</header>
 
 <a href="{{ site.baseurl }}/recipes/tags.html"><h4 class="right-align no-top-marg">Recipes by tag</h4></a>
 <hr class="mb0 mt2" />
@@ -9,26 +33,18 @@ title: Recipes
     {% for recipe in site.data.recipes %}
     <div class="recipes">
         <a href="{{ recipe.href }}">
-			<h3>{{ recipe.title }}</h3>
+			<h3>{{ recipe.title | sort }}</h3>
             <img class="center-image" src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}" />
 		</a>
 		<h5 class="center">({{ recipe.source }})</h5>
         
-        {% if recipe.tags contains "beef" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#beef">beef</a>{% endif %} 
+	    <!-- tag links below each recipe -->
 		{% if recipe.tags contains "bread" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#bread">bread</a>{% endif %} 
 		{% if recipe.tags contains "breakfast" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#breakfast">breakfast</a>{% endif %} 
-		{% if recipe.tags contains "candy" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#candy">candy</a>{% endif %} 
-		{% if recipe.tags contains "cookies" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#cookies">cookies</a>{% endif %} 
-		{% if recipe.tags contains "crackers" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#crackers">crackers</a>{% endif %} 
 		{% if recipe.tags contains "dessert" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#dessert">dessert</a>{% endif %} 
-		{% if recipe.tags contains "fish" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#fish">fish</a>{% endif %} 
-		{% if recipe.tags contains "lentils" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#lentils">lentils</a>{% endif %} 
-		{% if recipe.tags contains "main" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#main">main</a>{% endif %} 
-		{% if recipe.tags contains "pressure" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#pressure">main</a>{% endif %} 
-		{% if recipe.tags contains "salad" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#salad">salad</a>{% endif %} 
-		{% if recipe.tags contains "soup" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#soup">soup</a>{% endif %} 
-		{% if recipe.tags contains "xmas" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#xmas">xmas</a>{% endif %}
-
+		{% if recipe.tags contains "main" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#main">main-dish</a>{% endif %} 
+		{% if recipe.tags contains "soup" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#soup">sides</a>{% endif %} 
+		{% if recipe.tags contains "xmas" %}<a class="small-font" href="{{ site.baseurl }}/recipes/tags.html#xmas">vegetables</a>{% endif %}
     </div>
     {% endfor %}
-</div>
+</section>

@@ -16,7 +16,6 @@ extras: aside
 		  </a>
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
 			  <h2 class="post-title">{{ post.heading }}</h2>
-		  </a>
           <p class="post-summary">
             {% if post.summary %}
               {{ post.summary }}
@@ -24,7 +23,8 @@ extras: aside
               {{ post.excerpt }}
             {% endif %}
           </p>
-  		  {% include post-tags.html %}
+		</a>
+  	{% include post-tags.html %}
         </div><!-- /#index-post -->
 		<hr class="mt0 mb2" />
       {% endfor %}
