@@ -7,6 +7,12 @@ layout: default
 <p>git commit -m "notes"</p>
 <p>git push origin master</p>
 
+* 'git pull origin master' - will pull down any changes from the GitHub repository.
+* 'git checkout branch-test' - will switch to named branch.
+* 'git merge branch-test' - will merge with master, as long as master is the active branch.
+* To catch up branch-test to the master, 'git checkout branch-test; git merge master'
+* To move a branch to a specific commit, 'git branch -f branch-test target-commit', eg. 'git branch -f master craft-changes' moves the latest master commit to the current commit of craft-changes.
+
 <!-- Permalinks which end in a slash will now always output as a folder with an index.html inside. -->
 
 <h3>Heading Attributes</h3>
