@@ -1,0 +1,102 @@
+---
+layout: default
+title: Recipes by tag
+---
+<div>
+	<h3 class="spread" id="bread">Breads:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'bread' %}
+	    <li>
+	    <a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+	        <img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}" />
+	        </a></li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+
+	<h3 class="spread" id="breakfast">Breakfast:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'breakfast' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+
+	<h3 class="spread" id="dessert">Dessert:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'dessert' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+
+	<h3 class="spread" id="main-dish">Main dishes:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'main-dish' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+
+	<h3 class="spread" id="sides">Side dishes:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'sides' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+
+	<h3 class="spread" id="soup">Soups:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'soup' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+	<hr class="small-hr"/>
+
+	<h3 class="spread" id="vegetables">Vegetables:</h3>
+	<ul class="list-reset recipe-tags mb0">
+		{% for recipe in site.data.recipes %}{% if recipe.category contains 'vegetables' %}
+	    <li>
+		<a href="{{ recipe.href }}">
+			<h3>{{ recipe.title }}</h3>
+			<img src="{{ site.baseurl }}/recipes/img/{{ recipe.img }}"/>
+		</li>
+		{% endif %}{% endfor %}
+	</ul>
+	<div class="clear"></div>
+	<a class="mb3" href="{{ site.baseurl }}/recipes/recipes.html">Back to recipes.</a>
+</div>
