@@ -1,137 +1,20 @@
--  title: Cream scones
-   img: "scones.jpg"
-   source: "Cooks' Illustrated"
-   category: breads
-   href: "https://www.cooksillustrated.com/recipes/1914-cream-scones/"
-   tags: bread
-
--  title: Cream biscuits
-   img: "biscuits.jpg"
-   source: "Cooks' Illustrated"
-   category: breads
-   href: "http://www.cooksillustrated.com/recipes/576-quick-and-easy-cream-biscuits?ref=new_search_experience_4&incode=MCSCD00L0"
-   tags: bread
-   
--  title: Cucumber salad
-   img: "cucumber-salad.jpg"
-   source: "Simply Recipes"
-   category: vegetables
-   href: "http://www.simplyrecipes.com/recipes/cucumber_salad/"
-   tags: salad
-
--  title: German apple pancake
-   img: "apple-pancake.jpg"
-   source: "Cooks' Illustrated"
-   category: breakfast
-   href: "http://www.cooksillustrated.com/recipes/23-german-apple-pancake?ref=new_search_experience_1&incode=MCSCD00L0"
-   tags: breakfast
-
--  title: Stovetop hamburgers
-   img: "hamburger.jpg"
-   source: "Cooks' Illustrated"
-   category: main-dishes
-   href: "http://www.cooksillustrated.com/recipes/3307-stovetop-well-done-hamburgers?ref=new_search_experience_1&incode=MCSCD00L0"
-   tags: 
-   - main
-   - beef
-
--  title: Light and fluffy pancakes
-   img: "pancakes.jpg"
-   source: "Cooks' Illustrated"
-   category: breakfast
-   href: "http://www.cooksillustrated.com/recipes/1273-light-and-fluffy-pancakes?ref=new_search_experience_18&incode=MCSCD00L0"
-   tags: breakfast
-
--  title: French chicken in a pot
-   img: "chicken.jpg"
-   source: "Cooks' Illustrated"
-   category: main-dishes
-   href: "http://www.cooksillustrated.com/recipes/4022-french-chicken-in-a-pot?ref=new_search_experience_1&incode=MCSCD00L0"
-   tags: main
-
--  title: Seared Ahi tuna
-   img: "ahi-tuna.jpg"
-   source: "Simply Recipes"
-   category: main-dishes
-   href: "http://www.simplyrecipes.com/recipes/seared_ahi_tuna/"
-   tags:
-   - main
-   - fish
-
--  title: Chia seed crispbread
-   img: "chia-crackers.jpg"
-   source: "Nyoutritious"
-   category: breads
-   href: "http://nyoutritious.com/chia-seed-crispbread-crackers/"
-   tags: crackers
-
--  title: Profiteroles and chocolate sauce
-   img: "chocolate-sauce.jpg"
-   source: "Gourmet"
-   category: dessers
-   href: "http://www.gourmet.com/recipes/2000s/2008/03/profiteroles.html"
-   tags: dessert
-   
--  title: Red lentil soup with lemon
-   img: "red-lentil-soup.jpg"
-   source: "NYT, Melissa Clark"
-   category: main-dishes
-   href: "http://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon?em_pos=medium&emc=edit_ck_20151205&nl=cooking&nlid=62598762"
-   tags: 
-   - soup
-   - lentils
-
--  title: Sourdough waffles
-   img: "waffles.jpg"
-   source: "King Arthur Flour"
-   category: breakfast
-   href: "http://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe"
-   tags: breakfast
-   
 -  title: Almond crescents
    img: crescents.jpg
    source: "Cooks' Illustrated"
-   category: desserts
+   category: dessert
    href: "http://www.cooksillustrated.com/recipes/1054-almond-or-hazelnut-crescent-cookies?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: 
    - cookies
    - xmas
-   
--  title: English toffee
-   img: toffee.jpg
-   source: "Cooking for Engineers"
-   category: desserts
-   href: "http://www.cookingforengineers.com/recipe/159/English-Toffee"
+
+-  title: Applesauce
+   img: applesauce.jpg
+   source: "Hip Pressure Cooking"
+   category: sides
+   href: "http://www.pressurecookingtoday.com/pressure-cooker-applesauce/"
    tags: 
-   - candy
-   - xmas
-   
--  title: Meltaways
-   img: meltaways.jpg
-   source: "Serious Eats"
-   category: desserts   
-   href: "http://www.seriouseats.com/recipes/2011/04/mint-meltaways-recipe.html"
-   tags: 
-   - candy
-   - xmas
-   
--  title: "Black & white spiral cookies"
-   img: spiral.jpg
-   source: "Cooks' Illustrated"
-   category: desserts
-   href: "http://www.cooksillustrated.com/recipes/4510-black-and-white-spiral-cookies?ref=new_search_experience_3&incode=MCSCD00L0"
-   tags: 
-   - cookies
-   - xmas
-   
--  title: Mocha nut butterballs
-   img: butterball.jpg
-   source: "food.com"
-   category: desserts
-   href: "http://www.food.com/recipe/mocha-butterballs-12910"
-   tags: 
-   - cookies
-   - xmas
+   - pressure
+   - sides
 
 -  title: Artichokes
    img: artichoke.jpg
@@ -141,16 +24,67 @@
    tags: 
    - pressure
    - vegetables
-   
--  title: Yogurt
-   img: yogurt.jpg
-   source: "Hip Pressure Cooking"
-   category: sides
-   href: "http://www.hippressurecooking.com/video-how-to-make-yogurt-in-instant-pot-duo/"
-   tags:
-   - dairy
-   - pressure
-   
+
+-  title: "Black & white spiral cookies"
+   img: spiral.jpg
+   source: "Cooks' Illustrated"
+   category: dessert
+   href: "http://www.cooksillustrated.com/recipes/4510-black-and-white-spiral-cookies?ref=new_search_experience_3&incode=MCSCD00L0"
+   tags: 
+   - cookies
+   - xmas
+
+-  title: Chia seed crispbread
+   img: "chia-crackers.jpg"
+   source: "Nyoutritious"
+   category: bread
+   href: "http://nyoutritious.com/chia-seed-crispbread-crackers/"
+   tags: crackers
+
+-  title: Cream scones
+   img: "scones.jpg"
+   source: "Cooks' Illustrated"
+   category: bread
+   href: "https://www.cooksillustrated.com/recipes/1914-cream-scones/"
+   tags: bread
+
+-  title: Cream biscuits
+   img: "biscuits.jpg"
+   source: "Cooks' Illustrated"
+   category: bread
+   href: "http://www.cooksillustrated.com/recipes/576-quick-and-easy-cream-biscuits?ref=new_search_experience_4&incode=MCSCD00L0"
+   tags: bread
+
+-  title: Cucumber salad
+   img: "cucumber-salad.jpg"
+   source: "Simply Recipes"
+   category: vegetables
+   href: "http://www.simplyrecipes.com/recipes/cucumber_salad/"
+   tags: salad
+
+-  title: English toffee
+   img: toffee.jpg
+   source: "Cooking for Engineers"
+   category: dessert
+   href: "http://www.cookingforengineers.com/recipe/159/English-Toffee"
+   tags: 
+   - candy
+   - xmas
+
+-  title: French chicken in a pot
+   img: "chicken.jpg"
+   source: "Cooks' Illustrated"
+   category: main-dish
+   href: "http://www.cooksillustrated.com/recipes/4022-french-chicken-in-a-pot?ref=new_search_experience_1&incode=MCSCD00L0"
+   tags: main
+
+-  title: German apple pancake
+   img: "apple-pancake.jpg"
+   source: "Cooks' Illustrated"
+   category: breakfast
+   href: "http://www.cooksillustrated.com/recipes/23-german-apple-pancake?ref=new_search_experience_1&incode=MCSCD00L0"
+   tags: breakfast
+
 -  title: Hard-Boiled Eggs
    img: hard-boiled-eggs.jpg
    source: "Hip Pressure Cooking"
@@ -159,24 +93,56 @@
    tags:
    - eggs
    - pressure
-   
+
 -  title: Heating Up Ham Slices
    img: ham.jpg
    source: "Hip Pressure Cooking"
-   category: main-dishes
+   category: main-dish
    href: "http://www.pressurecookingtoday.com/heating-ham-slices-in-the-pressure-cooker/"
    tags:
    - main
    - pressure
 
--  title: Applesauce
-   img: applesauce.jpg
-   source: "Hip Pressure Cooking"
-   category: sides
-   href: "http://www.pressurecookingtoday.com/pressure-cooker-applesauce/"
+-  title: Light and fluffy pancakes
+   img: "pancakes.jpg"
+   source: "Cooks' Illustrated"
+   category: breakfast
+   href: "http://www.cooksillustrated.com/recipes/1273-light-and-fluffy-pancakes?ref=new_search_experience_18&incode=MCSCD00L0"
+   tags: breakfast
+   
+-  title: Meltaways
+   img: meltaways.jpg
+   source: "Serious Eats"
+   category: dessert 
+   href: "http://www.seriouseats.com/recipes/2011/04/mint-meltaways-recipe.html"
    tags: 
-   - pressure
-   - fruit
+   - candy
+   - xmas
+
+-  title: Mocha nut butterballs
+   img: butterball.jpg
+   source: "food.com"
+   category: dessert
+   href: "http://www.food.com/recipe/mocha-butterballs-12910"
+   tags: 
+   - cookies
+   - xmas
+
+-  title: Profiteroles and chocolate sauce
+   img: "chocolate-sauce.jpg"
+   source: "Gourmet"
+   category: dessert
+   href: "http://www.gourmet.com/recipes/2000s/2008/03/profiteroles.html"
+   tags: dessert
+
+-  title: Red lentil soup with lemon
+   img: "red-lentil-soup.jpg"
+   source: "NYT, Melissa Clark"
+   category: soup
+   href: "http://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon?em_pos=medium&emc=edit_ck_20151205&nl=cooking&nlid=62598762"
+   tags: 
+   - soup
+   - lentils
 
 -  title: Refried beans
    img: refried.jpg
@@ -186,3 +152,37 @@
    tags: 
    - pressure
    - beans
+
+-  title: Seared Ahi tuna
+   img: "ahi-tuna.jpg"
+   source: "Simply Recipes"
+   category: main-dish
+   href: "http://www.simplyrecipes.com/recipes/seared_ahi_tuna/"
+   tags:
+   - main
+   - fish
+
+-  title: Sourdough waffles
+   img: "waffles.jpg"
+   source: "King Arthur Flour"
+   category: breakfast
+   href: "http://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe"
+   tags: breakfast
+
+-  title: Stovetop hamburgers
+   img: "hamburger.jpg"
+   source: "Cooks' Illustrated"
+   category: main-dish
+   href: "http://www.cooksillustrated.com/recipes/3307-stovetop-well-done-hamburgers?ref=new_search_experience_1&incode=MCSCD00L0"
+   tags: 
+   - main
+   - beef
+
+-  title: Yogurt
+   img: yogurt.jpg
+   source: "Hip Pressure Cooking"
+   category: sides
+   href: "http://www.hippressurecooking.com/video-how-to-make-yogurt-in-instant-pot-duo/"
+   tags:
+   - dairy
+   - pressure
