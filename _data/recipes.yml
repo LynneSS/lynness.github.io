@@ -185,6 +185,14 @@
    tags: 
    - main
    - beef
+   
+-  title: Yellow rice
+   img: yellow-rice.jpg
+   source: Sunset
+   category: sides
+   tags:
+   - rice
+   - pressure
 
 -  title: Yogurt
    img: yogurt.jpg

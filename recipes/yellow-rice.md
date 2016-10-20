@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tags
+title: Yellow Rice
 ---
 
-##Yellow Rice
+## {{ page.title }}
 
 * 3/4 tsp annatto seeds
 * 3 Tbsp vegetable oil
