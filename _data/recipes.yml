@@ -135,6 +135,15 @@
    tags: 
    - cookies
    - xmas
+   
+-  title: Multigrain bread
+   img: multigrain.jpg
+   source: modified from La Brea
+   category: bread
+   href: "http://lynness.github.io/recipes/home-recipes/multigrain.md"
+   tags:
+   - grain
+   - bread
 
 -  title: Profiteroles and chocolate sauce
    img: "chocolate-sauce.jpg"
@@ -190,7 +199,7 @@
    img: yellow-rice.jpg
    source: Sunset
    category: sides
-   href: "http://lynness.github.io/recipes/yellow-rice.html"
+   href: "http://lynness.github.io/recipes/home-recipes/yellow-rice.html"
    tags:
    - rice
    - pressure
