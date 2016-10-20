@@ -190,6 +190,7 @@
    img: yellow-rice.jpg
    source: Sunset
    category: sides
+   href: "{{ base.url }}/recipes/yellow-rice.html"
    tags:
    - rice
    - pressure
