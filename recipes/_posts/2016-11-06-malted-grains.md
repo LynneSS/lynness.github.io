@@ -14,5 +14,4 @@ Grains to play with, also:
 
 ![Grain label]({{ site.baseurl }}/recipes/img-posts/rahr-pale-ale-malt.jpg){: .center-image }
 
-![Grain label]({{ site.baseurl }}/recipes/img-posts/english-chocolate-malt.jpg){: .center-image }
-
+![Grain label]({{ site.baseurl }}/recipes/img-posts/english-chocolate-malt.jpg){: .center-image }
