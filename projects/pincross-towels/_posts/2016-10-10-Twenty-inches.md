@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pincross towels
-heading: Towel 1 begun
+heading: Twenty inches so far
 category: pincross-towels
 tags: weaving towels gifts
 ravelry:
