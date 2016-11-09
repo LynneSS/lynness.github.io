@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pincross towels
-heading: Towel 1 begun
+heading: Towel 1, draft 6
 category: pincross-towels
 tags: weaving towels gifts
 ravelry:
