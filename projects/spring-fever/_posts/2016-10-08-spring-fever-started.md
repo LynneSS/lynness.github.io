@@ -28,4 +28,4 @@ Gauge: about 20 stitches/4 inches on size 7 needle.
 
 Cast on 135 stitches on size 5 needle, and knit 8 rows of edging.
 
-Switched to size 7 needle and begin stockinette.
+Switched to size 8 needle and begin stockinette.
