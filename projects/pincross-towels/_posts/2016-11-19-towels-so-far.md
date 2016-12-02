@@ -4,7 +4,7 @@ title: Pincross towels
 heading: Progress so far and towel 6
 category: pincross-towels
 tags: weaving towels gifts
-ravelry
+ravelry:
 ---
 Towel 1 & 2, draft 6.
 
