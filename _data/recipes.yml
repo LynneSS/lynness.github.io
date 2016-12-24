@@ -144,6 +144,16 @@
    tags:
    - grain
    - bread
+   
+-  Oatmeal, pressure cooker
+   img: oatmeal.jpg
+   source: hippressurecooking.com
+   category: breakfast
+   href: "http://www.hippressurecooking.com/pressure-cooker-oatmeal-how-to/"
+   tags:
+   - grain
+   - breakfast
+   - pressure
 
 -  title: Profiteroles and chocolate sauce
    img: "chocolate-sauce.jpg"
