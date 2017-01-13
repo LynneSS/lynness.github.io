@@ -79,6 +79,14 @@
    - candy
    - xmas
 
+-  title: Feta cheese
+   img: *.jpg
+   source: "Complete Idiot's Guide to Cheese, loosely"
+   category: cheese
+   href: "http://lynness.github.io/recipes/home-recipes/2016-01-13-feta-cheese.md"
+   tags: 
+   - cheese
+
 -  title: French chicken in a pot
    img: "chicken.jpg"
    source: "Cooks' Illustrated"
