@@ -27,7 +27,7 @@ Loosely based on The Complete Idiot's Guide to Cheese
 
 * 1 quart hot water
 * 3 oz flaked salt
-* 3/4 tsp <sub>2</sub> **solution**
+* 3/4 tsp CaCl<sub>2</sub> **solution**
 * 1/2 tsp vinegar
 
 ##Instructions
