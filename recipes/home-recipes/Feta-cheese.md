@@ -18,11 +18,16 @@ Loosely based on The Complete Idiot's Guide to Cheese
 
 ###Heavy brine:
 
+* 1 quart hot water
+* 8 oz salt
+* 1.5 tsp CaCl<sub>2</sub> **solution**
+* 1–1.5 tsp vinegar
+
 ###Pickling brine:
 
 * 1 quart hot water
 * 3 oz flaked salt
-* 3/4 tsp calcium chloride solution
+* 3/4 tsp <sub>2</sub> **solution**
 * 1/2 tsp vinegar
 
 ##Instructions
