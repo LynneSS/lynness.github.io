@@ -80,10 +80,10 @@
    - xmas
 
 -  title: Feta cheese
-   img: *.jpg
+   img: feta.jpg
    source: "Complete Idiot's Guide to Cheese, loosely"
    category: cheese
-   href: "http://lynness.github.io/recipes/home-recipes/2016-01-13-feta-cheese.md"
+   href: "http://lynness.github.io/recipes/home-recipes/feta-cheese.md"
    tags: 
    - cheese
 

@@ -2,6 +2,7 @@
 layout: default
 title: Feta Cheese
 ---
+![Feta cheese]({{ site.baseurl }}/recipes/img/feta.jpg){: .center-image }
 
 Loosely based on The Complete Idiot's Guide to Cheese
 

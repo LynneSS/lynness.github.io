@@ -6,6 +6,7 @@ title: Recipes
 	<ul>
 		<li><a href="{{ site.baseurl }}/recipes/categories.html#bread">Breads</a></li>
 		<li><a href="{{ site.baseurl }}/recipes/categories.html#breakfast">Breakfast</a></li>
+		<li><a href="{{ site.baseurl }}/recipes/categories.html#cheese">Cheese</a></li>
 		<li><a href="{{ site.baseurl }}/recipes/categories.html#xmas">Christmas</a></li>
 		<li><a href="{{ site.baseurl }}/recipes/categories.html#dessert">Desserts</a></li>
 		<li><a href="{{ site.baseurl }}/recipes/categories.html#main-dish">Main Dishes</a></li>
@@ -25,15 +26,6 @@ title: Recipes
 		</a>
 		<h5 class="center">({{ recipe.source }})</h5>
         
-	    <!-- tag links below each recipe -->
-		{% if recipe.category contains "bread" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#bread">bread</a>{% endif %} 
-		{% if recipe.category contains "breakfast" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#breakfast">breakfast</a>{% endif %} 
-		{% if recipe.category contains "dessert" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#dessert">dessert</a>{% endif %} 
-		{% if recipe.category contains "main-dish" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#main">main-dish</a>{% endif %} 
-		{% if recipe.category contains "sides" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#soup">sides</a>{% endif %} 
-		{% if recipe.category contains "soup" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#soup">soup</a>{% endif %} 
-		{% if recipe.category contains "vegetables" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#xmas">vegetables</a>{% endif %}
-		{% if recipe.category contains "xmas" %}<a class="small-font" href="{{ site.baseurl }}/recipes/categories.html#xmas">xmas</a>{% endif %}
     </div>
     {% endfor %}
 </section>
