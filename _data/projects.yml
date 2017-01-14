@@ -1,10 +1,11 @@
 -  project: "Spring Fever Scarf"
-   img: "colors.jpg"
+   img: "laurel-spring.jpg"
    folder: spring-fever
    href: "spring-fever.html"
-   status: in progress
+   status: finished
    tag: knitting scarf gift
    started: 10/8/2016
+   finished: 12/23/2016
    
 -  project: "Pincross towels"
    img: "pin-samp6.jpg"
