@@ -11,7 +11,7 @@ Loosely based on The Complete Idiot's Guide to Cheese
 ###Cheese:
 
 * 1 gallon whole milk
-* 1/2 tsp calcium chloride solution, diluted in 2 Tbsp **distilled** water
+* 1/2 tsp CaCl<sub>2</sub> solution, diluted in 2 Tbsp **distilled** water
 * 1/8 tsp mild lipase powder, diluted in 2 Tbsp **distilled** water
 * 1/4 tsp mesophilic culture, 1/4 tsp
 * 1/2 prepared rennet tablet = 1/4 tsp, diluted in 2 Tbsp **distilled** water
