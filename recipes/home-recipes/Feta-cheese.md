@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Feta Cheese
-tags: cheese
 ---
 
 Loosely based on The Complete Idiot's Guide to Cheese
