@@ -1,5 +1,5 @@
 -  project: "Peacock spinning"
-   img: peacock-label
+   img: peacock-label.jpg
    folder: peacock-green
    href: "peacock-green.html"
    status: in progress
@@ -25,7 +25,7 @@
    started: 09/2/2016
 
 -  project: "Supplementary warp towels"
-   img: "sw-samp.jpg"
+   img: "sw-sam.jpg"
    folder: suppl-warp
    href: "suppl-warp.html"
    status: on hold
