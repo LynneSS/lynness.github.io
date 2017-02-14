@@ -25,7 +25,7 @@
    - pressure
    
 -  title: Beef tacos
-   img: taco.jpg
+   img: beef-tacos.jpg
    source: "Cooks' Illustrated"
    category: main-dish
    href: "https://www.cooksillustrated.com/recipes/180-beef-tacos?ref=new_search_experience_6&incode=MCSCD00L0/"
@@ -117,6 +117,14 @@
    tags:
    - main
    - pressure
+   
+-  title: Hoison Sesame Dipping Sauce
+   img: hoison.jpg
+   source: "Cooks' Illustrated"
+   category: sides
+   href: "https://www.cooksillustrated.com/recipes/711-hoisin-sesame-dipping-sauce?ref=new_search_experience_4"
+   tags:
+   - sauce
 
 -  title: Light and fluffy pancakes
    img: "pancakes.jpg"
@@ -161,6 +169,14 @@
    - grain
    - breakfast
    - pressure
+
+-  title: Pot In Pot Rice
+   img: rice.jpg
+   source: This Old Gal
+   category: sides
+   href: https://thisoldgal.com/pressure-cooker-perfectly-cooked-pot-in-pot-rice/
+   tags:
+   - rice
 
 -  title: Profiteroles and chocolate sauce
    img: "chocolate-sauce.jpg"
