@@ -1,6 +1,6 @@
 -  title: Bass Player
    img: "bass.jpg"
-   dropbox: 
+   big-img: ""
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
    tags: 
@@ -8,6 +8,7 @@
    
 -  title: Sax Player
    img: "sax.jpg"
+   big-img: ""
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
    tags: 
@@ -15,6 +16,7 @@
    
 -  title: Chaos and Order
    img: "quilt1.jpg"
+   big-img: ""
    category: ideas
    hover: "Charlotte Yde, Chaos and Order, 2013"
    tags: 
@@ -22,6 +24,7 @@
   
 -  title: Mom quilt
    img: "quilt2.jpg"
+   big-img: "quilt2-big.jpg"
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
    tags: 
@@ -29,7 +32,7 @@
    
 -  title: Map Book Detail
    img: boat.jpg
-   dropbox: https://dl.dropboxusercontent.com/u/26736957/extra-photos/boat-big.jpg
+   big-img: "boat-big.jpg"
    category: ideas
    hover: Painted scenes from a 17th-c map book of the city of Zaandam
    tags: 
@@ -37,6 +40,7 @@
 
 -  title: Fair Isle Sweater
    img: "fairisle.jpg"
+   big-img: "fairisle-big.jpg"
    category: ideas
    hover: Mati Ventrillon Bespoke Knitwear
    tags: 
@@ -44,6 +48,7 @@
 
 -  title: A Medieval Bird
    img: "medieval-bird.jpg"
+   big-img: "medieval-bird-big.jpg"
    category: ideas
    hover: Can't find the citation.
    tags: 
@@ -51,6 +56,7 @@
  
 -  title: Creative Blocks Rug
    img: "creative-blocks.jpg"
+   big-img: "creative-blocks"
    category: ideas
    hover: 
    tags: 
@@ -58,6 +64,7 @@
 
 -  title: Baby Blanket Draft
    img: "baby-blanket.jpg"
+   big-img: "baby-blanket-big.jpg"
    category: ideas
    hover: "Second Wind Jewelry & Weaving"
    tags: 
@@ -65,6 +72,7 @@
 
 -  title: Pheonix
    img: "pheonix.jpg"
+   big-img: "pheonix-big.jpg"
    category: ideas
    hover: Univ Lib. MS 24
    tags: 
@@ -72,6 +80,7 @@
 
 -  title: Slate Formula Rug
    img: "slate-formula.jpg"
+   big-img: "slate-formula"
    category: ideas
    hover: 
    tags: 
@@ -79,12 +88,14 @@
 
 -  title: Kimono Jacket
    img: "kimono-jacket.jpg"
+   big-img: "kimono-jacket-big.jpg"
    category: ideas
    hover: Source unknown
    tags: idea jacket
    
 -  title: Building Block Rug
    img: "building-block.jpg"
+   big-img: "building-block-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -92,6 +103,7 @@
 
 -  title: 8-Shaft Draft
    img: "8-shaft.jpg"
+   big-img: "8-shaft-big.jpg"
    category: ideas
    hover: "Hand Weaving Draft: Page 150, Figure 9, Donat, Franz Large Book of Textile Patterns, 8S, 8T - Handweaving.net"
    tags: 
@@ -99,6 +111,7 @@
 
 -  title: Peacock on the Letter A
    img: "peacock.jpg"
+   big-img: "peacock.jpg-big.jpg"
    category: ideas
    hover: BL Harley 3452
    tags: 
@@ -106,6 +119,7 @@
 
 -  title: Augustine's City of God
    img: "augustine.jpg"
+   big-img: "augustine-big.jpg"
    category: ideas
    hover: "opening page of Augustine's City of God in French, with dedication scene (lower left) (MâconBM1,15thC)"
    tags: 
@@ -114,6 +128,7 @@
 
 -  title: Letter B
    img: "letter-b.jpg"
+   big-img: "letter-b"
    category: ideas
    hover: Don't know the source
    tags: 
@@ -121,6 +136,7 @@
 
 -  title: Double Trellis Towels
    img: "double-trellis.jpg"
+   big-img: "double-trellis"
    category: ideas
    hover: "Double trellis towels from an etsy site"
    tags: 
@@ -128,6 +144,7 @@
 
 -  title: Peacock
    img: "peacock2.jpg"
+   big-img: "peacock2.jpg"
    category: ideas
    hover: Don't know the source
    tags: 
@@ -135,6 +152,7 @@
 
 -  title: Strange Attractor 1
    img: "str-attr1.jpg"
+   big-img: "str-attr1-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
@@ -142,6 +160,7 @@
 
 -  title: "Strawberries & Flowers"
    img: "strawberries.jpg"
+   big-img: "strawberries-big.jpg"
    category: ideas
    hover: "BL Harley 2443, 15th c"
    tags: 
@@ -149,6 +168,7 @@
 
 -  title: "Stripes & Blocks Towels"
    img: "stripes-and-blocks.jpg"
+   big-img: "stripes-and-blocks-big.jpg"
    category: ideas
    hover: "Stripes & blocks from an etsy site"
    tags: 
@@ -156,6 +176,7 @@
 
 -  title: "Ancient Astronomy"
    img: "moon.jpg"
+   big-img: "moon-big.jpg"
    category: ideas
    hover: "The Nebra Sky Disc is considered the oldest-known graphic depiction of celestial objects in human history"
    tags: 
@@ -163,6 +184,7 @@
 
 -  title: Möbius Shawl
    img: "mobius-shawl.jpg"
+   big-img: "mobius-shawl-big.jpg"
    category: ideas
    hover: I like the stripe
    tags: 
@@ -170,6 +192,7 @@
 
 -  title: Almost Ikat
    img: "almost-ikat.jpg"
+   big-img: "almost-ikat-big.jpg"
    category: ideas
    hover: "Made with Bambu 7, Bonnie Tarses"
    tags: 
@@ -177,6 +200,7 @@
    
 -  title: A Shy Lion Playing the Violin
    img: "shy-lion.jpg"
+   big-img: "shy-lion-big.jpg"
    category: ideas
    hover: Verdun BM 107
    tags: 
@@ -184,6 +208,7 @@
 
 -  title: Drape
    img: "scan101.jpg"
+   big-img: "scan101-big.jpg"
    category: ideas
    hover: Scanned from a catalog
    tags: 
@@ -191,6 +216,7 @@
 
 -  title: "Dress, Simplicity Threads 1168"
    img: "simplicity-1168.jpg"
+   big-img: "simplicity-1168-big.jpg"
    category: ideas
    hover: "Dress pattern, Simplicity 1168"
    tags: 
@@ -198,6 +224,7 @@
 
 -  title: Purple Runner with Pink Stripe
    img: "pink-sripe.jpg"
+   big-img: "pink-sripe-big.jpg"
    category: ideas
    hover: I like the stripe.
    tags: 
@@ -205,6 +232,7 @@
    
 -  title: Agatha Cardigan
    img: "agatha-cardigan.jpg"
+   big-img: "agatha-cardigan-big.jpg"
    category: ideas
    hover: Published in Knit Picks
    tags: 
@@ -212,6 +240,7 @@
 
 -  title: Burda 8949 Jacket
    img: "burda8949.jpg"
+   big-img: "burda8949-big.jpg"
    category: ideas
    hover: From Burda Patterns
    tags: 
@@ -219,6 +248,7 @@
 
 -  title: Cardigan Idea
    img: "cardigan-idea.jpg"
+   big-img: "cardigan-idea-big.jpg"
    category: ideas
    hover: Scanned from a catalog
    tags: 
@@ -226,6 +256,7 @@
 
 -  title: iPad Case
    img: "ipad-case.jpg"
+   big-img: "ipad-case-big.jpg"
    category: ideas
    hover: Tutorial for sewing project
    tags: 
@@ -233,6 +264,7 @@
 
 -  title: Another Cardigan Idea
    img: "cardigan-idea2.jpg"
+   big-img: "cardigan-idea2-big.jpg"
    category: ideas
    hover: Scanned from a catalog.
    tags: 
@@ -240,6 +272,7 @@
 
 -  title: Strange Attractor 2
    img: "str-attr2.jpg"
+   big-img: "str-attr2-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
@@ -247,6 +280,7 @@
 
 -  title: Medieval Owl
    img: "owl.jpg"
+   big-img: "owl-big.jpg"
    category: ideas
    hover: "Paris, Bibl. Sainte-Geneviève 3401"
    tags: 
@@ -254,6 +288,7 @@
 
 -  title: Silk Weaving
    img: "silk-weaving.jpg"
+   big-img: "silk-weaving-big.jpg"
    category: ideas
    hover: "De claris mulieribus in an anonymous French translation, c. 1440."
    tags: 
@@ -261,6 +296,7 @@
      
 -  title: Man in Front of a Fireplace
    img: "fireplace.jpg"
+   big-img: "fireplace-big.jpg"
    category: ideas
    hover: RouenBM3028
    tags: 
@@ -268,6 +304,7 @@
 
 -  title: Mondrian Minus 30 Degrees
    img: "mondrian.jpg"
+   big-img: "mondrian-big.jpg"
    category: ideas
    hover: Mondrian Table Cloth
    tags: 
@@ -275,6 +312,7 @@
 
 -  title: Strange Attractor 3
    img: "str-attr3.jpg"
+   big-img: "str-attr3-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
@@ -282,6 +320,7 @@
 
 -  title: "Summer & Winter Rug"
    img: "summer-winter-rug.jpg"
+   big-img: "summer-winter-rug-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -289,6 +328,7 @@
 
 -  title: "The Decretals of Gregory IX, c. 1340"
    img: "bird-spinning.jpg"
+   big-img: "bird-spinning-big.jpg"
    category: ideas
    hover: Held in the British Library
    tags: 
@@ -296,6 +336,7 @@
 
 -  title: Taquete Single Weft Shawl
    img: "taquete-shawl.jpg"
+   big-img: "taquete-shawl"
    category: ideas
    hover: 
    tags: 
@@ -303,13 +344,15 @@
 
 -  title: Monet Möbius
    img: "monet-mobius.jpg"
+   big-img: "monet-mobius-big.jpg"
    category: ideas
    hover: "From Handwoven, Sep/Oct 2013"
    tags: 
    href: 
 
 -  title: Turned Taquete Dishtowels
-   img: "turned-taquete.jpg"
+   img: ".jpg"
+   big-img: "turned-taquete-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -317,6 +360,7 @@
 
 -  title: Pallas and Arachne at the Loom
    img: "pallas-arachne.jpg"
+   big-img: "pallas-arachne-big.jpg"
    category: ideas
    hover: "Metamorphoses, 15 c"
    tags: 
@@ -324,6 +368,7 @@
 
 -  title: Medieval Farm Scene
    img: "farm.jpg"
+   big-img: "farm-big.jpg"
    category: ideas
    hover: "BL Burney 272, 15th c"
    tags: 
@@ -331,6 +376,7 @@
 
 -  title: Strange Attractor 4
    img: "str-attr4.jpg"
+   big-img: "str-attr4-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
@@ -338,6 +384,7 @@
 
 -  title: Mountour Falls Cardigan
    img: "montour-falls.jpg"
+   big-img: "montour-falls-big.jpg"
    category: ideas
    hover: PDF pattern from Knitscene
    tags: 
@@ -345,6 +392,7 @@
 
 -  title: "King Alexander & His Cat"
    img: "king-alex.jpg"
+   big-img: "king-alex-big.jpg"
    category: ideas
    hover: "BL Royal 20 B.xx, 15th c"
    tags: 
@@ -352,6 +400,7 @@
 
 -  title: Fabric Combination for Rugs
    img: "pink-fabric.jpg"
+   big-img: "pink-fabric-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
    tags: 
@@ -359,6 +408,7 @@
 
 -  title: Red Cardigan
    img: "red-cardigan.jpg"
+   big-img: "red-cardigan-big.jpg"
    category: ideas
    hover: Scanned from a catalog.
    tags: 
@@ -366,6 +416,7 @@
 
 -  title: Fabric Combination for Rugs
    img: "red-blue.jpg"
+   big-img: "red-blue-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
    tags: 
@@ -373,6 +424,7 @@
 
 -  title: "The Letter E"
    img: "letter-e.jpg"
+   big-img: "letter-e-big.jpg"
    category: ideas
    hover: "AvranchesBM59, 11th c"
    tags: 
@@ -380,6 +432,7 @@
 
 -  title: Fabric Combination for Rugs
    img: "green-red.jpg"
+   big-img: "green-red.jpg-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
    tags: 
@@ -387,6 +440,7 @@
 
 -  title: "Gold-Trimmed Jacket"
    img: "gold-trim.jpg"
+   big-img: "gold-trim-big.jpg"
    category: ideas
    hover: "Scanned from a catalog."
    tags: 
@@ -394,6 +448,7 @@
 
 -  title: "15th Century French Spinner"
    img: "french-spinner.jpg"
+   big-img: "french-spinner-big.jpg"
    category: ideas
    hover: "MS Fr. 599, f. 48, Bibliotheque Nationale, Paris"
    tags: 
@@ -401,6 +456,7 @@
 
 -  title: Fabric Combination for Rugs
    img: "purple-flowers.jpg"
+   big-img: "purple-flowers-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
    tags: 
@@ -408,6 +464,7 @@
 
 -  title: Central Park Needlework
    img: "central-park.jpg"
+   big-img: "central-park-big.jpg"
    category: ideas
    hover: "Needlepoint(?) found on Flickr"
    tags: 
@@ -415,6 +472,7 @@
 
 -  title: Multicolor Scarf
    img: "multicolor-scarf.jpg"
+   big-img: "multicolor-scarf-big.jpg"
    category: ideas
    hover: Scanned from a catalog
    tags: 
@@ -422,6 +480,7 @@
 
 -  title: Alchemist
    img: "alchemist.jpg"
+   big-img: "alchemist-big.jpg"
    category: ideas
    hover: "MS. Add. A. 287, fol. 009v, 17c"
    tags: 
@@ -429,6 +488,7 @@
 
 -  title: Striped Rug with Border
    img: "striped-rug.jpg"
+   big-img: "striped-rug-big.jpg"
    category: ideas
    hover: Scanned from a catalog
    tags: 
@@ -436,6 +496,7 @@
 
 -  title: "Female Reader, 1497"
    img: "female-reader.jpg"
+   big-img: "female-reader-big.jpg"
    category: ideas
    hover: Bodleian Douce 287
    tags: 
@@ -443,6 +504,7 @@
 
 -  title: Shirt from Handwoven Material
    img: "shirt.jpg"
+   big-img: "shirt-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -450,6 +512,7 @@
 
 -  title: "Plato's Timaeus, 12c"
    img: "timaeus.jpg"
+   big-img: "timaeus-big.jpg"
    category: ideas
    hover: "Diagram in a 12th-century copy of Plato's Timaeus (Bodleian Digby 23, part 1)"
    tags: 
@@ -457,6 +520,7 @@
 
 -  title: "Lindisfarne Gospels, c. 700"
    img: "illustration.jpg"
+   big-img: "illustration-big.jpg"
    category: ideas
    hover: "British Library, Cotton Nero D.IV (c. 700)"
    tags: 
@@ -464,12 +528,14 @@
 
 -  title: "The Arundel Psalter, 11c"
    img: "arundel-155.jpg"
+   big-img: "arundel-155-big.jpg"
    category: "Origin: England, S. E. (Canterbury, Christ Church), btw 1012 and 1023"
    tags: 
    href: http://medievalbooks.nl/2014/11/14/drawing-with-words/
 
 -  title: Hares in a Circle
    img: "hare.jpg"
+   big-img: "hare-big.jpg"
    category: ideas
    hover: "Bodleian Douce 218, 13thC"
    tags: 
@@ -477,6 +543,7 @@
 
 -  title: "Archer in a Filigree, 14 c"
    img: "archer.jpg"
+   big-img: "archer-big.jpg"
    category: ideas
    hover: "Bodleian Canon. Bibl. Lat. 57, 14th c"
    tags: 
@@ -484,6 +551,7 @@
 
 -  title: Boleian Douce 287
    img: "book-palm.jpg"
+   big-img: "book-palm-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -491,6 +559,7 @@
 
 -  title: "Pliny in an Incunable, 1476"
    img: "pliny.jpg"
+   big-img: "pliny-big.jpg"
    category: ideas
    hover: "Bodleian Bod. Inc. Cat., P-372(2)"
    tags: 
@@ -498,6 +567,7 @@
 
 -  title: Composite Elephant
    img: "elephant.jpg"
+   big-img: "elephant-big.jpg"
    category: ideas
    hover: "Watercolour and gilt on paper, 18th c, Bodl. Ouseley Add.171"
    tags: 
@@ -505,6 +575,7 @@
 
 -  title: Medieval Lily
    img: "lily.jpg"
+   big-img: "lily-big.jpg"
    category: ideas
    hover: "Oxford Bodley 130, 11th c"
    tags: 
@@ -512,6 +583,7 @@
 
 -  title: Walking Bird
    img: "bird.jpg"
+   big-img: "bird-big.jpg"
    category: ideas
    hover: BLRoyal13BVIII
    tags: 
@@ -527,6 +599,7 @@
 
 -  title: Aurora Borealis
    img: "aurora1.jpg"
+   big-img: "aurora1-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -534,6 +607,7 @@
 
 -  title: Theo Moorman
    img: "moorman-path.jpg"
+   big-img: "moorman-path-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -541,6 +615,7 @@
 
 -  title: Theo Moorman
    img: "moorman-shepherds.jpg"
+   big-img: "moorman-shepherds-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -548,6 +623,7 @@
 
 -  title: Theo Moorman
    img: "moorman.jpg"
+   big-img: "moorman-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -555,6 +631,7 @@
 
 -  title: Viking Necklace
    img: "viking-necklace.jpg"
+   big-img: "viking-necklace-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -562,6 +639,7 @@
 
 -  title: Aurora Borealis
    img: "aurora2.jpg"
+   big-img: "aurora2-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -569,6 +647,7 @@
 
 -  title: Braided Bracelet
    img: "bracelet.jpg"
+   big-img: "bracelet-big.jpg"
    category: ideas
    hover: 
    tags: 
