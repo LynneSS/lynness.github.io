@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring fever scarf
+title: Spring Fever scarf
 heading: Slow progress
 category: spring-fever
 tags: knitting scarf gifts
