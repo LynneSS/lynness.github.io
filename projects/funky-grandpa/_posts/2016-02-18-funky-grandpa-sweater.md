@@ -18,4 +18,4 @@ Yarns:
 * Valley Yarns Huntington - light & dark grey heather, fingering weight
 
 Needle:
-I got 20 stitches/4 inches on size 7 needles, and the fabric was too open for so I will try size 6 and 5.
+I got 20 stitches/4 inches on the [Spring Fever scarf]({{ site.baseurl }}/projects/spring-fever/spring-fever.html) on size 7 needles, and the fabric was too open for so I will try size 6 and 5.
