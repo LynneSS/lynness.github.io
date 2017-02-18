@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spring Fever scarf
-heading: Two stripes done
+heading: Spring Fever scarf
+title: Two stripes done
 category: spring-fever
 tags: knitting scarf gifts
 ---

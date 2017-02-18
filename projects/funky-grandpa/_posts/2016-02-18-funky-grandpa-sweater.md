@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Funky Grandpa Sweater
-heading: Getting ready
+heading: Funky Grandpa Sweater
+title: Getting ready
 category: funky-grandpa
 tags: knitting sweater
 ---
