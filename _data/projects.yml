@@ -1,3 +1,12 @@
+-  project: "Funky Grandpa sweater"
+   img: funky-grandpa.jpg
+   folder: funky-grandpa
+   href: "funky-grandpa.html"
+   status: in progress
+   tag: knitting sweater
+   started: 2/18/2017
+   finished:
+
 -  project: "Peacock spinning"
    img: peacock-label.jpg
    folder: peacock-green
@@ -7,7 +16,7 @@
    started: 12/25/2016
    finished:
 
--  project: "Spring Fever Scarf"
+-  project: "Spring Fever scarf"
    img: "laurel-spring.jpg"
    folder: spring-fever
    href: "spring-fever.html"
