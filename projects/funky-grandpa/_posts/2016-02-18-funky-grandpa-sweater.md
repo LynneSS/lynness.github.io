@@ -4,10 +4,11 @@ heading: Funky Grandpa sweater
 title: Getting ready
 category: funky-grandpa
 tags: knitting sweater
+ravelry: http://www.ravelry.com/patterns/library/funky-grandpa
 ---
 ![Picture of sweater]({{ site.baseurl }}/projects/funky-grandpa/img/funky-grandpa.jpg){: .center-image }
 
-Pattern: [Funky Grandpa pattern](http://www.ravelry.com/patterns/library/funky-grandpa)
+Pattern: [Funky Grandpa pattern]({{ post.ravelry }})
 
 Intended gauge: 24.5 stitches and 34 rows = 4 inches in stockinette.
 
