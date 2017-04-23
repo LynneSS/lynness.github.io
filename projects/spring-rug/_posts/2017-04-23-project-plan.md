@@ -13,7 +13,7 @@ Width in reed - 71.6 cm (28.2 in)
 
 Finished width - 69 cm (27.2 in)
 
-##Warp##
+## Warp ##
 * 12/6 seine twine, natural
 * Amount needed - 80 g/m
 * Sett - 3 ends/cm (7.6 ends/in)
@@ -21,23 +21,23 @@ Finished width - 69 cm (27.2 in)
 * Selvage - 2 ends/heddle, dent twice on either side.
 
 
-##Weft##
+## Weft ##
 * Amount needed - 1 kg/m
 * Weft sett - 25 pattern picks & 25 tabby picks/10 cm (6.35/in)
 
 * Fabrics
-- Green-on-green leaves, 16.9 g/sqft, **0.83 in**
-- Purple marble, 14.65 g/sqft, **1 in**
-- Purple w/ gold lines, 23.34 g/sqft, **0.6 in**
-- Blue flowers,  g/sqft, **1 in**
-- Cream flowers, 13.31 g/sqft, **1 in**
-- Green flowers, 13.43 g/sqft, **1 in**
-- Pink w/ white flowers, 11.45 g/sqft, **1 in**
-- Orange trees, 14.84 g/sqft, **1 in**
-- Light blue sheet, 10.95 g/sqft, **1.28 in**
-- Cream stripes, 19.01 g/sqft, **.74 in**
+   - Green-on-green leaves, 16.9 g/sqft, **0.83 in**
+   - Purple marble, 14.65 g/sqft, **1 in**
+   - Purple w/ gold lines, 23.34 g/sqft, **0.6 in**
+   - Blue flowers,  g/sqft, **1 in**
+   - Cream flowers, 13.31 g/sqft, **1 in**
+   - Green flowers, 13.43 g/sqft, **1 in**
+   - Pink w/ white flowers, 11.45 g/sqft, **1 in**
+   - Orange trees, 14.84 g/sqft, **1 in**
+   - Light blue sheet, 10.95 g/sqft, **1.28 in**
+   - Cream stripes, 19.01 g/sqft, **.74 in**
 
-##Totals needed##
+## Totals needed ##
 71.6 cm width + 8.62 cm extra (3in) = 79.22 cm/pick
 
 Green-on-green leaves & purple marble
