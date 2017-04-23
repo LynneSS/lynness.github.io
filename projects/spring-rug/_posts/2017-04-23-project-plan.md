@@ -56,11 +56,3 @@ Pink, lt blue, orange, cream
 --Cream, 0.74 in strip = **9.016 sqft**
 
 
-
-
-
-
-x 1 in width = **16.24 sqft**
-
-
-
