@@ -53,7 +53,7 @@ Pink, lt blue, orange, cream
 - 7.5 cm/stripe x 25 picks/10 cm = 18.75 picks/stripe x 3 stripes = 56 picks x 79.22 cm/pick = **4456 cm total** = 1754.38 in
 --Pink, 1 in strip = **12.18 sqft**
 --Lt blue, 1.28 in strip = **15.59 sqft**
---Cream, 0.74 in strip = **9.015563889 sqft**
+--Cream, 0.74 in strip = **9.016 sqft**
 
 
 
