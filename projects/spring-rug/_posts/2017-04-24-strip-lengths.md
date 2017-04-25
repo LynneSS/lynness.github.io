@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: Calculating fbric strip lengths
+heading: Calculating fabric strip lengths
 title: Spring rosepath rug
 category: spring-rug
 tags: weaving rug rosepath
