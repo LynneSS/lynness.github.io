@@ -7,7 +7,7 @@ tags: weaving rug rosepath
 ---
 ![Fabric colors]({{ site.baseurl }}/projects/spring-rug/img/rug-fabrics.jpg){: .center-image }
 
-<a href="../spring-rug/spring-rug-plan.htm">Color plan</a>
+<a href="http://lynness.github.io/projects/spring-rug/spring-rug-plan.htm">Color plan</a>
 
 Width in reed - 71.6 cm (28.2 in)
 

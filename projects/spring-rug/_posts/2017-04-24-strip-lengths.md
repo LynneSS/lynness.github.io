@@ -18,7 +18,7 @@ Seven 5 cm stripes, 5 cm rug length/stripe x 25 picks/10 cm = 13 picks/stripe
 Four 7.5 cm stripes, 7.5 cm rug length/stripe x 25 picks/10 cm = 19 picks/stripe
 
 19 picks/stripe x 79.22 cm strip length/pick = 1505 strip length/stripe. Round up to 1600.
-m,
+
 - Blue flowers, 1600 cm x 1 strip/297.18 cm = **6 strips per stripe**
 - Cream flowers, 1600 cm x 1 strip/233.68 cm = **7 strips per stripe**
 - Green flowers, 1600 cm x 1 strip/220.98 cm = **8 strips per stripe**
