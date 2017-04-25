@@ -31,7 +31,7 @@ Finished width - 69 cm (27.2 in)
    - Purple w/ gold lines, 28.65 g/sqft, **0.6 in**
    - Blue flowers,  13.95 g/sqft, **1.25 in** OOPS
    - Cream flowers, 14.01 g/sqft, **1.25 in**
-   - Green flowers, 13.43 g/sqft, **1 in**
+   - Green flowers, 13.43 g/sqft, **1.25 in**
    - Pink w/ white flowers, 11.45 g/sqft, **1.25 in**
    - Orange trees, 18.99 g/sqft, **1 in**
    - Light blue sheet, 10.95 g/sqft, **1.5 in**
@@ -49,14 +49,11 @@ Green-on-green leaves & purple marble
 
 Blue, green, and cream flowers
 - Four 7.5 cm stripes
-- 7.5 cm/stripe x 25 picks/10 cm = 18.75 picks/stripe x 4 stripes = 75 picks x 79.22 cm/pick = **5941.5 cm total** = 2339.17 in
-  - Blue flowers, 1.25 in = **20.30 sqft**
-  - Cream flowers, 1.25 in = **20.31 sqft**
-x 1 in width = **16.24 sqft**
+- 7.5 cm/stripe x 25 picks/10 cm = 18.75 picks/stripe x 4 stripes = 75 picks x 79.22 cm/pick = **5941.5 cm total** = 2339.17 in x 1.25 in = **20.30 sqft**
 
 Pink, lt blue, orange, cream
 - Three 7.5 cm stripes
 - 7.5 cm/stripe x 25 picks/10 cm = 18.75 picks/stripe x 3 stripes = 56 picks x 79.22 cm/pick = **4456 cm total** = 1754.38 in
   - Pink & orange, 1 in strip = **12.18 sqft**
   - Lt blue, 1.5 in strip = **18.27.59 sqft**
-  - Cream, 1.25 in strip = **15.23j  sqft**
+  - Cream, 1.25 in strip = **15.23 sqft**
