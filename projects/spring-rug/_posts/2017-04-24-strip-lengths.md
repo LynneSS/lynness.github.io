@@ -1,4 +1,4 @@
-g---
+---
 layout: post
 heading: Calculating fbric strip lengths
 title: Spring rosepath rug
