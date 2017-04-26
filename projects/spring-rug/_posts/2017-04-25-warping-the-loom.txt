@@ -6,7 +6,8 @@ category: spring-rug
 tags: weaving rug rosepath
 ---
 
-## Measuring the warp
+Measuring the warp
+
 Need 249 warp threads warped at 7.5 ends/inch.
 
 To warp holding two threads at once, need bouts of 8.

@@ -5,7 +5,8 @@ title: Spring rosepath rug
 category: spring-rug
 tags: weaving rug rosepath
 ---
-
+Test
+ 
 ## Green w/green leaves & purple marble
 Seven 5 cm stripes, 5 cm rug length/stripe x 25 picks/10 cm = 13 picks/stripe
 
