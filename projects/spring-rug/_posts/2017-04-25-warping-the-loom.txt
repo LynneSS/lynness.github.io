@@ -6,7 +6,7 @@ category: spring-rug
 tags: weaving rug rosepath
 ---
 
-##Measuring the warp
+## Measuring the warp
 Need 249 warp threads warped at 7.5 ends/inch.
 
 To warp holding two threads at once, need bouts of 8.
@@ -20,7 +20,7 @@ To warp holding two threads at once, need bouts of 8.
 2               = 250 total
 ```
 
-##Heddles
+## Heddles
 
 1. 7 x 9 + 2 = 65
 2. 6 x 9 + 0 = 54

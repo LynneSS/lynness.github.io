@@ -9,7 +9,7 @@ tags: weaving rug rosepath
 
 <a href="http://lynness.github.io/projects/spring-rug/spring-rug-plan.htm">Color plan</a>
 
-##Width in reed
+## Width in reed
 
 
 ```
@@ -20,7 +20,7 @@ tags: weaving rug rosepath
 ```
 
 
-## Warp ##
+## Warp
 * 12/6 seine twine, natural
 
 ### Number of ends needed
@@ -47,7 +47,7 @@ x 9 pattern repeats
 = **304.5 cm** = 120 in = 3.33 yd/warp thread
 ```
 
-## Weft ##
+## Weft
 * Amount needed - 1 kg/m
 * Weft sett - 25 pattern picks & 25 tabby picks/10 cm (6.35/in)
 
@@ -64,7 +64,7 @@ x 9 pattern repeats
    - Cream stripes, 14.5 g/sqft, **1.25 in**
    - Broad stripes, 10.99 g/sqft, **1.5 in**
 
-## Totals needed ##
+## Totals needed
 77 cm width + 8.62 cm extra (3in) = 85.62 cm/pick
 
 Green-on-green leaves & purple marble
