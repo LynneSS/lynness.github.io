@@ -1,6 +1,7 @@
 ---
 layout: post
 heading: Warping the loom
+title: Spring rosepath rug
 category: spring-rug
 tags: weaving rug rosepath
 ---
@@ -9,6 +10,7 @@ tags: weaving rug rosepath
 Need 249 warp threads warped at 7.5 ends/inch.
 
 To warp holding two threads at once, need bouts of 8.
+
 
 ```
 8-8-8-8-8-8-8-4 = 60
