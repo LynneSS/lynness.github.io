@@ -213,10 +213,10 @@
    - fish
    
 -  title: Sourdough Sandwich Bread
-   img: "http://d2gk7xgygi98cy.cloudfront.net/8969-3-large.jpg"
+   img: "sourdough-sandwich.jpg"
    source: "King Arthur"
    category: bread
-   href: "http://lynness.github.io/recipes/home-recipes/sourdough-sandwich-bread.md"
+   href: "http://lynness.github.io/recipes/home-recipes/sourdough-sandwich-bread.html"
    tags:
    - bread
 
