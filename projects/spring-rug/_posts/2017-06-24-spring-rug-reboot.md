@@ -26,7 +26,7 @@ Trying the Spring rug again with different fabrics. All quilt-weight cotton, pur
 * Gold medallions
 * Green vines
 
-<a href="http://lynness.github.io/projects/spring-rug/rug-plan-reboot.htm">Color plan</a>
+<a href="http://lynness.github.io/projects/spring-rug/rug-plan-reboot2.htm">Color plan</a>
 
 ## Warp needed
 Size of finished rugs: 32.4" wide x 64" long, 2 rugs
