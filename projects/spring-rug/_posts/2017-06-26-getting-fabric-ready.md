@@ -21,8 +21,8 @@ tags: weaving rug rosepath
 	![Fabric with orange, green, and purple medallions]({{ site.baseurl }}/projects/spring-rug/img/medallions.jpg){: .center-image }<br />
 * Green ferns = 16.54 g/sqft = 1 inch strips
 	![Fabric with green ferns]({{ site.baseurl }}/projects/spring-rug/img/green-ferns.jpg){: .center-image }<br />
-* Gold medallions = 11.90 g/sqft = 1.25 inch strips
-	![Fabric with gold medallions]({{ site.baseurl }}/projects/spring-rug/img/gold-medallions.jpg){: .center-image }<br />
+* Gold curlicues = 15.51 g/sqft = 1 inch strips
+	![Fabric with gold medallions]({{ site.baseurl }}/projects/spring-rug/img/gold-curlicues.jpg){: .center-image }<br />
 	
 ### Rosepath
 * Orange medallions = 12.07 g/sqft = 1.25 inch strips
@@ -33,5 +33,5 @@ tags: weaving rug rosepath
 	![Fabric with purple ovals]({{ site.baseurl }}/projects/spring-rug/img/cream-stripes.jpg){: .center-image }<br />
 
 ### Bumps
-* Gold curlicues = 15.51 g/sqft = 1 inch strips
-	![Fabric with gold curlicues]({{ site.baseurl }}/projects/spring-rug/img/gold-curlicues.jpg){: .center-image }<br />
+* Gold medallions = 11.90 g/sqft = 1.25 inch strips
+	![Fabric with gold curlicues]({{ site.baseurl }}/projects/spring-rug/img/gold-medallions.jpg){: .center-image }<br />
