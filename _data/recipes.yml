@@ -23,6 +23,14 @@
    href: "http://www.hippressurecooking.com/steamed-artichokes-a-pressure-cooker-classic/"
    tags: 
    - pressure
+   - vegetables
+   
+-  title: "Asparagus, micro-steamed"
+   img: asparagus.jpg
+   source: "Serious Eats"
+   category: vegetables
+   href: "http://www.seriouseats.com/recipes/2017/07/micro-steamed-asparagus-poached-egg-walnut-vinaigrette.html"
+   tags: vegetables
    
 -  title: Beef tacos
    img: beef-tacos.jpg
