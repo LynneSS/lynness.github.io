@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: Measureing again
+heading: Measuring again
 title: Spring rosepath rug
 category: spring-rug
 tags: weaving rug rosepath
