@@ -10,6 +10,6 @@ tags: weaving rug rosepath
 A sample from the Rosepath rug class. This is twill treadling with light fabric alternating with tabby with dark fabric.
 
 ## Fabrics used:
-![Fabric for the rug]({{ site.baseurl }}/projects/rosepath-twill/img/fabric.jpg){: .center-image }
+![Sample from rug class]({{ site.baseurl }}/projects/rosepath-twill/img/fabric.jpg){: .center-image }
 
 Mostly blues.
