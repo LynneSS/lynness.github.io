@@ -1,11 +1,20 @@
+-  project: "Rosepath twill rug"
+   img: progress1.jpg
+   folder: rosepath-twill
+   href: "rosepath-twill.html"
+   status: finished
+   tag: weaving rug
+   started: 9/17/2017
+   finished:
+
 -  project: "Spring rosepath rug"
    img: rug-offloom.jpg
    folder: spring-rug
    href: "spring-rug.html"
-   status: in progress
+   status: finished
    tag: weaving rug
    started: 4/25/2017
-   finished:
+   finished:9/13/2017
 
 -  project: "Funky Grandpa sweater"
    img: funky-grandpa.jpg
