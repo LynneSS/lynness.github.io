@@ -8,7 +8,7 @@ title: Current Projects
 		{% for project in site.data.projects %}
 		{% if project.status == "finished" %}
 		<li>
-			<a class="left-align" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}"><h3>{{ project.title }}</h3>
+			<a class="left-align" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">{{ project.title }}
 				<img class="center-image vert-space" src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
 			</a>
 			<a href="{{ project.rav }}">Ravelry link</a>
