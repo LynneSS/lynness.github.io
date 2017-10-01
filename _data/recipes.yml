@@ -108,6 +108,13 @@
    href: "http://www.cooksillustrated.com/recipes/23-german-apple-pancake?ref=new_search_experience_1&incode=MCSCD00L0"
    tags: breakfast
 
+-  title: Granola
+   img: "granola.jpg"
+   source: "Cooks' Illustrated with modifications"
+   category: breakfast
+   href: "http://lynness.github.io/recipes/home-recipes/granola.html"
+   tags: breakfast
+
 -  title: Hard-Boiled Eggs
    img: hard-boiled-eggs.jpg
    source: "Hip Pressure Cooking"
@@ -269,3 +276,12 @@
    tags:
    - dairy
    - pressure
+   
+-  title: Zucchini bread
+   img: zucchini-bread.jpg
+   source: "Leland Scott"
+   category: bread
+   href: "http://lynness.github.io/recipes/home-recipes/zucchini-bread.html"
+   tags:
+   - bread
+   - sweet
