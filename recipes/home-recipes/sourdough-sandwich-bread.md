@@ -5,7 +5,7 @@ title: Feta Cheese
 
 # Sourdough Sandwich Bread
 
-![](Sourdough%20Sandwich%20Bread/8969-2-medium.jpg)
+(![Slice of sourdough bread]({{ site.baseurl }}/recipess/img/sourdough-sandwich.jpg){: .center-image })
 
 From [King Arthur Flour](http://www.kingarthurflour.com/recipes/sourdough-sandwich-bread-recipe)
 
