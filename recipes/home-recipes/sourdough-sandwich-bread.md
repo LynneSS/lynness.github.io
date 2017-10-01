@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Feta Cheese
+title: Sourdough sandwich bread
 ---
 
 # Sourdough Sandwich Bread
 
-(![Slice of sourdough bread]({{ site.baseurl }}/recipess/img/sourdough-sandwich.jpg){: .center-image })
+![Slice of sourdough bread]({{ site.baseurl }}/recipess/img/sourdough-sandwich.jpg){: .center-image }
 
 From [King Arthur Flour](http://www.kingarthurflour.com/recipes/sourdough-sandwich-bread-recipe)
 
