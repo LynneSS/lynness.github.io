@@ -234,6 +234,14 @@
    category: breakfast
    href: "http://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe"
    tags: breakfast
+   
+-  title: Sprouted baguettes
+   img: "baguette.jpg"
+   source: "This & that"
+   category: bread
+   href: "http://lynness.github.io/recipes/home-recipes/aprouted-baguette.md"
+   tags:
+	   - bread
 
 -  title: Stovetop hamburgers
    img: "hamburger.jpg"
