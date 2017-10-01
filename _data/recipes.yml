@@ -78,6 +78,13 @@
    href: "http://www.simplyrecipes.com/recipes/cucumber_salad/"
    tags: salad
 
+-  title: Curry pumpkin soup
+   img: "pumpkin-soup.jpg"
+   source: "Leland Scott"
+   category: soup
+   href: "http://lynness.github.io/recipes/home-recipes/pumpkin-soup.html"
+   tags: soup   
+
 -  title: English toffee
    img: toffee.jpg
    source: "Cooking for Engineers"
@@ -175,6 +182,14 @@
    - grain
    - bread
    
+-  title: Mushroom soup
+   img: mushroom-soup.jpg
+   source: Mark Bittman via the NYT
+   category: soup
+   href: "http://lynness.github.io/recipes/home-recipes/mushroom-soup.html"
+   tags:
+   - soup
+
 -  title: Oatmeal in the pressure cooker
    img: oatmeal.jpg
    source: hippressurecooking.com
@@ -258,6 +273,14 @@
    tags: 
    - main
    - beef
+
+-  title: Tomato soup
+   img: tomato-soup.jpg
+   source: Serious Eats
+   category: sauce
+   href: "http://lynness.github.io/recipes/home-recipes/tomato-soup.html"
+   tags:
+   - soup
    
 -  title: Yellow rice
    img: yellow-rice.jpg
