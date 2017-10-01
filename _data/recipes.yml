@@ -220,7 +220,7 @@
    - main
    - fish
    
--  title: Sourdough Sandwich Bread
+-  title: Sourdough sandwich bread
    img: "sourdough-sandwich.jpg"
    source: "King Arthur"
    category: bread
@@ -235,9 +235,9 @@
    href: "http://www.kingarthurflour.com/recipes/classic-sourdough-waffles-or-pancakes-recipe"
    tags: breakfast
    
--  title: Sprouted baguettes
+-  title: Sprouted wheat baguettes
    img: "baguette.jpg"
-   source: "This & that"
+   source: "This & that, here & there"
    category: bread
    href: "http://lynness.github.io/recipes/home-recipes/sprouted-baguette.md"
    tags:
