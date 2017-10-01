@@ -375,6 +375,9 @@ span.click-text {
         column-count: 2;
         -webkit-column-count: 2;
     }
+    .recipes h3 {
+        font-size: 0.9rem;
+	}
 }
 
 @media screen and (min-width: 48em) {
