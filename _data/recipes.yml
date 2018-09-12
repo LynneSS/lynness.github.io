@@ -274,11 +274,11 @@
    - main
    - beef
 
--  title: Tomato soup
-   img: tomato-soup.jpg
+-  title: Tomato sauce
+   img: tomato-sauce.jpg
    source: Serious Eats
    category: sauce
-   href: "http://lynness.github.io/recipes/home-recipes/tomato-soup.html"
+   href: "http://lynness.github.io/recipes/home-recipes/tomato-sauce.html"
    tags:
    - soup
    
