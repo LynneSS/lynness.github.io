@@ -26,30 +26,10 @@
 		</div>
 
 		<!-- **** DROPDOWN HEADER **** -->
-		
-		<header class="site-header px2 px-responsive no-bottom">
-			<!-- Dropdown menu from <a href="http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/">medialoot.com</a> -->
-			<div class="mt2 wrap no-top-marg">
-			    <div class="measure">
-					<nav>
-					<!--CSS will hide this checkbox while at the same time during a media query,
-					check the box to cause proper display of menu-->
-						<label for="show-menu" class="show-menu vert-hide">{{ site.title }}</label>
-						<input type="checkbox" id="show-menu" name="button">
-						<ul id="menu">
-							<li><a class="active" href="{{ site.baseurl }}/archive.html">Archive</a></li>
-							<li><a href="{{ site.baseurl }}/tags.html">Tags</a></li>
-							<li><a href="https://trello.com/crafts63">Stashes</a></li>
-					        <li><a href="{{ site.baseurl }}/library/library.html">Library</a></li>
-							<li><a href="{{ site.baseurl }}/ideas/dropbox.html">Ideas</a></li>
-							<li><a href="{{ site.baseurl }}/recipes/recipes.html">Recipes</a></li>
-					    </ul>
-					</nav>
-					<div class="clearfix"></div><!-- /.cleaerfix -->
-				</div><!-- /.measure -->
-			</div><!-- /.mt2 wrap -->
-		</header>
-		
+		{% if page.header %}
+			{% include header.html %}
+		{% endif %}
+			
 		<!-- **** MAIN **** -->
 		
 		<div>
@@ -62,28 +42,17 @@
 			</div><!-- /.main post p2 -->
 			
 			<!-- **** SIDEBAR **** -->
+			{% if page.aside %}
+				{% include aside.html %}
+			{% endif %}
 			
-			<aside class="projects">
-				<ul class="mt1 list-reset">
-					{% for project in site.data.projects %}
-					{% if project.status == "in progress" %}
-					<li>
-						<a href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
-						<img class="center-image" src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
-						</a>
-					<li>
-					<hr />
-					{% endif %}
-					{% endfor %}
-				</ul>
-			</aside>
 		</div>
 	</div><!-- /.site-wrap -->
 	
-	<footer class="p2">
-		<div class="measure">
-			<small>Crafted on the <a href="http://pixyll.com">Pixyll</a> theme.<br>Powered by <a href="https://github.com">GitHub</a> & <a href="https://jekyllrb.com">Jekyll</a>.</small>
-		</div><!-- /.measure -->
-	</footer>	
+	<!-- **** FOOTER **** -->
+	{% if page.footer %}
+		{% include footer.html %}
+	{% endif %}
+			
 </body>
 </html>
