@@ -26,7 +26,7 @@
 		</div>
 
 		<!-- **** DROPDOWN HEADER **** -->
-		{% if header %}
+		{% if page.header %}
 			{% include header.html %}
 		{% endif %}
 			
@@ -42,7 +42,7 @@
 			</div><!-- /.main post p2 -->
 			
 			<!-- **** SIDEBAR **** -->
-			{% if aside %}
+			{% if page.aside %}
 				{% include aside.html %}
 			{% endif %}
 			
@@ -50,7 +50,7 @@
 	</div><!-- /.site-wrap -->
 	
 	<!-- **** FOOTER **** -->
-	{% if footer %}
+	{% if page.footer %}
 		{% include footer.html %}
 	{% endif %}
 			

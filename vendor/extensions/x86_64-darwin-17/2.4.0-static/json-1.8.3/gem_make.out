@@ -1,5 +1,5 @@
 current directory: /Users/Lynne/Dropbox/Public/Craft/vendor/gems/json-1.8.3/ext/json/ext/generator
-/Users/Lynne/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20180912-35136-1oucfdm.rb extconf.rb
+/Users/Lynne/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20180914-53806-7589ph.rb extconf.rb
 creating Makefile
 
 current directory: /Users/Lynne/Dropbox/Public/Craft/vendor/gems/json-1.8.3/ext/json/ext/generator
