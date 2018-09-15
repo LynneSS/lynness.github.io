@@ -179,44 +179,6 @@ footer.p2 {
 }
 
 
-/* -- Recipe Pages --------------------- */
-
-.pressure li a {
-    color: #666;
-    background-image: none;
-    width: auto;
-    text-align: left
-}
-
-.recipes,
-.recipe-tags li {
-    width: 100px;
-    padding: 0 5px;
-    float: left;
-}
-
-.recipes a,
-.recipe-tags a {
-    color: #333;
-    background-image: none;
-}
-
-.recipes h3,
-.recipe-tags a {
-    margin: 1rem 0 .5rem;
-    text-align: center;
-}
-
-.recipes img,
-.recipe-tags img {
-    width: 100px;
-}
-
-.recipe-tags li {
-    display: inline;
-}
-
-
 /* -- Photo Grid ---------------------*/
 
 
@@ -271,13 +233,14 @@ a.hide-display:hover span.click-title {
     /* displays when the anchor is clicked. */
     position: absolute;
     font-size: 1rem;
-    line-height: 1.67rem;
-    top: .357rem;
+    line-height: 1rem;
+    top: -2.5rem;
     /* Positions the box */
-    left: 1.43rem;
+    right: 0px;
+	bottom: 0px;
     /* Positions the box */
     width: auto;
-    padding: .714rem;
+    padding: .5rem;
     border: 1px solid #666;
     background-color: #c0cedd;
     color: #000;
@@ -288,10 +251,10 @@ a.hide-display:hover span.click-title {
 /*Styling of second text section*/
 
 span.click-text {
-    font-size: .8rem;
+    font-size: .9rem;
     font-weight: normal;
     color: #444;
-    line-height: 1.28rem;
+    line-height: 1rem;
 }
 
 
@@ -375,10 +338,21 @@ span.click-text {
         column-count: 2;
         -webkit-column-count: 2;
     }
-    .recipes h3 {
-        font-size: 0.9rem;
+	a.hide-display:hover span.click-title {
+	    font-size: .9rem;
+	    line-height: 1rem;
 	}
+	span.click-text {
+	    font-size: .75rem;
+		line-height: 1rem;
+	
 }
+
+@media screen and (min-width: 39.8em) {
+    #photos {
+        column-count: 3;
+        -webkit-column-count: 3;
+    }
 
 @media screen and (min-width: 48em) {
     .banner {
@@ -429,10 +403,6 @@ span.click-text {
     .recipes h5 {
         font-size: .75rem;
     }
-    #photos {
-        column-count: 3;
-        -webkit-column-count: 3;
-    }
 }
 
 @media screen and (min-width: 52em) {
@@ -460,17 +430,28 @@ span.click-text {
         column-count: 4;
         -webkit-column-count: 4;
     }
-    span.click-text {
-        font-size: .65rem;
-    }
+	a.hide-display:hover span.click-title {
+	    font-size: .85rem;
+	    line-height: 1rem;
+	}
+	span.click-text {
+	    font-size: .70rem;
+		line-height: 1rem;
+	}
 }
 
-
-/*
 @media screen and (min-width: 64em) {
 		#photos {
 		column-count: 5;
 		-webkit-column-count: 5;
 	}
+		a.hide-display:hover span.click-title {
+	    font-size: .8rem;
+	    line-height: 1rem;
+	}
+	span.click-text {
+	    font-size: .65rem;
+		line-height: 1rem;
+	}
+		
 }
-*/
