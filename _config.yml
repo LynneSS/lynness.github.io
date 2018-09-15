@@ -12,6 +12,10 @@ text:
     newer: 'Newer'
     older: 'Older'
 
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 paginate: 10
