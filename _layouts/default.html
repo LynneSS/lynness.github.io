@@ -26,10 +26,8 @@
 		</div>
 
 		<!-- **** DROPDOWN HEADER **** -->
-		{% if page.header %}
-			{% include header.html %}
-		{% endif %}
-			
+		{% include header.html %}
+		
 		<!-- **** MAIN **** -->
 		
 		<div>
@@ -42,17 +40,13 @@
 			</div><!-- /.main post p2 -->
 			
 			<!-- **** SIDEBAR **** -->
-			{% if page.aside %}
-				{% include aside.html %}
-			{% endif %}
+			{% include aside.html %}
 			
 		</div>
 	</div><!-- /.site-wrap -->
 	
 	<!-- **** FOOTER **** -->
-	{% if page.footer %}
-		{% include footer.html %}
-	{% endif %}
-			
+	{% include footer.html %}
+	
 </body>
 </html>
