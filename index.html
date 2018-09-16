@@ -1,36 +1,16 @@
 ---
 layout: default
 title: Home
-aside: true
-header: true
-footer: true
 ---
-{% assign posts_count = (paginator.posts | size) %}
-
-<div class="home">
-	{% if posts_count > 0 %}
-	<div class="posts">
-		{% for post in paginator.posts %}
-		<div id="index-post" class="post">
-			<p class="post-meta dark">{{ post.date | date: site.date_format }}</p>
-				<a href="{{ site.baseurl }}/projects/{{ post.category }}/{{ post.category }}.html">
-					<p class="med-grey mt0 right-align h5">{{ post.title }}</p>
-				</a>
-				<a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-					<h2 class="post-title">{{ post.heading }}</h2>
-					<p class="post-summary">
-					{% if post.summary %}
-						{{ post.summary }}
-					{% else %}
-						{{ post.excerpt }}
-					{% endif %}
-					</p>
-				</a>
-				{% include post-tags.html %}
-		</div><!-- /#index-post -->
-		<hr class="mt0 mb2" />
-		{% endfor %}
-	</div><!-- /.posts -->
-	{% include pagination.html %}
-	{% endif %}
-</div><!-- /.home -->
+<section id="photos">
+	{% for project in site.projects %}
+		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
+			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+			<span class="click-title">{{ project.project-title }}<br/>
+				{% if project.subtitle %}
+				<span class="click-text">{{ project.subtitle }}</span>
+				{% endif %}
+			</span>
+		</a>
+	{% endfor %}
+</section><!-- /#photos -->
