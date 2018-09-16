@@ -1,0 +1,26 @@
+---
+layout: default
+title: "BaaBoo socks"
+img: "baaboo.jpg"
+folder: baaboo-socks
+href: "baaboo-socks.html"
+status: in progress
+tag: socks knitting
+subtitle: Redoing as scarf
+---
+<h2 class="center">Pair of Socks #2 from BaaBoo Yarn</h2>
+<p class="right-align">
+	<a href="http://www.ravelry.com/projects/LynneS/fish-lips-kiss-heel">Ravelry link</a>
+</p>
+{% for post in site.posts %}
+{% if post.category == "baaboo-socks" %}
+<div class="space-above">
+	<h3>{{ post.title }} - <small>Posted on <a href="{{ post.url }}">{{ post.date | date_to_string }}</a></small></h3>
+</div>
+
+<div class="post">
+	{{ post.content }}  <!-- content of the post -->
+</div>
+
+{% endif %}
+{% endfor %}
