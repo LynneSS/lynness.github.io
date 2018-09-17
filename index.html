@@ -8,9 +8,9 @@ title: Home
 			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
 				{% if project.subtitle %}
-				<span class="click-text">{{ project.subtitle }}</span>
+				<span class="click-text">{{ project.subtitle }}</span><br />
 				{% endif %}
-				<span class="click-text">{{ project.status }}</span>
+				<span class="click-text center">({{ project.status }})</span>
 			</span>
 		</a>
 	{% endfor %}
