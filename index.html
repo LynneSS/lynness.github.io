@@ -2,15 +2,51 @@
 layout: default
 title: Home
 ---
+<h2 class="center">In progress</h2>
 <section id="photos">
 	{% for project in site.projects %}
-		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
-			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
-			<span class="click-title">{{ project.project-title }}<br/>
-				{% if project.subtitle %}
-				<span class="click-text">{{ project.subtitle }}</span>
-				{% endif %}
-			</span>
-		</a>
+		{% if project.status == "in progress" %}
+			<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
+				<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+				<span class="click-title">{{ project.project-title }}<br/>
+					{% if project.subtitle %}
+					<span class="click-text">{{ project.subtitle }}</span>
+					{% endif %}
+				</span>
+			</a>
+		{% endif %}
 	{% endfor %}
 </section><!-- /#photos -->
+<hr />
+<h2 class="center">Finished</h2>
+<section id="photos">
+	{% for project in site.projects %}
+		{% if project.status == "finished" %}
+			<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
+				<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+				<span class="click-title">{{ project.project-title }}<br/>
+					{% if project.subtitle %}
+					<span class="click-text">{{ project.subtitle }}</span>
+					{% endif %}
+				</span>
+			</a>
+		{% endif %}
+	{% endfor %}
+</section><!-- /#photos -->
+<hr />
+<h2 class="center">On hold</h2>
+<section id="photos">
+	{% for project in site.projects %}
+		{% if project.status == "on hold" %}
+			<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
+				<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+				<span class="click-title">{{ project.project-title }}<br/>
+					{% if project.subtitle %}
+					<span class="click-text">{{ project.subtitle }}</span>
+					{% endif %}
+				</span>
+			</a>
+			{% endif %}
+	{% endfor %}
+</section><!-- /#photos -->
+
