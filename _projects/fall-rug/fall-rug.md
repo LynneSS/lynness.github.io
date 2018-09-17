@@ -79,13 +79,7 @@ Shaft 4: 7x9+3=66
 ```
 
 ## Project plan
-![Calculations for the rug]({{ site.baseurl }}/projects/fall-rug/img/project-plan.jpg){: .center-image }
-
-## Rug draft
-
-<a href="http://lynness.github.io/projects/fall-rug/img/reboot-draft-big.jpg">
-	<img src="http://lynness.github.io/projects/fall-rug/img/reboot-draft.jpg" />
-</a>
+![Project plan]({{ site.baseurl }}/projects/fall-rug/img/project-plan.jpg){: .center-image }
 
 ## New fabric
 
