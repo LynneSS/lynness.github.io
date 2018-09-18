@@ -38,20 +38,16 @@ Need 17 repeats of 11 in each group.
 ![Weaving plan]({{ site.baseurl }}/projects/finnish-twill/img/plan-finnish.jpg){: .center-image }
 
 ## Samples
-![Sample 1]({{ site.baseurl }}/projects/finnish-twill/img/finnish1.jpg){: .center-image }
-
-![Sample 2]({{ site.baseurl }}/projects/finnish-twill/img/finnish2.jpg){: .center-image }
-
-![Sample 3]({{ site.baseurl }}/projects/finnish-twill/img/finnish3.jpg){: .center-image }
-
-![Sample 4]({{ site.baseurl }}/projects/finnish-twill/img/finnish4.jpg){: .center-image }
-
-![Sample 5]({{ site.baseurl }}/projects/finnish-twill/img/finnish5.jpg){: .center-image }
-
-![Sample 6]({{ site.baseurl }}/projects/finnish-twill/img/finnish6.jpg){: .center-image }
-
-![Sample 7]({{ site.baseurl }}/projects/finnish-twill/img/finnish7.jpg){: .center-image }
-
+<section id="photos">
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish1.jpg" />
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish2.jpg" />
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish3.jpg" />
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish4.jpg" />
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish5.jpg" />
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish6.jpg" />
+<img src="{{ site.baseurl }}/projects/finnish-twill/img/finnish7.jpg" />
+</section><!-- /#photos -->
+<hr />
 Pre-washing measurements,
 
 ![Measurements 1]({{ site.baseurl }}/projects/finnish-twill/img/measure3.jpg){: .center-image }
