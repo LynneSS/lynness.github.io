@@ -4,7 +4,7 @@ title: Home
 ---
 <section id="photos">
 	{% for project in site.projects %}
-		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.href }}">
+		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
 			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
 				{% if project.subtitle %}
