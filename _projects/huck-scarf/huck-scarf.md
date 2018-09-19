@@ -11,12 +11,12 @@ started: 13 Aug 2014
 finished: before Christmas 2014
 ---
 <section id="photos">
-![Weaving draft]({{ site.baseurl }}/projects/huck-scarf/img/huck-draft.jpg)
-![Talyo yarn label]({{ site.baseurl }}/projects/huck-scarf/img/talyo.jpg)
-![Silken fog yarn label]({{ site.baseurl }}/projects/huck-scarf/img/silken-fog.jpg)
-![Project plan]({{ site.baseurl }}/projects/huck-scarf/img/scarf-plan.jpg)
-![Sleying order]({{ site.baseurl }}/projects/huck-scarf/img/skeying.jpg)
-![Checking ppi]({{ site.baseurl }}/projects/huck-scarf/img/ppi.jpg)
-![Scarf on the loom]({{ site.baseurl }}/projects/huck-scarf/img/on-loom.jpg)
-![finished scarf]({{ site.baseurl }}/projects/huck-scarf/img/finished-huck.jpg)
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/huck-draft.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/talyo.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/silken-fog.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/scarf-plan.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/skeying.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/ppi.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/on-loom.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/finished-huck.jpg" />
 </section><!-- /#photos -->
