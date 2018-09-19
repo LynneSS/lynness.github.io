@@ -10,6 +10,8 @@ tag: weaving rug rosepath
 started: 4/25/2017
 finished: 5/9/2017
 ---
+<p class="center">({{ page.started }}–{{ page.finished }})</p>
+
 ![Fabric colors]({{ site.baseurl }}/projects/spring-rug/img/rug-fabrics.jpg){: .center-image }
 
 <a href="http://lynness.github.io/projects/spring-rug/spring-rug-plan.htm">Color plan</a>

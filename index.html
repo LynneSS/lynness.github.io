@@ -2,9 +2,40 @@
 layout: default
 title: Home
 ---
+<h2>In progress</h2>
 <section id="photos">
 	{% for project in site.projects %}
-	{% if page.status == in progress %}
+	{% if project.status == "in progress" %}
+		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
+			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+			<span class="click-title">{{ project.project-title }}<br/>
+				{% if project.subtitle %}
+				<span class="click-text">{{ project.subtitle }}</span><br />
+				{% endif %}
+				<span class="click-text center">({{ project.status }})</span>
+			</span>
+		</a>
+	{% endif %}
+	{% endfor %}
+</section><!-- /#photos -->
+
+<h2>Finished or in time-out</h2>
+<section id="photos">
+	{% for project in site.projects %}
+	{% if project.status == "finished" %}
+		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
+			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+			<span class="click-title">{{ project.project-title }}<br/>
+				{% if project.subtitle %}
+				<span class="click-text">{{ project.subtitle }}</span><br />
+				{% endif %}
+				<span class="click-text center">({{ project.status }})</span>
+			</span>
+		</a>
+	{% endif %}
+	{% endfor %}
+	{% for project in site.projects %}
+	{% if project.status == "on hold" %}
 		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
 			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>

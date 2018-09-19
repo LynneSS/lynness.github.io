@@ -5,7 +5,7 @@ subtitle: with repurposed sock yarn
 img: baaboo.jpg
 folder: baaboo-scarf
 href: baaboo-scarf.html
-status: in progess
+status: "in progress"
 tag: socks knitting
 ---
 ### Yarn

@@ -154,7 +154,7 @@
    img: "str-attr1.jpg"
    big-img: "str-attr1-big.jpg"
    category: ideas
-   hover: "An attractor is called strange if it has a fractal structure"
+   hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
    href: "http://www2.hawaii.edu/~wissman/visuals.html"
 
@@ -274,7 +274,7 @@
    img: "str-attr2.jpg"
    big-img: "str-attr2-big.jpg"
    category: ideas
-   hover: "An attractor is called strange if it has a fractal structure"
+   hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
    href: "http://www2.hawaii.edu/~wissman/visuals.html"
 
@@ -314,7 +314,7 @@
    img: "str-attr3.jpg"
    big-img: "str-attr3-big.jpg"
    category: ideas
-   hover: "An attractor is called strange if it has a fractal structure."
+   hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
    href: "http://www2.hawaii.edu/~wissman/visuals.html  "
 
@@ -351,7 +351,7 @@
    href: 
 
 -  title: Turned Taquete Dishtowels
-   img: "turned-taquete.jpg"
+   img: ".jpg"
    big-img: "turned-taquete-big.jpg"
    category: ideas
    hover: 
@@ -378,7 +378,7 @@
    img: "str-attr4.jpg"
    big-img: "str-attr4-big.jpg"
    category: ideas
-   hover: An attractor is called strange if it has a fractal structure"
+   hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
    tags: 
    href: "http://www2.hawaii.edu/~wissman/visuals.html"
 

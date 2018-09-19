@@ -9,6 +9,8 @@ status: finished
 tag: weaving towels gift
 started: 09/2/2016
 ---
+<p class="center">({{ page.started }}–{{ page.finished }})</p>
+
 ## Project planning
 ![Project draft]({{ site.baseurl }}/projects/pincross-towels/img/pincross-draft.jpg){: .center-image }
 

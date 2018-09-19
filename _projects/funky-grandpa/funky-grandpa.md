@@ -11,6 +11,8 @@ started: 2/18/2017
 finished:
 ravelry: http://www.ravelry.com/patterns/library/funky-grandpa
 ---
+<p class="center">({{ page.started }}–{{ page.finished }})</p>
+
 ![Picture of sweater]({{ site.baseurl }}/projects/{{ page.folder }}/img/{{ page.img }}){: .center-image }
 
 Pattern: [Funky Grandpa pattern]({{ post.ravelry }})

@@ -11,6 +11,7 @@ started:
 finished: 
 ---
 <section id="photos">
+<img src="{{ site.baseurl }}/projects/sami-bracelets/img/first-sami.jpg" />
 <img src="{{ site.baseurl }}/projects/sami-bracelets/img/braids.jpg" />
 <img src="{{ site.baseurl }}/projects/sami-bracelets/img/laid-out.jpg" />
 <img src="{{ site.baseurl }}/projects/sami-bracelets/img/lined-up.jpg" />

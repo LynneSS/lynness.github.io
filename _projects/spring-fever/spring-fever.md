@@ -10,6 +10,8 @@ tag: knitting scarf gift
 started: 10/8/2016
 finished: 12/23/2016
 ---
+<p class="center">({{ page.started }}–{{ page.finished }})</p>
+
 For Laurel's Christmas present.
 
 Pattern: [Spring Fever pattern](http://www.ravelry.com/patterns/library/spring-fever-2)

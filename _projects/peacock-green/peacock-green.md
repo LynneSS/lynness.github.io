@@ -9,8 +9,9 @@ status: in progress
 tag: spinning
 started: 12/25/2016
 finished:
-path: "{{ site.baseurl}}/projects/{{ page.folder }}/img"
 ---
+<p class="center">({{ page.started }}–{{ page.finished }})</p>
+
 ![Fiber label]({{ site.baseurl }}/projects/{{ page.folder }}/img/peacock-label.jpg){: .center-image }
 
 Peacock fiber from Beesybee - Christmas present from Pat. 4 oz. 

@@ -10,6 +10,8 @@ tag: weaving gifts towels
 started: 11/15/2015
 finished: 3/23/2016
 ---
+<p class="center">({{ page.started }}–{{ page.finished }})</p>
+
 ## Draft:
 <span class="h4">Fistful of Stripes</span>
 
