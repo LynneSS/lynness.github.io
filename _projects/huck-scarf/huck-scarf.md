@@ -15,7 +15,7 @@ finished: before Christmas 2014
 <img src="{{ site.baseurl }}/projects/huck-scarf/img/talyo.jpg" />
 <img src="{{ site.baseurl }}/projects/huck-scarf/img/silken-fog.jpg" />
 <img src="{{ site.baseurl }}/projects/huck-scarf/img/scarf-plan.jpg" />
-<img src="{{ site.baseurl }}/projects/huck-scarf/img/skeying.jpg" />
+<img src="{{ site.baseurl }}/projects/huck-scarf/img/sleying.jpg" />
 <img src="{{ site.baseurl }}/projects/huck-scarf/img/ppi.jpg" />
 <img src="{{ site.baseurl }}/projects/huck-scarf/img/on-loom.jpg" />
 <img src="{{ site.baseurl }}/projects/huck-scarf/img/finished-huck.jpg" />
