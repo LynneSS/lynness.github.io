@@ -4,6 +4,7 @@ title: Home
 ---
 <section id="photos">
 	{% for project in site.projects %}
+	{% if page.status == in progress %}
 		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
 			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
@@ -13,5 +14,6 @@ title: Home
 				<span class="click-text center">({{ project.status }})</span>
 			</span>
 		</a>
+	{% endif %}
 	{% endfor %}
 </section><!-- /#photos -->
