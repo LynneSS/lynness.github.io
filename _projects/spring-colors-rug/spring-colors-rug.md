@@ -2,7 +2,7 @@
 layout: home
 project-title: Spring colors rug
 subtitle: Colors from Spring rosepath rug
-img: spring-colors.png
+img: fabric-colors.jpg
 folder: spring-colors-rug
 href: spring-colors-rug.html
 status: in progress
@@ -17,3 +17,9 @@ finished:
 ![Color schematic]({{ site.baseurl }}/projects/spring-colors-rug/img/color-schematic.png){: .center-image }
 
 On the same warp as <a href="{{ site.baseurl }}/projects/pick-pick/pick-pick.md">Pick & Pick rug</a> using fabric from <a href="{{ site.baseurl }}/projects/spring-rug/spring-rug.md">Pick & Pick rug</a>
+
+## Fabric
+![Fabric colors]({{ site.baseurl }}/projects/spring-colors-rug/img/fabric-colors.png){: .center-image }
+
+## Progress
+![First stripe]({{ site.baseurl }}/projects/spring-colors-rug/img/first-stripe.png){: .center-image }

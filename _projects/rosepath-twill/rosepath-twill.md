@@ -2,7 +2,7 @@
 layout: home
 project-title: Twill rag rug
 subtitle: on a rosepath threading
-img: progress1.jpg
+img: rug-done.jpg
 folder: rosepath-twill
 href: rosepath-twill.html
 status: finished
@@ -16,11 +16,17 @@ A sample from the Rosepath rug class. This is twill treadling with light fabric 
 
 ![Sample from rug class]({{ site.baseurl }}/projects/rosepath-twill/img/rose-twill-sample.jpg){: .center-image }
 
-## Fabrics used:
+## Fabrics used
 Mostly blues.
 
 ![Fabric for the rug]({{ site.baseurl }}/projects/rosepath-twill/img/fabric.jpg){: .center-image }
 
+## Progress
+
 ![Progress on the rug 1]({{ site.baseurl }}/projects/rosepath-twill/img/progress1.jpg){: .center-image }
 
 ![Progress on the rug 2]({{ site.baseurl }}/projects/rosepath-twill/img/progress2.jpg){: .center-image }
+
+## Finished rug
+
+![Progress on the rug 2]({{ site.baseurl }}/projects/rosepath-twill/img/rug-done.jpg){: .center-image }
