@@ -19,7 +19,7 @@ finished:
 On the same warp as <a href="{{ site.baseurl }}/projects/pick-pick/pick-pick.md">Pick & Pick rug</a> using fabric from <a href="{{ site.baseurl }}/projects/spring-rug/spring-rug.md">Pick & Pick rug</a>
 
 ## Fabric
-![Fabric colors]({{ site.baseurl }}/projects/spring-colors-rug/img/fabric-colors.png){: .center-image }
+![Fabric colors]({{ site.baseurl }}/projects/spring-colors-rug/img/fabric-colors.jpg){: .center-image }
 
 ## Progress
-![First stripe]({{ site.baseurl }}/projects/spring-colors-rug/img/first-stripe.png){: .center-image }
+![First stripe]({{ site.baseurl }}/projects/spring-colors-rug/img/first-stripe.jpg){: .center-image }
