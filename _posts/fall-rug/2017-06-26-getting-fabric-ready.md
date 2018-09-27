@@ -4,6 +4,8 @@ title: New fabric
 folder: fall-rug
 project-title: Fall rosepath rug
 ---
+![Fabric with gold medallions]({{ site.baseurl }}/projects/fall-rug/img/gold-curlicues.jpg){: .center-image }<br />
+
 ### Solid stripes
 * Purpe w/border = 15.21 g/sqft = 1 inch strips
 	![Purple fabric with border]({{ site.baseurl }}/projects/fall-rug/img/purple-wborder.jpg){: .center-image }<br />
