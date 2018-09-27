@@ -1,13 +1,10 @@
 ---
 layout: default
 Title: Ideas
-aside: true
-header: true
-footer: true
 ---
 <section id="photos">
 	{% for idea in site.data.ideas %}
-	<a class="hide-display" href="https://www.dropbox.com/home/Public/big-img?preview={{ idea.big-img }}">
+	<a class="hide-display" href="{{ idea.href }}">
 		<img src="{{ site.baseurl }}/ideas/img/{{ idea.img }}" />
 		<span class="click-title">{{ idea.title }}<br/>
 			<span class="click-text">{{ idea.hover }}</span>
