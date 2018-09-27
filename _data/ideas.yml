@@ -1,573 +1,484 @@
--  title: Bass Player
+-  title: Bass player
    img: "bass.jpg"
-   big-img: ""
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
-   tags: 
+   tags: general
    href:
    
--  title: Sax Player
+-  title: Sax player
    img: "sax.jpg"
-   big-img: ""
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
-   tags: 
+   tags: general
    href:
    
 -  title: Chaos and Order
-   img: "quilt1.jpg"
-   big-img: ""
+   img: "chaos.jpg"
    category: ideas
    hover: "Charlotte Yde, Chaos and Order, 2013"
-   tags: 
-   href:
+   tags: general
+   href: http://www.yde.dk/passageoftime.html
   
 -  title: Mom quilt
    img: "quilt2.jpg"
-   big-img: "quilt2-big.jpg"
    category: ideas
    hover: "Quilting Art Today & The Nordic Quilts at ASI"
-   tags: 
+   tags: general
    href:
    
--  title: Map Book Detail
+-  title: Map book detail
    img: boat.jpg
-   big-img: "boat-big.jpg"
    category: ideas
    hover: Painted scenes from a 17th-c map book of the city of Zaandam
-   tags: 
+   tags: general
    href: https://pbs.twimg.com/media/Ce9qIKvW8AE8q7f.jpg
-
--  title: Fair Isle Sweater
-   img: "fairisle.jpg"
-   big-img: "fairisle-big.jpg"
-   category: ideas
-   hover: Mati Ventrillon Bespoke Knitwear
-   tags: 
-   href: "http://www.mativentrillon.co.uk"
-
--  title: A Medieval Bird
+   
+-  title: A medieval bird
    img: "medieval-bird.jpg"
-   big-img: "medieval-bird-big.jpg"
    category: ideas
    hover: Can't find the citation.
-   tags: 
+   tags: illuminated
    href:
  
--  title: Creative Blocks Rug
+-  title: Creative Blocks rug
    img: "creative-blocks.jpg"
-   big-img: "creative-blocks"
    category: ideas
    hover: 
    tags: 
+   - rugs
+   - weaving
    href: "http://annesrugs.com.au/wp-content/uploads/2013/11/PICT5439-web.jpg"
 
--  title: Baby Blanket Draft
+-  title: Baby blanket draft
    img: "baby-blanket.jpg"
-   big-img: "baby-blanket-big.jpg"
    category: ideas
    hover: "Second Wind Jewelry & Weaving"
    tags: 
    href: "http://secondwindjewelry.com/jewelry-weaving-blog/wp-content/uploads/2012/03/baby-blanket-front-draft.jpg"
 
--  title: Pheonix
-   img: "pheonix.jpg"
-   big-img: "pheonix-big.jpg"
+-  title: Phoenix
+   img: "phoenix.jpg"
    category: ideas
-   hover: Univ Lib. MS 24
-   tags: 
-   href: "http://bestiary.ca/manuscripts/manu100.html"
+   hover: "The Aberdeen Bestiary, MS 24"
+   tags: general
+   href: "https://www.abdn.ac.uk/bestiary/"
 
--  title: Slate Formula Rug
+-  title: Slate Formula rug
    img: "slate-formula.jpg"
-   big-img: "slate-formula"
    category: ideas
    hover: 
    tags: 
+   - weaving
+   - rugs
    href: "http://annesrugs.com.au/wp-content/uploads/2013/11/PICT02122-web.jpg"
 
--  title: Kimono Jacket
+-  title: Kimono jacket
    img: "kimono-jacket.jpg"
-   big-img: "kimono-jacket-big.jpg"
    category: ideas
    hover: Source unknown
-   tags: idea jacket
+   tags: jacket
    
--  title: Building Block Rug
+-  title: Building Block rug
    img: "building-block.jpg"
-   big-img: "building-block-big.jpg"
    category: ideas
    hover: 
    tags: 
+   - weaving
+   - rugs
    href: "http://annesrugs.com.au/wp-content/uploads/2013/05/PICT1061-web.jpg"
 
--  title: 8-Shaft Draft
+-  title: 8-shaft draft
    img: "8-shaft.jpg"
-   big-img: "8-shaft-big.jpg"
    category: ideas
-   hover: "Hand Weaving Draft: Page 150, Figure 9, Donat, Franz Large Book of Textile Patterns, 8S, 8T - Handweaving.net"
-   tags: 
+   hover: "Hand Weaving Draft: Page 150, Figure 9, Donat, Franz Large Book of Textile Patterns, Handweaving.net"
+   tags: weaving
    href: "https://s-media-cache-ak0.pinimg.com/736x/01/6a/ed/016aedb5e49315a58c8e455fa1733944.jpg"
 
--  title: Peacock on the Letter A
+-  title: Peacock on the letter A
    img: "peacock.jpg"
-   big-img: "peacock.jpg-big.jpg"
    category: ideas
    hover: BL Harley 3452
-   tags: 
-   href: "https://pbs.twimg.com/media/CAftfOrWMAA1rwP.jpg"
+   tags: general
+   href: "http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=25843"
 
 -  title: Augustine's City of God
    img: "augustine.jpg"
-   big-img: "augustine-big.jpg"
    category: ideas
    hover: "opening page of Augustine's City of God in French, with dedication scene (lower left) (MâconBM1,15thC)"
-   tags: 
-   href: "http://annesrugs.com.au/wp-content/uploads/2013/05/PICT1061-web.jpg"
- 
+   tags: general
+   href: "http://bc.library.uu.nl/augustine-between-heaven-and-earth.html"
 
 -  title: Letter B
    img: "letter-b.jpg"
-   big-img: "letter-b"
    category: ideas
    hover: Don't know the source
-   tags: 
+   tags: illuminated
    href: 
 
 -  title: Double Trellis Towels
    img: "double-trellis.jpg"
-   big-img: "double-trellis"
    category: ideas
    hover: "Double trellis towels from an etsy site"
-   tags: 
+   tags: weaving
    href: "http://www.etsy.com/listing/19475400/handwoven-towel-in-double-trellis"
 
 -  title: Peacock
    img: "peacock2.jpg"
-   big-img: "peacock2.jpg"
    category: ideas
    hover: Don't know the source
-   tags: 
+   tags: illuminated
    href: 
 
 -  title: Strange Attractor 1
    img: "str-attr1.jpg"
-   big-img: "str-attr1-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
-   tags: 
+   tags: general
    href: "http://www2.hawaii.edu/~wissman/visuals.html"
 
 -  title: "Strawberries & Flowers"
    img: "strawberries.jpg"
-   big-img: "strawberries-big.jpg"
    category: ideas
    hover: "BL Harley 2443, 15th c"
-   tags: 
+   tags: illuminated
    href: "http://t.co/1sTv4amvQi"
 
 -  title: "Stripes & Blocks Towels"
    img: "stripes-and-blocks.jpg"
-   big-img: "stripes-and-blocks-big.jpg"
    category: ideas
    hover: "Stripes & blocks from an etsy site"
-   tags: 
-   href: http://www.etsy.com/listing/58966153/kitchen-towel-handwoven-stripes-and-blocks
+   tags: weaving
+   href: 
 
 -  title: "Ancient Astronomy"
    img: "moon.jpg"
-   big-img: "moon-big.jpg"
    category: ideas
    hover: "The Nebra Sky Disc is considered the oldest-known graphic depiction of celestial objects in human history"
-   tags: 
-   href: 
+   tags: general
+   href: https://www.lda-lsa.de/en/nebra_sky_disc/
 
 -  title: Möbius Shawl
    img: "mobius-shawl.jpg"
-   big-img: "mobius-shawl-big.jpg"
    category: ideas
    hover: I like the stripe
-   tags: 
+   tags: weaving
    href: "http://www.homesteadweaver.com/images/mobiusred.jpg"
 
 -  title: Almost Ikat
    img: "almost-ikat.jpg"
-   big-img: "almost-ikat-big.jpg"
    category: ideas
    hover: "Made with Bambu 7, Bonnie Tarses"
-   tags: 
-   href: 
+   tags: weaving
+   href: https://bonnietarses.com/five-reasons-why-i-love-almost-ikat-2/
    
 -  title: A Shy Lion Playing the Violin
    img: "shy-lion.jpg"
-   big-img: "shy-lion-big.jpg"
    category: ideas
    hover: Verdun BM 107
-   tags: 
+   tags: illuminated
    href: https://mobile.twitter.com/erik_kwakkel/status/581108557141176320/photo/1
 
 -  title: Drape
    img: "scan101.jpg"
-   big-img: "scan101-big.jpg"
    category: ideas
    hover: Scanned from a catalog
-   tags: 
+   tags: general
    href:
 
 -  title: "Dress, Simplicity Threads 1168"
    img: "simplicity-1168.jpg"
-   big-img: "simplicity-1168-big.jpg"
    category: ideas
    hover: "Dress pattern, Simplicity 1168"
-   tags: 
+   tags: general
    href: 
 
 -  title: Purple Runner with Pink Stripe
    img: "pink-sripe.jpg"
-   big-img: "pink-sripe-big.jpg"
    category: ideas
    hover: I like the stripe.
-   tags: 
-   href: "http://ballsandskeins.com/wp-content/uploads/2012/03/Fabric-on-loomsm.jpg "
+   tags: weaving
+   href: 
    
 -  title: Agatha Cardigan
    img: "agatha-cardigan.jpg"
-   big-img: "agatha-cardigan-big.jpg"
    category: ideas
    hover: Published in Knit Picks
-   tags: 
-   href: http://www.ravelry.com/patterns/sources/knit-picks
+   tags: knitting
+   href: https://www.ravelry.com/patterns/library/agatha-cardigan-2
 
 -  title: Burda 8949 Jacket
    img: "burda8949.jpg"
-   big-img: "burda8949-big.jpg"
    category: ideas
    hover: From Burda Patterns
-   tags: 
-   href: "http://sewing.patternreview.com/patterns/9591"
+   tags: general
+   href: "https://www.simplicity.com/simplicity-storefront-catalog/patterns/brands/burda-style/burda-style-pattern-8949-jacket/"
 
 -  title: Cardigan Idea
    img: "cardigan-idea.jpg"
-   big-img: "cardigan-idea-big.jpg"
    category: ideas
    hover: Scanned from a catalog
-   tags: 
-   href: 
-
--  title: iPad Case
-   img: "ipad-case.jpg"
-   big-img: "ipad-case-big.jpg"
-   category: ideas
-   hover: Tutorial for sewing project
-   tags: 
+   tags: knitting
    href: 
 
 -  title: Another Cardigan Idea
    img: "cardigan-idea2.jpg"
-   big-img: "cardigan-idea2-big.jpg"
    category: ideas
    hover: Scanned from a catalog.
-   tags: 
+   tags: knitting
    href: 
 
 -  title: Strange Attractor 2
    img: "str-attr2.jpg"
-   big-img: "str-attr2-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
-   tags: 
+   tags: general
    href: "http://www2.hawaii.edu/~wissman/visuals.html"
 
 -  title: Medieval Owl
    img: "owl.jpg"
-   big-img: "owl-big.jpg"
    category: ideas
    hover: "Paris, Bibl. Sainte-Geneviève 3401"
-   tags: 
+   tags: illuminated
    href: 
 
 -  title: Silk Weaving
    img: "silk-weaving.jpg"
-   big-img: "silk-weaving-big.jpg"
    category: ideas
    hover: "De claris mulieribus in an anonymous French translation, c. 1440."
-   tags: 
+   tags: illuminated
    href: "http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMINBig.ASP?size=big&IllID=43181"
      
 -  title: Man in Front of a Fireplace
    img: "fireplace.jpg"
-   big-img: "fireplace-big.jpg"
    category: ideas
    hover: RouenBM3028
-   tags: 
-   href: 
+   tags: illuminated
+   href: https://twitter.com/erik_kwakkel/status/586287242861223936/photo/1
 
 -  title: Mondrian Minus 30 Degrees
    img: "mondrian.jpg"
-   big-img: "mondrian-big.jpg"
    category: ideas
    hover: Mondrian Table Cloth
-   tags: 
+   tags: weaving
    href: "http://fiberartisan.blogspot.com/2012/04/mondrian-minus-30-degrees.html"
 
 -  title: Strange Attractor 3
    img: "str-attr3.jpg"
-   big-img: "str-attr3-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
-   tags: 
+   tags: general
    href: "http://www2.hawaii.edu/~wissman/visuals.html  "
 
 -  title: "Summer & Winter Rug"
    img: "summer-winter-rug.jpg"
-   big-img: "summer-winter-rug-big.jpg"
    category: ideas
    hover: 
    tags: 
+   - rug
+   - weaving
    href: "https://s-media-cache-ak0.pinimg.com/originals/9f/7f/c5/9f7fc58bea182c06f13bfa12a815661f.jpg"
 
 -  title: "The Decretals of Gregory IX, c. 1340"
    img: "bird-spinning.jpg"
-   big-img: "bird-spinning-big.jpg"
    category: ideas
    hover: Held in the British Library
-   tags: 
+   tags: illuminated
    href: http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_10_e_iv_f147r
 
 -  title: Taquete Single Weft Shawl
    img: "taquete-shawl.jpg"
-   big-img: "taquete-shawl"
    category: ideas
    hover: 
-   tags: 
+   tags: weaving
    href: "http://secondwindjewelry.com/jewelry-weaving-blog/wp-content/uploads/2015/01/taquete-single-weft-shawl.jpg"
 
 -  title: Monet Möbius
    img: "monet-mobius.jpg"
-   big-img: "monet-mobius-big.jpg"
    category: ideas
    hover: "From Handwoven, Sep/Oct 2013"
-   tags: 
+   tags: weaving
    href: 
 
 -  title: Turned Taquete Dishtowels
-   img: ".jpg"
-   big-img: "turned-taquete-big.jpg"
+   img: "taquete-shawl.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: weaving
    href: "https://www.flickr.com/photos/sapoague/13175564835"
 
 -  title: Pallas and Arachne at the Loom
    img: "pallas-arachne.jpg"
-   big-img: "pallas-arachne-big.jpg"
    category: ideas
    hover: "Metamorphoses, 15 c"
-   tags: 
+   tags: illuminated
    href: "http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMINBig.ASP?size=big&IllID=40706"
 
 -  title: Medieval Farm Scene
    img: "farm.jpg"
-   big-img: "farm-big.jpg"
    category: ideas
    hover: "BL Burney 272, 15th c"
-   tags: 
+   tags: illuminated
    href: https://pbs.twimg.com/media/CCyRDe2WAAEpk9a.jpg:large
 
 -  title: Strange Attractor 4
    img: "str-attr4.jpg"
-   big-img: "str-attr4-big.jpg"
    category: ideas
    hover: "An attractor is a set of points for which a solution tends to for a wide range of initial conditions. An attractor is called strange if it has a fractal structure (Wikipedia)."
-   tags: 
+   tags: general
    href: "http://www2.hawaii.edu/~wissman/visuals.html"
-
--  title: Mountour Falls Cardigan
-   img: "montour-falls.jpg"
-   big-img: "montour-falls-big.jpg"
-   category: ideas
-   hover: PDF pattern from Knitscene
-   tags: 
-   href: 
 
 -  title: "King Alexander & His Cat"
    img: "king-alex.jpg"
-   big-img: "king-alex-big.jpg"
    category: ideas
    hover: "BL Royal 20 B.xx, 15th c"
-   tags: 
+   tags: illuminated
    href: http://t.co/g2RbvdUc0X
 
 -  title: Fabric Combination for Rugs
    img: "pink-fabric.jpg"
-   big-img: "pink-fabric-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
-   tags: 
-   href: 
-
--  title: Red Cardigan
-   img: "red-cardigan.jpg"
-   big-img: "red-cardigan-big.jpg"
-   category: ideas
-   hover: Scanned from a catalog.
-   tags: 
+   tags: weaving
    href: 
 
 -  title: Fabric Combination for Rugs
    img: "red-blue.jpg"
-   big-img: "red-blue-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
-   tags: 
+   tags: weaving
    href: 
 
 -  title: "The Letter E"
    img: "letter-e.jpg"
-   big-img: "letter-e-big.jpg"
    category: ideas
    hover: "AvranchesBM59, 11th c"
-   tags: 
+   tags: illuminated
    href: 
 
 -  title: Fabric Combination for Rugs
    img: "green-red.jpg"
-   big-img: "green-red.jpg-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
-   tags: 
+   tags: weaving
    href: 
 
 -  title: "Gold-Trimmed Jacket"
    img: "gold-trim.jpg"
-   big-img: "gold-trim-big.jpg"
    category: ideas
    hover: "Scanned from a catalog."
-   tags: 
+   tags: general
    href: 
 
 -  title: "15th Century French Spinner"
    img: "french-spinner.jpg"
-   big-img: "french-spinner-big.jpg"
    category: ideas
    hover: "MS Fr. 599, f. 48, Bibliotheque Nationale, Paris"
-   tags: 
+   tags: illuminated
    href: 
 
 -  title: Fabric Combination for Rugs
    img: "purple-flowers.jpg"
-   big-img: "purple-flowers-big.jpg"
    category: ideas
    hover: Coordinating fabrics for rag rugs
-   tags: 
+   tags: general
    href: 
 
 -  title: Central Park Needlework
    img: "central-park.jpg"
-   big-img: "central-park-big.jpg"
    category: ideas
    hover: "Needlepoint(?) found on Flickr"
-   tags: 
+   tags: general
    href: "http://www.flickr.com/photos/shitao/2423720113/sizes/l/in/photostream/"
 
 -  title: Multicolor Scarf
    img: "multicolor-scarf.jpg"
-   big-img: "multicolor-scarf-big.jpg"
    category: ideas
    hover: Scanned from a catalog
    tags: 
+   - knitting
+   - weaving
    href: 
 
 -  title: Alchemist
    img: "alchemist.jpg"
-   big-img: "alchemist-big.jpg"
    category: ideas
    hover: "MS. Add. A. 287, fol. 009v, 17c"
-   tags: 
+   tags: illuminated
    href: "http://bodley30.bodley.ox.ac.uk:8180/luna/servlet/view/search/what/MS.%20Add.%20A.%20287?q=Shelfmark=%22MS.%20Add.%20A.%20287%22&sort=Shelfmark,Folio_Page,Roll_"
 
 -  title: Striped Rug with Border
    img: "striped-rug.jpg"
-   big-img: "striped-rug-big.jpg"
    category: ideas
    hover: Scanned from a catalog
-   tags: 
+   tags: weaving
    href: 
 
 -  title: "Female Reader, 1497"
    img: "female-reader.jpg"
-   big-img: "female-reader-big.jpg"
    category: ideas
    hover: Bodleian Douce 287
-   tags: 
+   tags: illuminated
    href: "http://t.co/aaadX2vurB"
 
 -  title: Shirt from Handwoven Material
    img: "shirt.jpg"
-   big-img: "shirt-big.jpg"
    category: ideas
    hover: 
    tags: 
+   - weaving
+   - sewing
    href: "https://s3.amazonaws.com/cdn.marketplaceindia.com/images/uploads/50C-33-Z.jpg"
 
 -  title: "Plato's Timaeus, 12c"
    img: "timaeus.jpg"
-   big-img: "timaeus-big.jpg"
    category: ideas
    hover: "Diagram in a 12th-century copy of Plato's Timaeus (Bodleian Digby 23, part 1)"
-   tags: 
+   tags: illuminated
    href: https://twitter.com/erik_kwakkel/status/625606308880887808
 
 -  title: "Lindisfarne Gospels, c. 700"
    img: "illustration.jpg"
-   big-img: "illustration-big.jpg"
    category: ideas
    hover: "British Library, Cotton Nero D.IV (c. 700)"
-   tags: 
+   tags: illuminated
    href: "http://medievalbooks.nl/2014/11/14/drawing-with-words/"
 
 -  title: "The Arundel Psalter, 11c"
    img: "arundel-155.jpg"
-   big-img: "arundel-155-big.jpg"
    category: "Origin: England, S. E. (Canterbury, Christ Church), btw 1012 and 1023"
-   tags: 
+   tags: illuminated
    href: http://medievalbooks.nl/2014/11/14/drawing-with-words/
 
 -  title: Hares in a Circle
    img: "hare.jpg"
-   big-img: "hare-big.jpg"
    category: ideas
    hover: "Bodleian Douce 218, 13thC"
-   tags: 
+   tags: illuminated
    href: "https://pbs.twimg.com/media/CKCnU8BWEAANxv7.jpg:large"
 
 -  title: "Archer in a Filigree, 14 c"
    img: "archer.jpg"
-   big-img: "archer-big.jpg"
    category: ideas
    hover: "Bodleian Canon. Bibl. Lat. 57, 14th c"
-   tags: 
+   tags: illuminated
    href: "https://pbs.twimg.com/media/CLFkJHCWUAAdxEM.jpg"
 
 -  title: Boleian Douce 287
    img: "book-palm.jpg"
-   big-img: "book-palm-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: illuminated
    href: "https://twitter.com/erik_kwakkel/status/628566508696903680/photo/1"
 
 -  title: "Pliny in an Incunable, 1476"
    img: "pliny.jpg"
-   big-img: "pliny-big.jpg"
    category: ideas
    hover: "Bodleian Bod. Inc. Cat., P-372(2)"
-   tags: 
+   tags: illuminated
    href: "https://twitter.com/erik_kwakkel/status/628324213024292864/photo/1"
 
 -  title: Composite Elephant
    img: "elephant.jpg"
-   big-img: "elephant-big.jpg"
    category: ideas
    hover: "Watercolour and gilt on paper, 18th c, Bodl. Ouseley Add.171"
    tags: 
@@ -575,55 +486,48 @@
 
 -  title: Medieval Lily
    img: "lily.jpg"
-   big-img: "lily-big.jpg"
    category: ideas
    hover: "Oxford Bodley 130, 11th c"
-   tags: 
+   tags: illuminated
    href: https://pbs.twimg.com/media/CNcnu7PWUAAXY1l.jpg
 
 -  title: Walking Bird
    img: "bird.jpg"
-   big-img: "bird-big.jpg"
    category: ideas
    hover: BLRoyal13BVIII
-   tags: 
+   tags: illuminated
    href: http://t.co/cwTlhN6vJM
 
 -  title: Flock of Cranes
    img: "flock-of-cranes.jpg"
-   imgBig: "flock-of-cranes-big.jpg"
    category: ideas
    hover:  'Ishida Yutei’s 18th-century "Flock of Cranes", at the MIA'
-   tags: 
+   tags: general
    href: "http://apps.startribune.com/eedition_ipad/pdfs/2015/10/02/StarTribune.2015.10.02.Variety%20South.pdf"
 
 -  title: Aurora Borealis
    img: "aurora1.jpg"
-   big-img: "aurora1-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: general
    href: 
 
 -  title: Theo Moorman
    img: "moorman-path.jpg"
-   big-img: "moorman-path-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: weaving
    href: 
 
 -  title: Theo Moorman
    img: "moorman-shepherds.jpg"
-   big-img: "moorman-shepherds-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: weaving
    href: 
 
 -  title: Theo Moorman
    img: "moorman.jpg"
-   big-img: "moorman-big.jpg"
    category: ideas
    hover: 
    tags: 
@@ -631,24 +535,21 @@
 
 -  title: Viking Necklace
    img: "viking-necklace.jpg"
-   big-img: "viking-necklace-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: jewelery
    href: 
 
 -  title: Aurora Borealis
    img: "aurora2.jpg"
-   big-img: "aurora2-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: general
    href: 
 
 -  title: Braided Bracelet
    img: "bracelet.jpg"
-   big-img: "bracelet-big.jpg"
    category: ideas
    hover: 
-   tags: 
+   tags: jewelery
    href:
