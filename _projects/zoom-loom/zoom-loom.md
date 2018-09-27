@@ -4,7 +4,6 @@ project-title: Zoom loom blanket
 subtitle: with sock yarn
 img: zoom3.jpg
 folder: zoom-loom
-href: zoom-loom.html
 status: in progress
 tag: weaving afghan
 ---

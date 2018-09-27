@@ -3,11 +3,11 @@ layout: home
 project-title: Pick & pick rug
 subtitle: Using up old sheets
 folder: pick-pick
-href: pick-pick.html
 img: new-green.jpg
 status: finished
 started: Spring 2018
 finished: 15 September 2018
+tag: rug weaving
 ---
 <h2 class="center">({{ page.started }}–{{ page.finished }})</h2>
 

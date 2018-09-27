@@ -4,7 +4,6 @@ project-title: Towel class
 subtitle: 
 img: dornick-all.jpg
 folder: towel-class
-href: towel-class.html
 status: finished
 tag: weaving towels
 ---

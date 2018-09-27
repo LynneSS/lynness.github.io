@@ -4,7 +4,6 @@ project-title: Spring rosepath rug
 subtitle: Rosepath rug class
 img: rug-offloom.jpg
 folder: spring-rug
-href: spring-rug.html
 status: finished
 tag: weaving rug rosepath
 started: 4/25/2017

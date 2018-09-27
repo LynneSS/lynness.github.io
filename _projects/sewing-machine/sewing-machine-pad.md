@@ -4,7 +4,6 @@ project-title: Sewing Machine Pad
 folder: sewing-machine
 img: machine-pad.jpg
 status: finished
-href: sewing-machine.html
 tags: sewing
 ---
 ![Finished sewing machine pad]({{ site.baseurl }}/projects/sewing-machine/img/machine-pad.jpg){: .center-image .vert-space}

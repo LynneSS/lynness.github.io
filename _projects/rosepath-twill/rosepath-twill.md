@@ -4,9 +4,8 @@ project-title: Twill rag rug
 subtitle: on a rosepath threading
 img: rug-done.jpg
 folder: rosepath-twill
-href: rosepath-twill.html
 status: finished
-tag: weaving rug twill rosepath
+tags: weaving rug twill rosepath
 started: 9/17/2017
 finished: 11/1/2017
 ---

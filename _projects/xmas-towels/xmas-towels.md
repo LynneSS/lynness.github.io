@@ -4,7 +4,6 @@ project-title: Christmas present towels
 subtitle: Fistful of stripes
 img: sampler2.jpg
 folder: xmas-towels
-href: xmas-towels.html
 status: finished
 tag: weaving gifts towels
 started: 11/15/2015

@@ -5,7 +5,6 @@ subtitle: For Laurel, 2014
 status: finished
 img: gamp1.jpg
 folder: color-gamp
-href: color-gamp.html
 status: finished
 tag: weaving blanket gift gamp huck
 started: 2013

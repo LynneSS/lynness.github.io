@@ -1,7 +1,8 @@
 ---
 layout: post
 title: New fabric
-category: fall-rug
+folder: fall-rug
+project-title: Fall rosepath rug
 ---
 ### Solid stripes
 * Purpe w/border = 15.21 g/sqft = 1 inch strips

@@ -4,7 +4,6 @@ project-title: Twice-woven rug
 subtitle: Handwoven & hand-dyed
 img: twice-woven2.jpg
 folder: twice-woven
-href: twice-woven.html
 status: in progress
 tag: weaving rug
 ---

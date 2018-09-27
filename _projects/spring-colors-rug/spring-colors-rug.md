@@ -4,9 +4,8 @@ project-title: Spring colors rug
 subtitle: Colors from Spring rosepath rug
 img: fabric-colors.jpg
 folder: spring-colors-rug
-href: spring-colors-rug.html
 status: in progress
-tag: weaving rug
+tags: weaving rug
 started: 20 September 2018
 finished: 
 ---

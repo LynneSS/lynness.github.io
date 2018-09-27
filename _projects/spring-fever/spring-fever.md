@@ -4,7 +4,6 @@ project-title: Spring Fever scarf
 subtitle: Christmas 2016
 img: laurel-spring.jpg
 folder: spring-fever
-href: spring-fever.html
 status: finished
 tag: knitting scarf gift
 started: 10/8/2016

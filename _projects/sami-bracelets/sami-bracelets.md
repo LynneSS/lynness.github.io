@@ -4,7 +4,6 @@ project-title: Sami bracelets
 subtitle: For Christmas presents
 img: done6.jpg
 folder: sami-bracelets
-href: sami-bracelets.html
 status: finished
 tag: bracelet braiding gift
 started: 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A new rug on an old warp
-category: rosepath-twill
+folder: rosepath-twill
+project-title: Twill rag rug
 ---
 ![Sample from rug class]({{ site.baseurl }}/projects/rosepath-twill/img/rose-twill-sample.jpg){: .center-image }
 

@@ -3,7 +3,6 @@ layout: home
 project-title: Fixing Laurel's quilt
 img: quilt.jpg
 folder: laurels-quilt
-href: laurels-quilt.html
 status: in progress
 tag: sewing
 ravelry: "http://www.ravelry.com/projects/LynneS/#"

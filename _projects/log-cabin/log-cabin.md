@@ -4,7 +4,6 @@ project-title: Log cabin afghan
 subtitle: Jaggerspun Maine leftovers
 img: 4-square.jpg
 folder: log-cabin
-href: log-cabin.html
 status: on hold
 tag: knitting afghan
 ---

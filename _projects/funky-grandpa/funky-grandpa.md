@@ -4,7 +4,6 @@ project-title: Funky Grandpa sweater
 subtitle: Version 2.0
 img: funky-grandpa.jpg
 folder: funky-grandpa
-href: funky-grandpa.html
 status: in progress
 tag: knitting sweater
 started: 2/18/2017

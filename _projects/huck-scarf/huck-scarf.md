@@ -4,7 +4,6 @@ project-title: Huck scarf
 subtitle: In yak and silk
 img: finished-huck.jpg
 folder: huck-scarf
-href: huck-scarf.html
 status: finished
 tag: weaving scarf gift
 started: 13 Aug 2014

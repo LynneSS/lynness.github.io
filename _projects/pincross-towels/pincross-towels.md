@@ -4,7 +4,6 @@ project-title: Pincross towels
 subtitle: Christmas 2016
 img: pin-samp6.jpg
 folder: pincross-towels
-href: pincross-towels.html
 status: finished
 tag: weaving towels gift
 started: 09/2/2016

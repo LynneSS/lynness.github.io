@@ -4,7 +4,6 @@ project-title: Scarf in purple & green
 subtitle: 
 img: purple-green.jpg
 folder: purple-green
-href: purple-green.html
 status: finished
 tag: knitting scarf
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Spring rug reboot
-category: spring-rug
+folder: fall-rug
+project-title: Fall rosepath rug
 ---
 ![Fabrics for the new rug]({{ site.baseurl }}/projects/fall-rug/img/reboot-fabric.jpg){: .center-image }
 

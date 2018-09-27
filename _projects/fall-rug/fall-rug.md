@@ -4,9 +4,8 @@ project-title: Fall rosepath rug
 subtitle: Same pattern as Spring rosepath rug
 img: reboot-3.jpg
 folder: fall-rug
-href: fall-rug.html
 status: finished
-tag: weaving rug rosepath
+tags: weaving rug rosepath
 started: 6/24/2017
 finished: 9/13/2017
 ---

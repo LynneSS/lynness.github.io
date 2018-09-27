@@ -1,7 +1,8 @@
 ---
 layout: post
 title: First two stripes
-category: fall-rug
+folder: fall-rug
+project-title: Fall rosepath rug
 ---
 	
 ![First two stripes of the rug]({{ site.baseurl }}/projects/fall-rug/img/reboot-2.JPG){: .center-image }

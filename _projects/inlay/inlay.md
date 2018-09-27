@@ -4,7 +4,6 @@ project-title: Experiments with Theo Moorman inslay
 subtitle: with leftover yarn
 img: inlay15.jpg
 folder: inlay
-href: inlay.html
 status: finished
 tag: weaving inlay
 started: 

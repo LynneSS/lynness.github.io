@@ -4,7 +4,6 @@ project-title: Mitre block afghan
 subtitle: with yarn from Mom & Grandma
 img: mitre7.jpg
 folder: mitre-afghan
-href: mitre-afghan.html
 status: in progress
 tag: afghan knitting
 ---

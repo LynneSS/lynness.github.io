@@ -3,7 +3,6 @@ layout: home
 project-title: Bamboo/tencel scarf
 img: off-loom.jpg
 folder: bamboo-scarf
-href: bamboo-scarf.html
 status: in progress
 tag: scarf weaving
 ---

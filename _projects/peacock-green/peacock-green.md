@@ -4,7 +4,6 @@ project-title: Peacock spinning
 subtitle: Fiber from Pat
 img: peacock-label.jpg
 folder: peacock-green
-href: peacock-green.html
 status: in progress
 tag: spinning
 started: 12/25/2016

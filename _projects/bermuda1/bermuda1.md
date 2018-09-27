@@ -4,7 +4,6 @@ project-title: Bermuda scarf
 subtitle: from a mix of handwoven yarn
 img: bermuda1.jpg
 folder: bermuda1
-href: bermuda1.html
 status: finished
 tag: knitting scarf
 ---
