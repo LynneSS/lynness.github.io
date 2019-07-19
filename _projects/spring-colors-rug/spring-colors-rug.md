@@ -7,7 +7,7 @@ folder: spring-colors-rug
 status: in progress
 tags: weaving rug
 started: 20 September 2018
-finished: 
+finished: 10 October 2018
 ---
 <p class="center">({{ page.started }}–{{ page.finished }})</p>
 
