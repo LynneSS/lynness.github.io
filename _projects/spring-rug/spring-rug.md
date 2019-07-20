@@ -13,7 +13,7 @@ finished: 5/9/2017
 
 ![Fabric colors]({{ site.baseurl }}/projects/spring-rug/img/rug-fabrics.jpg){: .center-image }
 
-<a href="http://lynness.github.io/projects/spring-rug/spring-rug-plan.htm">Color plan</a>
+<a href="http://lynness.github.io/projects/spring-rug/spring-rug-plan.html">Color plan</a>
 
 ## Width in reed
 
