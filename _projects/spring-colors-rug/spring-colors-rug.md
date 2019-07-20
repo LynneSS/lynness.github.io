@@ -15,7 +15,7 @@ finished: 10 October 2018
 
 ![Color schematic]({{ site.baseurl }}/projects/spring-colors-rug/img/color-schematic.png){: .center-image }
 
-On the same warp as <a href="{{ site.baseurl }}/projects/pick-pick/pick-pick.html">Pick & Pick rug</a> using fabric from <a href="{{ site.baseurl }}/projects/spring-rug/spring-rug.html">Pick & Pick rug</a>
+On the same warp as <a href="{{ site.baseurl }}/projects/pick-pick/pick-pick.html">Pick & Pick rug</a> using fabric from <a href="{{ site.baseurl }}/projects/spring-rug/spring-rug.html">Spring rug</a>
 
 ## Fabric
 ![Fabric colors]({{ site.baseurl }}/projects/spring-colors-rug/img/fabric-colors.jpg){: .center-image }
