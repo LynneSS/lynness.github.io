@@ -4,8 +4,8 @@ project-title: Bermuda scarf
 subtitle: with repurposed sock yarn
 img: baaboo.jpg
 folder: baaboo-scarf
-status: "in progress"
-tag: socks knitting
+status: finished
+tag: scarf knitting
 ---
 ### Yarn
 From Shepherd's Harvest Festival in 2013.
