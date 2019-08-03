@@ -7,11 +7,6 @@ url: http://localhost:4000
 date_format: "%-d %b %Y"
 meta_robots: noindex
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-
 collections:
   projects:
     output: true
@@ -20,12 +15,8 @@ collections:
 
 # Build settings
 markdown: kramdown
-paginate: 10
 sass:
   compressed: true
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
 
 exclude: [vendor]
 
