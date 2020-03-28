@@ -3,7 +3,7 @@ layout: home
 project-title: Bamboo/tencel scarf
 img: off-loom.jpg
 folder: bamboo-scarf
-status: in progress
+status: finished
 tag: scarf weaving
 ---
 ### Hand-painted bamboo for warp
