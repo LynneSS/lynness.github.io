@@ -1,5 +1,4 @@
 ---
-layout: home
 project-title: Spring colors rug
 subtitle: Colors from Spring rosepath rug
 img: spring-colors-rug-fabric.jpg
