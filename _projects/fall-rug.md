@@ -1,5 +1,4 @@
 ---
-layout: home
 project-title: Fall rosepath rug
 subtitle: Same pattern as Spring rosepath rug
 img: fall-rug-reboot-3.jpg
@@ -14,7 +13,7 @@ finished: 9/13/2017
 
 Trying the Spring rug again with different fabrics. All quilt-weight cotton, purchased from S.R. Harris.
 
-![Fabrics for the new rug]({{ img-path }}/fall-rug-fabric.jpg){: .center-image }
+![Fabrics for the new rug](/assets/img/fall-rug/fall-rug-fabric.jpg){: .center-image }
 
 ## Fabric
 
