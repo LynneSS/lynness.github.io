@@ -4,7 +4,7 @@
 	    <li>
 			<a href="{{ post.url }}">
 				<h3>{{ post.title }}</h3>
-				{{ post.excerpt }}
+				<img src="/assets/img/{{ post.folder }}/{{ post.img }}"/>
 				<p>{{ post.date | date: site.date_format }}</p>
 			</a>
 		</li>

@@ -1,0 +1,10 @@
+---
+title: Projects
+---
+<h1>Projects</h1>
+
+<ul>
+  {% for project in site.projects %}
+    <li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+  {% endfor %}
+</ul>

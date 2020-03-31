@@ -1,13 +1,12 @@
 ---
-layout: default
 title: Home
 ---
 <h2>In progress</h2>
 <section id="photos">
 	{% for project in site.projects %}
 	{% if project.status == "in progress" %}
-		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
-			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+		<a class="hide-display" href="/projects/{{ project.folder }}.html">
+			<img src="/assets/img/{{ project.folder }}/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
 				{% if project.subtitle %}
 				<span class="click-text">{{ project.subtitle }}</span><br />
@@ -23,8 +22,8 @@ title: Home
 <section id="photos">
 	{% for project in site.projects %}
 	{% if project.status == "finished" %}
-		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
-			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+		<a class="hide-display" href="/projects/{{ project.folder }}.html">
+			<img src="/assets/img/{{ project.folder }}/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
 				{% if project.subtitle %}
 				<span class="click-text">{{ project.subtitle }}</span><br />
@@ -36,8 +35,8 @@ title: Home
 	{% endfor %}
 	{% for project in site.projects %}
 	{% if project.status == "on hold" %}
-		<a class="hide-display" href="{{ site.baseurl }}/projects/{{ project.folder }}/{{ project.folder }}.html">
-			<img src="{{ site.baseurl }}/projects/{{ project.folder }}/img/{{ project.img }}" />
+		<a class="hide-display" href="/projects/{{ project.folder }}.html">
+			<img src="/assets/img/{{ project.folder }}/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
 				{% if project.subtitle %}
 				<span class="click-text">{{ project.subtitle }}</span><br />

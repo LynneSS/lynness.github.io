@@ -8,10 +8,16 @@
 				<label for="show-menu" class="show-menu vert-hide">{{ site.title }}</label>
 				<input type="checkbox" id="show-menu" name="button">
 				<ul id="menu">
-					<li><a href="{{ site.baseurl }}/tags.html">Tags</a></li>
+					{% for item in site.data.navigation %}
+						<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+							{{ item.name }}
+						</a>
+					{% endfor %}
+<!-- 				<li><a href="/tags.html">Tags</a></li>
+					<li><a href="project.hmtl">Projects</a></li>
 					<li><a href="https://trello.com/crafts63">Stashes</a></li>
-			        <li><a href="{{ site.baseurl }}/library/library.html">Library</a></li>
-					<li><a href="{{ site.baseurl }}/ideas/dropbox.html">Ideas</a></li>
+			        <li><a href="/library/library.html">Library</a></li>
+					<li><a href="/ideas/dropbox.html">Ideas</a></li> -->
 			    </ul>
 			</nav>
 			<div class="clearfix">
@@ -19,3 +25,5 @@
 		</div><!-- /.measure -->
 	</div><!-- /.mt2 wrap no-top-marg -->
 </header><!-- /.site-header px2 px-responsive no-bottom -->
+
+

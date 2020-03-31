@@ -1,0 +1,429 @@
+html {
+    max-width: 72rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.site {
+    background: url(../sandbag.jpg);
+}
+.h1-small {
+	font-size: 1.8em;
+}
+
+
+/* Banner */
+
+.banner {
+    width: 100%;
+    max-height: 57px;
+}
+
+
+/* -- Drop Down Navigation --------------------- */
+
+
+/*Originally provided by: http://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/*/
+nav {
+    clear: both;
+    text-align: center;
+    margin: 0px auto;
+    width: 100%;
+}
+
+nav ul {
+    position: static;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    display: none
+}
+
+/*Create vertical spacing*/
+nav li {
+    margin-bottom: 1px;
+    background: #fff;
+}
+
+/*Style for menu links*/
+nav li a {
+    display: block;
+    min-width: 140px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: -3px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Hover state for top level links*/
+nav li:hover a {
+    background: #19c589;
+}
+
+/*Make all menu links full width*/
+nav ul li,
+li a {
+    width: 100%;
+    text-align: center;
+}
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+    font-family: 'Lucida Console', Monaco, monospace;
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    padding: 10px 0 10px 20px;
+    display: block;
+    font-size: 2rem;
+}
+
+/*Hide checkbox*/
+input[type=checkbox] {
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked
+	http://jsfiddle.net/Kqscu/4/
+	*/
+input[type=checkbox]:checked ~ #menu {
+    display: block;
+}
+
+
+/* -- Sidebar --------------------- */
+
+aside {
+    display: none;
+}
+
+
+/* -- Tag cloud and tag archives --------------------- */
+
+.tag-cloud {
+    list-style: none;
+    padding: 0;
+    text-align: justify;
+    font-size: 16px;
+    li {
+        display: inline-block;
+        margin: 0 12px 12px 0;
+    }
+}
+
+#archives {
+    padding: 5px;
+}
+
+.archive-group {
+    margin: 5px;
+    border-top: 1px solid #ddd;
+}
+
+.archive-item {
+    margin-left: 5px;
+}
+
+
+/* -- Index.html --------------------- */
+
+#index-post {
+    border-bottom: none;
+}
+
+footer.p2 {
+    background-color: transparent;
+    border-top: none;
+}
+
+
+/* -- Library --------------------- */
+
+.library li {
+    margin: 0 .5rem 1rem;
+    display: inline-block;
+    float: left;
+    max-width: 45%;
+}
+
+.library img {
+    height: 130px;
+}
+
+
+/* -- Projects --------------------- */
+
+.projects li a {
+    color: #444;
+}
+
+.projects li p {
+    font-size: .9rem;
+}
+
+
+/* -- Photo Grid ---------------------*/
+
+
+/*https://css-tricks.com/seamless-responsive-photo-grid/*/
+
+#photos {
+    /* Prevent vertical gaps */
+    line-height: 0;
+    column-count: 1;
+    column-gap: 6px;
+    -webkit-column-count: 1;
+    -webkit-column-gap: 6px;
+    background: #666;
+    padding: 4px 6px;
+}
+
+#photos img {
+    /* Just in case there are inline attributes */
+    width: 100% !important;
+    height: auto !important;
+    margin: 3px 0;
+}
+
+
+/*http://www.robinsonprogramming.com/tuts/?page=tutorials_html_css_$_pop_up_text*/
+
+a.hide-display {
+    position: relative;
+    /* Position is relative to the elememt that calls .hide-display */
+    z-index: 20;
+    /* A small number here put this element underneath. */
+    color: #000;
+    text-decoration: none;
+    background-image: none;
+}
+
+a.hide-display:hover {
+    z-index: 30;
+    /* Higher z-index lets pop-up hover over the page. */
+}
+
+a.hide-display span.click-title {
+    display: none;
+    /* Tells the browser to remove the element called by these classes. */
+}
+
+
+/*Styling of the pop-up when it appears*/
+
+a.hide-display:hover span.click-title {
+    display: block;
+    /* displays when the anchor is clicked. */
+    position: absolute;
+    font-size: 1rem;
+    line-height: 1rem;
+    top: -2.5rem;
+    /* Positions the box */
+    right: 0px;
+	bottom: 0px;
+    /* Positions the box */
+    width: auto;
+    padding: .5rem;
+    border: 1px solid #666;
+    background-color: #c0cedd;
+    color: #000;
+    text-align: left;
+}
+
+
+/*Styling of second text section*/
+
+span.click-text {
+    font-size: .9rem;
+    font-weight: normal;
+    color: #444;
+    line-height: 1rem;
+}
+
+
+/* -- Miscellaneous --------------------- */
+
+.small-font {
+    font-size: .8rem;
+}
+
+.small-hr {
+    margin: 1.5rem 0 1rem;
+}
+
+.med-grey {
+    color: #7a7a7a;
+}
+
+.post-tags {
+    text-align: right;
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+	border:1px solid #666666
+}
+
+.no-underline {
+    background-image: none;
+}
+
+.no-bottom {
+    padding-bottom: 0;
+}
+
+.no-top {
+    padding-top: 0;
+}
+
+.no-top-marg {
+    margin-top: 0;
+}
+
+.font-2 {
+    font-size: 2rem;
+}
+
+.clear {
+    clear: both;
+}
+
+#width100 {
+    width: 100%;
+}
+
+.spread {
+    margin-top: 2.5rem;
+    margin-bottom: 0;
+}
+
+.vert-space {
+    margin-bottom: 1rem;
+}
+
+.vert-space-both {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.link-reset {
+    color: #333;
+    background-image: none;
+}
+
+.mb3rem {
+    margin-bottom: 3rem;
+}
+
+@media screen and (min-width: 32em) {
+    #photos {
+        column-count: 2;
+        -webkit-column-count: 2;
+    }
+	a.hide-display:hover span.click-title {
+	    font-size: .9rem;
+	    line-height: 1rem;
+	}
+	span.click-text {
+	    font-size: .75rem;
+		line-height: 1rem;
+	
+}
+
+@media screen and (min-width: 39.8em) {
+    #photos {
+        column-count: 3;
+        -webkit-column-count: 3;
+    }
+
+@media screen and (min-width: 48em) {
+    .banner {
+        max-height: 100px;
+    }
+    .px2 {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    #menu {
+        display: block;
+        float: right;
+        margin-right: .5rem;
+        padding-top: 1rem;
+    }
+    #menu li {
+        display: inline;
+        background-color: #333;
+    }
+    #menu li a {
+        display: inline;
+        font-size: 1.25rem;
+        color: #fff;
+    }
+    .wrap {
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+    }
+    .top {
+        background-color: #333;
+    }
+    header {
+        background-color: #333;
+    }
+    .show-menu {
+        color: #fff;
+        text-align: left;
+        display: inline-block;
+        font-family: 'Lucida Console', Monaco, monospace;
+        float: left;
+    }
+    .p-responsive {
+        margin-top: 2rem;
+    }
+    .recipes h3 {
+        font-size: 0.9rem;
+    }
+    .recipes h5 {
+        font-size: .75rem;
+    }
+}
+
+@media screen and (min-width: 52em) {
+    .main {
+        width: 75%;
+        float: left;
+    }
+    aside {
+        width: 15%;
+        display: block;
+        padding: 0 1rem;
+        float: right;
+        border-left: 1px solid #999;
+    }
+    .recipes h3 {
+        font-size: .9rem;
+    }
+    .recipes h5 {
+        font-size: .7rem;
+    }
+    .small-font {
+        font-size: .75rem;
+    }
+    #photos {
+        column-count: 4;
+        -webkit-column-count: 4;
+    }
+	a.hide-display:hover span.click-title {
+	    font-size: .85rem;
+	    line-height: 1rem;
+	}
+	span.click-text {
+	    font-size: .70rem;
+		line-height: 1rem;
+	}
+}
