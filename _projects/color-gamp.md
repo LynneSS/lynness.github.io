@@ -1,5 +1,4 @@
 ---
-layout: home
 project-title: Color gamp huck blanket
 subtitle: For Laurel, 2014
 status: finished
