@@ -1,5 +1,4 @@
 ---
-layout: home
 project-title: Bamboo/tencel scarf
 subtitle: Bamboo yarn from Pat
 img: bamboo-off-loom.jpg
