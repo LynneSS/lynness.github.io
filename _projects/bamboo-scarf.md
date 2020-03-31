@@ -3,6 +3,7 @@ layout: home
 project-title: Bamboo/tencel scarf
 subtitle: Bamboo yarn from Pat
 img: bamboo-off-loom.jpg
+img-path: "/assets/img/bamboo-scarf"
 folder: bamboo-scarf
 status: finished
 finished: 26 Mar 2020
@@ -14,7 +15,7 @@ Greenville CA 95947
 
 Purchased from a shop in Mineral CA.
 
-![Skein of yarn](/assets/img/{{ page.folder }}/{{ page.img }}){: .center-image }
+![Skein of yarn]({{ img-path }}/{{ page.img }}){: .center-image }
 
 ### Tencel for warp:
 8/2, 8 oz, 1680 yds, WPI = 33
@@ -22,31 +23,31 @@ Purchased from a shop in Mineral CA.
 ### Tencel for weft:
 * Navy
 
-![Cones of tencel](/assets/img/{{ page.folder }}/bamboo-warp-colors.jpg){: .center-image }
+![Cones of tencel]({{ img-path }}/bamboo-warp-colors.jpg){: .center-image }
 
 ### Project plan
 
-![Project plan from PixeLoom]({/assets/img/{{ page.folder }}/bamboo-project-plan.png){: .center-image }
-![Fabric schematic](/assets/img/{{ page.folder }}/bamboo-fabric.png){: .center-image }
+![Project plan from PixeLoom]({{ img-path }}/bamboo-project-plan.png){: .center-image }
+![Fabric schematic]({{ img-path }}/bamboo-fabric.png){: .center-image }
 
 ### Warp color order
 
-![Warp color order](/assets/img/{{ page.folder }}/bamboo-warp-order.png){: .center-image }
+![Warp color order]({{ img-path }}/bamboo-warp-order.png){: .center-image }
 
 ### Color pooling
 
-![Color pooling in the warp]({/assets/img/{{ page.folder }}/bamboo-pooling.jpg){: .center-image }
+![Color pooling in the warp]({{ img-path }}/bamboo-pooling.jpg){: .center-image }
 
 ### Warping
 
-![Warping](/assets/img/{{ page.folder }}/bamboo-warping.jpg){: .center-image }
+![Warping]({{ img-path }}/bamboo-warping.jpg){: .center-image }
 
 ### First scarf
 
-![First few inches of weaving](/assets/img/{{ page.folder }}/bamboo-first-scarf.jpg){: .center-image }
+![First few inches of weaving]({{ img-path }}/bamboo-first-scarf.jpg){: .center-image }
 
 ### Off the loom
 
-![Scarf off the loom](/assets/img/{{ page.folder }}/bamboo-off-loom.jpg){: .center-image }
+![Scarf off the loom]({{ img-path }}/bamboo-off-loom.jpg){: .center-image }
 
-![Scarf off the loom](/assets/img/{{ page.folder }}/bamboo-scarf-close.jpg){: .center-image }
+![Scarf off the loom]({{ img-path }}/bamboo-scarf-close.jpg){: .center-image }
