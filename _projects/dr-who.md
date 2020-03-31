@@ -2,15 +2,15 @@
 project-title: Dr. Who scarf
 subtitle: the smaller one
 img: dr-who-scarf.jpg
-img-path: /assets/img/dr-who
+img-path: "/assets/img/dr-who"
 folder: dr-who
 status: finished
 tag: weaving scarf
 ---
 ## Weaving plan
-![Fiber label]({{ img-path }}/dr-who-plan-1.jpg){: .center-image }
-![Fiber label](/{{ img-path }}/dr-who1.jpg){: .center-image }
-![Fiber label]({{ img-path }}/dr-who2.jpg){: .center-image }
+![Fiber label]({{ page.img-path }}/dr-who-plan-1.jpg){: .center-image }
+![Fiber label]({{ page.img-path }}/dr-who1.jpg){: .center-image }
+![Fiber label]({{ page.img-path }}/dr-who2.jpg){: .center-image }
 
 ## Yarn needed
 Bamboo, black supreme
@@ -35,8 +35,8 @@ Bamboo, black supreme
 
 Hemstitching at both ends.
 
-![Fiber label]({{ img-path }}/{{ page.img }}){: .center-image }
+![Fiber label]({{ page.img-path }}/{{ page.img }}){: .center-image }
 
 For the larger scarf:
 
-![Fiber label]({{ img-path }}/dr-who-plan-2.jpg){: .center-image }
+![Fiber label]({{ page.img-path }}/dr-who-plan-2.jpg){: .center-image }
