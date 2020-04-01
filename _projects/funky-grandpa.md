@@ -2,7 +2,7 @@
 project-title: Funky Grandpa Sweater
 subtitle: Version 2.0
 img: funky-grandpa.jpg
-img-path: assets/img/funky-grandpa
+img-path: "/assets/img/funky-grandpa"
 folder: funky-grandpa
 status: in progress
 tag: knitting sweater

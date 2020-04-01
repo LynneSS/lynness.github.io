@@ -3,7 +3,7 @@ project-title: "Pick & Pick Rug"
 subtitle: Using up old sheets
 folder: pick-pick
 img: pick-pick-new-green.jpg
-img-path: /assets/img/pick-pick
+img-path: "/assets/img/pick-pick"
 status: finished
 started: Spring 2018
 finished: 15 September 2018

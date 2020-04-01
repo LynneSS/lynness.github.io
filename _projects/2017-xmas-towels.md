@@ -2,7 +2,7 @@
 project-title: 2017 Christmas Present Towels
 subtitle: Fistful of stripes
 img: 2017-xmas-sampler2.jpg
-img-path: assets/img/2017-xmas-towels
+img-path: "/assets/img/2017-xmas-towels"
 folder: 2017-xmas-towels
 status: finished
 tag: weaving gifts towels
