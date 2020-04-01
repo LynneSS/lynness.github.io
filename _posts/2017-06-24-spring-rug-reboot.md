@@ -4,7 +4,7 @@ folder: fall-rug
 img: fall-rug-fabric.jpg
 project-title: Fall Rosepath Rug
 ---
-![Fabrics for the new rug](/posts/img/{{ page.folder }}/{{ page.img }}){: .center-image }
+![Fabrics for the new rug](/assets/img/{{ page.folder }}/{{ page.img }}){: .center-image }
 
 Trying the Spring rug again with different fabrics. All quilt-weight cotton, purchased from S.R. Harris.
 
