@@ -32,7 +32,7 @@ Trying the Spring rug again with different fabrics. All quilt-weight cotton, pur
 * Gold medallions
 * Green vines
 
-<a href="http://lynness.github.io/projects/spring-rug/rug-plan-reboot2.htm">Color plan</a>
+<a href="http://lynness.github.io/assets/other-pages/spring-rug/rug-plan-reboot2.htm">Color plan</a>
 
 ## Warp needed
 Size of finished rugs: 32.4" wide x 64" long, 2 rugs
@@ -123,7 +123,7 @@ Not sure that there will be enough of the orange/green fabric. By the current pl
 ![Rug so far]({{ page.img-path }}/fall-rug-dont-like.jpg){: .center-image }
 
 Plan C is to use 2 solid stripes, 3 patterned stripes, and 4 rosepath colors.
-<a href="http://lynness.github.io/projects/spring-rug/rug-plan-reboot3.htm">Color plan</a>
+<a href="http://lynness.github.io/assets/other-pages/spring-rug/rug-plan-reboot3.htm">Color plan</a>
 
 * Solid: Orange fans and Purlpe ovals
 * Patterned: Gold curlicues, Green vines, and Purple
