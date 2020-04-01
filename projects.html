@@ -1,22 +1,7 @@
 ---
-title: Projects
 ---
 <h1>Projects</h1>
-
-<ul>
-  {% for project in site.projects %}
-    <li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
-  {% endfor %}
-</ul>
-
-<!-- For sorting:
-{% assign products_by_company = collection.products | sort_natural: "company" %}
-{% for product in products_by_company %}
-  <h4>{{ product.title }}</h4>
-  {% endfor %}
-  
-Add sections here and to Project pages -->
-
+<h2>Weaving</h2>
 <ul>
 {% for project in site.projects %}
 	{% if project.category == "weaving" %}
@@ -25,17 +10,28 @@ Add sections here and to Project pages -->
 {% endfor %}
 </ul>
 
+<h2>Knitting</h2>
 <ul>
-{% for project in collection.projects %}
-	{% if project.category == "weaving" %}
+{% for project in site.projects %}
+	{% if project.category == "knitting" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}
 </ul>
 
+<h2>Spinning</h2>
 <ul>
-{% for project in collection.projects %}
-	{% if project.tag == "weaving" %}
+{% for project in site.projects %}
+	{% if project.category == "spinning" %}
+		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<h2>Other</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.category == "other" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}
