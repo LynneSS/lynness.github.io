@@ -1,6 +1,6 @@
 ---
-project-title: Spinning Cream/Brown Fiber
-long-title: "BFL & English Leicester"
+project-title: BFL and English Leicester
+long-title: "from Shepherd's Harvest"
 img: bfl.jpg
 folder: bfl
 status: in progress
