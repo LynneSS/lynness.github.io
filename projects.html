@@ -19,6 +19,22 @@ Add sections here and to Project pages -->
 
 <ul>
 {% for project in site.projects %}
+	{% if project.category == "weaving" %}
+		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<ul>
+{% for project in collection.projects %}
+	{% if project.category == "weaving" %}
+		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<ul>
+{% for project in collection.projects %}
 	{% if project.tag == "weaving" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
