@@ -1,5 +1,5 @@
 ---
-project-title: Bamboo/tencel scarf
+project-title: Bamboo/Tencel Scarf
 subtitle: Bamboo yarn from Pat
 img: bamboo-off-loom.jpg
 img-path: "/assets/img/bamboo-scarf"

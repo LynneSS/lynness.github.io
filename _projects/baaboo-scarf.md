@@ -1,5 +1,5 @@
 ---
-project-title: Bermuda scarf
+project-title: Bermuda Scarf
 subtitle: with repurposed sock yarn
 img: baaboo-scarf.jpg
 folder: baaboo-scarf

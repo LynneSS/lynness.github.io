@@ -1,5 +1,5 @@
 ---
-project-title: Bermuda scarf
+project-title: Bermuda Scarf
 subtitle: from a mix of handwoven yarn, mostly merino
 img: bermuda.jpg
 folder: bermuda

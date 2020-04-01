@@ -1,5 +1,5 @@
 ---
-project-title: Dr. Who scarf
+project-title: Dr. Who Scarf
 subtitle: the smaller one
 img: dr-who-scarf.jpg
 img-path: "/assets/img/dr-who"

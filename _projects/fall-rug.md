@@ -1,5 +1,5 @@
 ---
-project-title: Fall rosepath rug
+project-title: Fall Rosepath Rug
 subtitle: Same pattern as Spring rosepath rug
 img: fall-rug-reboot-3.jpg
 img-path: "/assets/img/fall-rug"

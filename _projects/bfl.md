@@ -1,5 +1,5 @@
 ---
-project-title: Spinning cream/brown fiber
+project-title: Spinning Cream/Brown Fiber
 long-title: "BFL & English Leicester"
 img: bfl.jpg
 folder: bfl

@@ -1,5 +1,5 @@
 ---
-project-title: Color gamp huck blanket
+project-title: Color Gamp Huck Blanket
 subtitle: For Laurel, 2014
 status: finished
 img: gamp1.jpg
