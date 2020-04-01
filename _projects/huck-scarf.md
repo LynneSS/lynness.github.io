@@ -6,6 +6,7 @@ img-path: "/assets/img/huck-scarf"
 folder: huck-scarf
 status: finished
 tag: weaving scarf gift
+category: weaving
 started: 13 Aug 2014
 finished: before Christmas 2014
 ---

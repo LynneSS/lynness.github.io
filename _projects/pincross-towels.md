@@ -6,6 +6,7 @@ img-path: "/assets/img/pincross-towels"
 folder: pincross-towels
 status: finished
 tag: weaving towels gift
+category: weaving
 started: 09/2/2016
 ---
 <p class="center">({{ page.started }}–{{ page.finished }})</p>

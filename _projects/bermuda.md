@@ -5,6 +5,7 @@ img: bermuda.jpg
 folder: bermuda
 status: finished
 tag: knitting scarf
+category: knitting
 ---
 
 ![Finished scarf](/assets/img/{{ page.folder }}/{{ page.img }}){: .center-image }

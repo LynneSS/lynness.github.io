@@ -6,6 +6,7 @@ img-path: "/assets/img/funky-grandpa"
 folder: funky-grandpa
 status: in progress
 tag: knitting sweater
+category: knitting
 started: 2/18/2017
 finished:
 ravelry: http://www.ravelry.com/patterns/library/funky-grandpa

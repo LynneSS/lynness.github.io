@@ -6,6 +6,7 @@ img-path: "/assets/img/finnish-twill"
 folder: finnish-twill
 status: finished
 tag: weaving twill runner
+category: weaving
 ---
 ## Draft:
 ![Weaving draft]({{ page.img-path }}/finnish-draft.jpg){: .center-image }

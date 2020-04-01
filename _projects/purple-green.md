@@ -5,6 +5,7 @@ img: purple-green.jpg
 folder: purple-green
 status: finished
 tag: knitting scarf
+category: knitting
 ---
 ![Finished scarf](/assets/img/purple-green/purple-green.jpg){: .center-image }
 

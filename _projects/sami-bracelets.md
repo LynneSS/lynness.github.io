@@ -6,6 +6,7 @@ img-path: "/assets/img/sami-bracelets"
 folder: sami-bracelets
 status: finished
 tag: bracelet braiding gift
+category: other
 started: 
 finished: 
 ---

@@ -5,6 +5,7 @@ img: peacock-green-label.jpg
 folder: peacock-green
 status: in progress
 tag: spinning
+category: spinning
 started: 12/25/2016
 finished:
 ---

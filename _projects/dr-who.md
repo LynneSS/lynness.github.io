@@ -6,6 +6,7 @@ img-path: "/assets/img/dr-who"
 folder: dr-who
 status: finished
 tag: weaving scarf
+category: weaving
 ---
 ## Weaving plan
 ![Fiber label]({{ page.img-path }}/dr-who-plan-1.jpg){: .center-image }

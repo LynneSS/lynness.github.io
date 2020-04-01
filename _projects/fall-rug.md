@@ -6,6 +6,7 @@ img-path: "/assets/img/fall-rug"
 folder: fall-rug
 status: finished
 tags: weaving rug rosepath
+category: weaving
 started: 6/24/2017
 finished: 9/13/2017
 ---

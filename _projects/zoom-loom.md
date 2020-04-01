@@ -6,6 +6,7 @@ img-path: "/assets/img/zoom-loom"
 folder: zoom-loom
 status: in progress
 tag: weaving afghan
+category: weaving
 ---
 This yarn will be the background for the afghan.
 

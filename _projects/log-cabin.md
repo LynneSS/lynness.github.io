@@ -5,6 +5,7 @@ img: log-cabin.jpg
 folder: log-cabin
 status: on hold
 tag: knitting afghan
+category: knitting
 ---
 
 ![Finished squares of 4](/assets/img/log-cabin/{{ page.img }}){: .center-image }

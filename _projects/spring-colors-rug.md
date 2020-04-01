@@ -6,6 +6,7 @@ img-path: "/assets/img/spring-colors-rug"
 folder: spring-colors-rug
 status: finished
 tags: weaving rug
+category: weaving
 started: 20 Sep 2018
 finished: 10 Oct 2018
 ---

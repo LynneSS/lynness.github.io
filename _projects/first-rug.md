@@ -5,6 +5,7 @@ img: first-rug1.jpg
 folder: first-rug
 status: finished
 tag: weaving rug 
+category: weaving
 ---
 ![Weaving plan](/assets/img/first-rug/first-rug-draft.jpg){: .center-image }
 

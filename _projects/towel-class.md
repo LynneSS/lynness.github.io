@@ -6,6 +6,7 @@ img-path: "/assets/img/towel-class"
 folder: towel-class
 status: finished
 tag: weaving towels
+category: weaving
 ---
 <section id="photos">
 <a href="{{ page.img-path }}/towel-class-dornick.jpg">

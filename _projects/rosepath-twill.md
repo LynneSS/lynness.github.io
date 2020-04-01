@@ -6,6 +6,7 @@ img-path: "/assets/img/rosepath-twill"
 folder: rosepath-twill
 status: finished
 tags: weaving rug twill rosepath
+category: weaving
 started: 9/17/2017
 finished: 11/1/2017
 ---

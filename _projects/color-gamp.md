@@ -7,6 +7,7 @@ img-path: "/assets/img/color-gamp"
 folder: color-gamp
 status: finished
 tag: weaving blanket gift gamp huck
+category: weaving
 started: 2013
 finished: 2014
 ---

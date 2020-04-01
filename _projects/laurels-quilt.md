@@ -4,6 +4,7 @@ img: laurels-quilt.jpg
 folder: laurels-quilt
 status: in progress
 tag: sewing
+category: other
 ravelry: "http://www.ravelry.com/projects/LynneS/#"
 ---
 Repairing Laurel's quilt with fabrics that complement the colors that are already there.

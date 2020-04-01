@@ -6,6 +6,7 @@ img-path: "/assets/img/spring-fever"
 folder: spring-fever
 status: finished
 tag: knitting scarf gift
+category: knitting
 started: 10/8/2016
 finished: 12/23/2016
 ---
