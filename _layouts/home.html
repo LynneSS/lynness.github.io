@@ -10,7 +10,7 @@ layout: default
 
 <article class="post-content">
 	{% for post in site.posts | sort: date %}
-		{% if project.title == "page.title" %}
+		{% if post.project-title == "page.project-title" %}
 			{{ post.date }}, {{ post.title }}
 			
 			{{ content }}
