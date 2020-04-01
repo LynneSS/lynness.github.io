@@ -99,7 +99,7 @@ In one piece, 59 in. X 60 in. = 3,540 sq in = 24.58 sq ft.
 145 g/5.5 in = 26.4 g/in
 Need 4*145g=580 g
 
-![First stripe]({{ page.img-path }}/picl-pick-stripe.jpg){: .center-image }
+![First stripe]({{ page.img-path }}/pick-pick-stripe.jpg){: .center-image }
 
 5.5 in flowered and 30 stripes.
 

@@ -16,6 +16,6 @@ Peacock fiber from Beesybee - Christmas present from Pat. 4 oz.
 
 Spinning a little thickish, compared to my normal. Ply with green and blue fiber, also from Pat?
 
-![Spun fiber on bobbin](/assests/img/peacock-green/peacock-green-bobbin.jpg){: .center-image }
+![Spun fiber on bobbin]((/assets/img/peacock-green/peacock-green-bobbin.jpg){: .center-image }
 
 4 oz done.

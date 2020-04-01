@@ -43,8 +43,6 @@ Drafts to try:
 	<p>Draft 9</p>
 	<img src="{{ page.img-path }}/pincross-towels-draft10.jpg" /><br />
 	<p>Draft 10</p>
-	<img src="{{ page.img-path }}/pincross-towels-draft11.jpg" /><br />
-	<p>Draft 11</p>
 </section>
 
 ## Sampler
@@ -71,8 +69,6 @@ Close up:
 ![Whole sampler]({{ page.img-path }}/pincross-towels-sample7.jpg){: .center-image }
 
 The sampler is finished and washed (but not hemmed).
-
-![Sampler section1]({{ page.img-path }}/pincross-towels-sample8.jpg){: .center-image }
 
 ![Sampler section2]({{ page.img-path }}/pincross-towels-sample9.jpg){: .center-image }
 
@@ -107,9 +103,9 @@ Towel one was begun with pattern #6. Hem is 1/2 inch, 3 rounds of the pattern.
 
 ![Towel 1, draft 6]({{ page.img-path }}/pincross-towels-draft6.jpg){: .center-image }
 
-![Towel progress1]({{ page.img-path }}/pincross-towels-draft1a.jpg){: .center-image }
+![Towel progress1]({{ page.img-path }}/pincross-towels-sample1a.jpg){: .center-image }
 
-![Towel progress2]({{ page.img-path }}/pincross-towels-draft1b.jpg){: .center-image }
+![Towel progress2]({{ page.img-path }}/pincross-towels-sample1b.jpg){: .center-image }
 
 20 inches so far!
 
@@ -120,20 +116,20 @@ Towel 2 is also draft 6.
 
 Switched to draft 2.
 
-![Mistake in weaving]({{ page.img-path }}/pincross-towels-draft2a.jpg){: .center-image }
+![Mistake in weaving]({{ page.img-path }}/pincross-towels-sample2a.jpg){: .center-image }
 
 I did two sections of blue in a row. Damn. Un-wove back to the wrong section (about 3 inches) and began again.
 
 Much better.
 
-![Mistake fixed]({{ page.img-path }}/pincross-towels-draft2b.jpg){: .center-image }
+![Mistake fixed]({{ page.img-path }}/pincross-towels-sample2b.jpg){: .center-image }
 
 ## Towel 4
 Several warp threads have gotten loose, so I cut off the towels at the end of towel 3 and tied on again.
 
-![Towel 4 progress 1]({{ page.img-path }}/pincross-towels-draft3a.jpg){: .center-image }
+![Towel 4 progress 1]({{ page.img-path }}/pincross-towels-sample3a.jpg){: .center-image }
 
-![Towel 4 progress 2]({{ page.img-path }}/pincross-towels-draft3b.jpg){: .center-image }
+![Towel 4 progress 2]({{ page.img-path }}/pincross-towels-sample3b.jpg){: .center-image }
 
 ## So far
 Towel 1 & 2, draft 6.

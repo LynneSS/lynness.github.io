@@ -5,5 +5,5 @@ img: sewing-machine-pad.jpg
 status: finished
 tags: sewing
 ---
-![Finished sewing machine pad](/assets/img/sewing-machine/sewing-machine-pad.jpg){: .center-image .vert-space}
+![Finished sewing machine pad](/assets/img/sewing-machine-pad/sewing-machine-pad.jpg){: .center-image .vert-space}
 Following a pattern from [lillyella](http://lillyella.blogspot.com), I made this sewing machine pad with Phat Cat Jazz fabric, plus some other scraps.
