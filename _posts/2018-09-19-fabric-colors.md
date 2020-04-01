@@ -1,7 +1,7 @@
 ---
 title: Fabric colors
 folder: spring-colors-rug
-project-title: Spring colors rug
+project-title: Spring Colors Rug
 img: spring-colors-rug-fabric.jpg
 ---
 
