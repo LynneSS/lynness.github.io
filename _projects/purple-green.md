@@ -1,5 +1,4 @@
 ---
-layout: home
 project-title: "Scarf in Purple & Green"
 subtitle: 
 img: purple-green.jpg

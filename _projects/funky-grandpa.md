@@ -21,7 +21,7 @@ Intended gauge: 24.5 stitches and 34 rows = 4 inches in stockinette.
 Yarns:
 
 * Frabjous Fibers Cheshire Cat, Mini Skein Pack - 40 Yellow to Lime Shadow, fingering weight
-![Yarn colors]({/assets/img/first-rug/funky-yellow-to-limeshadow.jpg){: .center-image }
+![Yarn colors]({{ page.img-path }}/funky-yellow-to-limeshadow.jpg){: .center-image }
 
 * Valley Yarns Huntington - light & dark grey heather, fingering weight
 

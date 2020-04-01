@@ -1,7 +1,7 @@
 ---
 project-title: Towel Class
 subtitle: 
-img: dornick-all.jpg
+img: towel-class-dornick-all.jpg
 img-path: "/assets/img/towel-class"
 folder: towel-class
 status: finished

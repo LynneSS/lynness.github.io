@@ -1,9 +1,8 @@
 ---
-layout: home
-project-title: Experiments with Theo Moorman inslay
+project-title: Experiments with Theo Moorman Inslay
 subtitle: with leftover yarn
 img: inlay15.jpg
-img-path: /assets/img/inlay
+img-path: "/assets/img/inlay"
 folder: inlay
 status: finished
 tag: weaving inlay

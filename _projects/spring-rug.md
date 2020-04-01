@@ -1,8 +1,8 @@
 ---
-project-title: Spring rosepath Rug
+project-title: Spring Rosepath Rug
 subtitle: Rosepath rug class
-img: rug-offloom.jpg
-img-path: spring-rug
+img: spring-rug-offloom.jpg
+img-path: "/assets/img/spring-rug"
 folder: spring-rug
 status: finished
 tag: weaving rug rosepath

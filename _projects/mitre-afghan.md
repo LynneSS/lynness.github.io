@@ -1,9 +1,8 @@
 ---
-layout: home
 project-title: Mitre Block Afghan
 subtitle: with yarn from Mom & Grandma
 img: "/mitre-afghan7.jpg"
-img-path: mitre-afghan
+img-path: "/assets/img/mitre-afghan"
 folder: mitre-afghan
 status: in progress
 tag: afghan knitting

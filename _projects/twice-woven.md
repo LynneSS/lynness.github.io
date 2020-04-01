@@ -8,7 +8,7 @@ tag: weaving rug
 ---
 Using up lots of handwoven yarn, mostly wool. Many different fiber sources and spinning techniques.
 
-![Source for the draft](http://www.cs.arizona.edu/patterns/weaving/articles/tw_3_4-07.pdf)
+![Source for the draft](https://www2.cs.arizona.edu/patterns/weaving/articles/tw_3_4-07.pdf)
 
 Sleyed 4 warp threads in first dent (12 dent reed), skipped 5 dents, etc => 8 warp threads/inch.
 

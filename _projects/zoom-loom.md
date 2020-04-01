@@ -13,7 +13,6 @@ This yarn will be the background for the afghan.
 
 ## Progress
 <section id="photos">
-<img src="{{ page.img-path }}/mitre1.jpg" />
 <img src="{{ page.img-path }}/zoom1.jpg" />
 <img src="{{ page.img-path }}/zoom2.jpg" />
 <img src="{{ page.img-path }}/zoom3.jpg" />

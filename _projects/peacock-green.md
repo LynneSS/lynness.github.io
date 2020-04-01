@@ -1,7 +1,7 @@
 ---
 project-title: Peacock Spinning
 subtitle: Fiber from Pat
-img: peacock-label.jpg
+img: peacock-green-label.jpg
 folder: peacock-green
 status: in progress
 tag: spinning

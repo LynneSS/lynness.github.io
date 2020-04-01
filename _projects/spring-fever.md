@@ -2,7 +2,7 @@
 project-title: Spring Fever Scarf
 subtitle: Christmas 2016
 img: spring-fever-laurel.jpg
-img-path: /assets/img/spring-fever
+img-path: "/assets/img/spring-fever"
 folder: spring-fever
 status: finished
 tag: knitting scarf gift

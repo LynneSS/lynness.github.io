@@ -2,7 +2,7 @@
 project-title: Twill Rag Rug
 subtitle: on a rosepath threading
 img: rosepath-twill-done.jpg
-img-path: /assets/img/rosepath-twill
+img-path: "/assets/img/rosepath-twill"
 folder: rosepath-twill
 status: finished
 tags: weaving rug twill rosepath
@@ -22,7 +22,7 @@ Mostly blues.
 
 ## Progress
 
-![Progress on the rug 1]({{ page.img-path }}/rosepath-twill-/progress1.jpg){: .center-image }
+![Progress on the rug 1]({{ page.img-path }}/rosepath-twill-progress1.jpg){: .center-image }
 
 ![Progress on the rug 2]({{ page.img-path }}/rosepath-twill-progress2.jpg){: .center-image }
 

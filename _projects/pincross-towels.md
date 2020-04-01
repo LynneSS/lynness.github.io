@@ -1,8 +1,8 @@
 ---
-layout: home
-project-title: Pincross towels
+project-title: Pincross Towels
 subtitle: Christmas 2016
-img: pin-samp6.jpg
+img: pincross-towels-sample6.jpg
+img-path: "/assets/img/pincross-towels"
 folder: pincross-towels
 status: finished
 tag: weaving towels gift

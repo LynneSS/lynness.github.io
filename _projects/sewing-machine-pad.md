@@ -1,7 +1,7 @@
 ---
 project-title: Sewing Machine Pad
 folder: sewing-machine
-img: machine-pad.jpg
+img: sewing-machine-pad.jpg
 status: finished
 tags: sewing
 ---

@@ -90,9 +90,9 @@ Shaft 4: 7x9+3=66
 
 ### Patterned stripes
 * Orange-green vines = 11.80 g/sqft = 1.25 inch strips
-![Fabric with orange and green vines](/{{ page.img-path }}/fall-rug-orange-green-vines.jpg){: .center-image }<br />
+![Fabric with orange and green vines]({{ page.img-path }}/fall-rug-orange-green-vines.jpg){: .center-image }<br />
 * Medallions = 11.58 g/sqft = 1.25 inch strips
-![Fabric with orange, green, and purple medallions]({{{ page.img-path }}/fall-rug-medallions.jpg){: .center-image }<br />
+![Fabric with orange, green, and purple medallions]({{ page.img-path }}/fall-rug-medallions.jpg){: .center-image }<br />
 * Green ferns = 16.54 g/sqft = 1 inch strips
 ![Fabric with green ferns]({{ page.img-path }}/fall-rug-green-ferns.jpg){: .center-image }<br />
 * Gold curlicues = 15.51 g/sqft = 1 inch strips
@@ -113,7 +113,7 @@ Shaft 4: 7x9+3=66
 ## First two stripes
 Not sure that there will be enough of the orange/green fabric. By the current plan, I need 4 stripes.
 
-![First two stripes of the rug]({{ page.img-path }}/fall-rug-reboot-2.JPG){: .center-image }
+![First two stripes of the rug]({{ page.img-path }}/fall-rug-reboot-2.jpg){: .center-image }
 
 * Fabric remaining after one stripe is 6.28 oz.
 * 8.72 oz - 6.28 oz = 2.44 oz/stripe * 4 stripes = 9.76. Oops.
@@ -160,4 +160,4 @@ Check the remaining fabrics:
 * Purple: 23.24 oz remaining after 2 stripes. OK
 * Green vines: 2.58/stripe, 3 stripes remaining. 3 x 2.58 = 7.74 oz needed. OK
 
-![First few stripes of new plan]({{ page.img-path }}/dont-like-big.jpg){: .center-image }
+![First few stripes of new plan]({{ page.img-path }}/fall-rug-reboot-3.jpg){: .center-image }

@@ -2,7 +2,7 @@
 project-title: "Pick & Pick Rug"
 subtitle: Using up old sheets
 folder: pick-pick
-img: pick-new-green.jpg
+img: pick-pick-new-green.jpg
 img-path: /assets/img/pick-pick
 status: finished
 started: Spring 2018
@@ -71,7 +71,7 @@ In one piece, 59 in. X 60 in. = 3,540 sq in = 24.58 sq ft.
 * 43 picks = 3/4 inch
 
 ### Fabric
-![First stripe](page.img-path }}/pick&pick.jpg){: .center-image }
+![First stripe]({{ page.img-path }}/pick&pick.jpg){: .center-image }
 
 4*5.5+5*3.3+6*1.1+2*5.5+2*3.3 = 62.7 + cream rows & hem
 
@@ -99,7 +99,7 @@ In one piece, 59 in. X 60 in. = 3,540 sq in = 24.58 sq ft.
 145 g/5.5 in = 26.4 g/in
 Need 4*145g=580 g
 
-![First stripe](page.img-path }}/picl-pick-stripe.jpg){: .center-image }
+![First stripe]({{ page.img-path }}/picl-pick-stripe.jpg){: .center-image }
 
 5.5 in flowered and 30 stripes.
 
