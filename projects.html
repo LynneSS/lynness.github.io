@@ -4,12 +4,12 @@
 <h2>Weaving</h2>
 <ul>
 {% for project in site.projects | sort: title %}
-	{% if project.category == "weaving" %}
+	{% if project.tag contains "weaving" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}
 </ul>
-
+New
 <h2>Knitting</h2>
 <ul>
 {% for project in site.projects | sort: title %}
