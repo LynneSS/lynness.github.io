@@ -1,10 +1,10 @@
 ---
 title: First two stripes
 folder: fall-rug
-img-path: fall-rug-reboot-2.jpg
+img: fall-rug-reboot-2.jpg
 project-title: Fall Rosepath Rug
 ---	
-![First two stripes of the rug](posts/img/{{ page.folder }}/{{ page.img }}){: .center-image }
+![First two stripes of the rug](assets/img/{{ page.folder }}/{{ page.img }}){: .center-image }
 
 The first two stripes are done. Not sure that there will be enough of the orange/green fabric. By the current plan, I need 4 stripes.
 
