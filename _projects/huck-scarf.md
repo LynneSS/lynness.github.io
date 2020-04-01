@@ -20,5 +20,5 @@ finished: before Christmas 2014
 <img src="{{ page.img-path }}/huck-ppi.jpg" />
 <img src="{{ page.img-path }}/huck-on-loom.jpg" />
 <img src="{{ page.img-path }}/huck-finished.jpg" />
-<img src="{{ page.img-path }}/huc-close-up.jpg" />
+<img src="{{ page.img-path }}/huck-close-up.jpg" />
 </section><!-- /#photos --> 
