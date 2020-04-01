@@ -28,19 +28,19 @@ finished: 3/23/2016
 ![Bags of warp]({{ page.img-path }}/2017-xmas-warp.jpg){: .center-image }
 
 Five wooden dowels used to flatten out the warp.
-![Five wooden dowels used to flatten out the warp]({{ page.img-path }}/2017-xmas-beam-warp2.jpg){: .center-image }
+![Five wooden dowels used to flatten out the warp]({{ page.img-path }}/2017-xmas5.jpg){: .center-image }
 
 Carabiners in between to keep the dowels spaced.
-![Carabiners hold the dowels in place]({{ page.img-path }}/2017-xmas-beam-warp1.jpg){: .center-image }
+![Carabiners hold the dowels in place]({{ page.img-path }}/2017-xmas4.jpg){: .center-image }
 
 24 inch cord to hang dowels behind the castle.
-![Dowels hung behind the castle]({{ page.img-path }}/2017-xmas-beam-warp4.jpg){: .center-image }
+![Dowels hung behind the castle]({{ page.img-path }}/2017-xmas7.jpg){: .center-image }
 
 Figure-8 of cord to connect the 2 dowels.
-![Dowels tied together]({{ page.img-path }}/2017-xmas-beam-warp3.jpg){: .center-image }
+![Dowels tied together]({{ page.img-path }}/2017-xmas6.jpg){: .center-image }
 
 All wound on & ready to thread the heddles.
-![Warp all wound]({{ page.img-path }}/2017-xmas-beam-warp5.jpg){: .center-image }
+![Warp all wound]({{ page.img-path }}/2017-xmas8.jpg){: .center-image }
 
 Weaving record:
 
@@ -52,13 +52,13 @@ About halfway through the threading. Plus coffee.
 ![Heddles all threaded]({{ page.img-path }}/2017-xmas-threaded.jpg){: .center-image }
 
 View at the back
-![Warp spread on the back beam]({{ page.img-path }}/2017-xmas-back-beam.jpg){: .center-image }
+![Warp spread on the back beam]({{ page.img-path }}/2017-xmas3.jpg){: .center-image }
 
 The reed was sleyed at 2 threads/dent in a 10-dent reed and tied on in bundles of 24 (12 dents).
 
 ## Oops!
 
-![First few picks on the left side]({{ page.img-path }}/2017-xmas--begin.jpg){: .center-image }
+![First few picks on the left side]({{ page.img-path }}/2017-xmas9.jpg){: .center-image }
 
 Everything looked good, initially.
 
@@ -123,7 +123,7 @@ Finished the first towel. It is 33 inches, plus one inch for the hem.
 
 The second towel is navy. The measuring tape was put in after the hem was woven.
 
-![Finished second towel]({{ page.img-path }}/2017-xmas-begin2.jpg){: .center-image }
+![Finished second towel]({{ page.img-path }}/2017-xmas-navy.jpg){: .center-image }
 
 The navy towel is done.
 
@@ -137,7 +137,7 @@ Mauve fonce towel is finished. Mauve pale is next.
 
 The mauve pale towel is done and the next one (#5) in peacock is started.
 
-![Mauve pale towel, finished]({{ page.img-path }}/2017-xmas-mauve-pale.jpg){: .center-image }
+![Mauve pale towel, finished]({{ page.img-path }}/2017-xmas-mauve-pale1.jpg){: .center-image }
 
 ![Mauve & peacock on the loom]({{ page.img-path }}/2017-xmas-mauve-peacock.jpg){: .center-image }
 
