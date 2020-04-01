@@ -5,8 +5,7 @@ img: bamboo-off-loom.jpg
 img-path: "/assets/img/bamboo-scarf"
 folder: bamboo-scarf
 status: finished
-tag: scarf weaving
-category: weaving
+tags: scarf weaving
 finished: 26 Mar 2020
 ---
 ### Hand-painted bamboo for warp

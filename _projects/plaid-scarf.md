@@ -4,8 +4,7 @@ subtitle: for Graham
 img: plaid-scarf.jpg
 folder: plaid-scarf
 status: finished
-tag: weaving scarf
-category: weaving
+tags: weaving scarf
 ---
 
 ![Finished scarf](/assets/img/plaid-scarf/{{ page.img }}){: .center-image }

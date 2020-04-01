@@ -4,16 +4,16 @@
 <h2>Weaving</h2>
 <ul>
 {% for project in site.projects | sort: title %}
-	{% if project.tag contains "weaving" %}
+	{% if project.tags contains "weaving" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}
 </ul>
-New
+
 <h2>Knitting</h2>
 <ul>
 {% for project in site.projects | sort: title %}
-	{% if project.category == "knitting" %}
+	{% if project.tags contains "knitting" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ New
 <h2>Spinning</h2>
 <ul>
 {% for project in site.projects | sort: title %}
-	{% if project.category == "spinning" %}
+	{% if project.tags contains "spinning" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}
@@ -31,7 +31,7 @@ New
 <h2>Other</h2>
 <ul>
 {% for project in site.projects | sort: title %}
-	{% if project.category == "other" %}
+	{% if project.tags contains "sewing" or project.tag contains "braiding" %}
 		<li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
 	{% endif %}
 {% endfor %}

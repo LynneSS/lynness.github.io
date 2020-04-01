@@ -5,8 +5,7 @@ img: "/mitre-afghan7.jpg"
 img-path: "/assets/img/mitre-afghan"
 folder: mitre-afghan
 status: in progress
-tag: afghan knitting
-category: knitting
+tags: afghan knitting
 ---
 <section id="photos">
 	<img src="{{ page.img-path }}/mitre-afghan1.jpg" />

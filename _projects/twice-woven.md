@@ -4,8 +4,7 @@ subtitle: Handwoven & hand-dyed
 img: twice-woven2.jpg
 folder: twice-woven
 status: in progress
-tag: weaving rug
-category: weaving
+tags: weaving rug
 ---
 Using up lots of handwoven yarn, mostly wool. Many different fiber sources and spinning techniques.
 

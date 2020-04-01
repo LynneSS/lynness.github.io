@@ -5,8 +5,7 @@ folder: pick-pick
 img: pick-pick-new-green.jpg
 img-path: "/assets/img/pick-pick"
 status: finished
-tag: rug weaving
-category: weaving
+tags: rug weaving
 started: Spring 2018
 finished: 15 September 2018
 ---

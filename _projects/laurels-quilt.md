@@ -3,8 +3,7 @@ project-title: Fixing Laurel's Quilt
 img: laurels-quilt.jpg
 folder: laurels-quilt
 status: in progress
-tag: sewing
-category: other
+tags: sewing
 ravelry: "http://www.ravelry.com/projects/LynneS/#"
 ---
 Repairing Laurel's quilt with fabrics that complement the colors that are already there.

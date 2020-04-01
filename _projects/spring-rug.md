@@ -5,8 +5,7 @@ img: spring-rug-offloom.jpg
 img-path: "/assets/img/spring-rug"
 folder: spring-rug
 status: finished
-tag: weaving rug rosepath
-category: weaving
+tags: weaving rug rosepath
 started: 4/25/2017
 finished: 5/9/2017
 ---

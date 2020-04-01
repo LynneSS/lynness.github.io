@@ -4,8 +4,7 @@ subtitle: with repurposed sock yarn
 img: baaboo-scarf.jpg
 folder: baaboo-scarf
 status: finished
-tag: scarf knitting
-category: knitting
+tags: scarf knitting
 finished: 2019
 ---
 ### Yarn

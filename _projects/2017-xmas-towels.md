@@ -5,8 +5,7 @@ img: 2017-xmas-sampler2.jpg
 img-path: "/assets/img/2017-xmas-towels"
 folder: 2017-xmas-towels
 status: finished
-tag: weaving gifts towels
-category: weaving
+tags: weaving gifts towels
 started: 11/15/2015
 finished: 3/23/2016
 ---

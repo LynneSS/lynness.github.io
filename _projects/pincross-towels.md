@@ -5,8 +5,7 @@ img: pincross-towels-sample6.jpg
 img-path: "/assets/img/pincross-towels"
 folder: pincross-towels
 status: finished
-tag: weaving towels gift
-category: weaving
+tags: weaving towels gift
 started: 09/2/2016
 ---
 <p class="center">({{ page.started }}–{{ page.finished }})</p>

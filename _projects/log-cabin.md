@@ -4,8 +4,7 @@ subtitle: Jaggerspun Maine leftovers
 img: log-cabin.jpg
 folder: log-cabin
 status: on hold
-tag: knitting afghan
-category: knitting
+tags: knitting afghan
 ---
 
 ![Finished squares of 4](/assets/img/log-cabin/{{ page.img }}){: .center-image }

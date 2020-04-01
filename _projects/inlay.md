@@ -5,8 +5,7 @@ img: inlay15.jpg
 img-path: "/assets/img/inlay"
 folder: inlay
 status: finished
-tag: weaving inlay
-category: weaving
+tags: weaving inlay
 ---
 <section id="photos">
 <img src="{{ page.img-path }}/inlay-yarn.jpg" />
