@@ -8,3 +8,11 @@ title: Projects
     <li><a href="{{ project.url }}">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
   {% endfor %}
 </ul>
+
+<!-- For sorting:
+{% assign products_by_company = collection.products | sort_natural: "company" %}
+{% for product in products_by_company %}
+  <h4>{{ product.title }}</h4>
+  {% endfor %}
+  
+Add sections here and to Project pages -->
