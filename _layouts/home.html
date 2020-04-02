@@ -7,14 +7,3 @@ layout: default
 {{ content }}
 
 {% include post-tags.html %}
-
-<article class="post-content">
-	{% for post in site.posts | sort: date %}
-		{% if post.project-title == "page.project-title" %}
-			{{ post.date }}, {{ post.title }}
-			
-			{{ content }}
-			
-		{% endif %}	
-	{% endfor %}
-</article>
