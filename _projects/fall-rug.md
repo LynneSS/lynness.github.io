@@ -166,7 +166,7 @@ Check the remaining fabrics:
 
 <article class="post-content">
 	{% for post in site.posts | sort: date %}
-		{% if post.project-title == "page.project-title" %}
+		{% if post.project-title == "Fall Rosepath Rug" %}
 			{{ post.date }}, {{ post.title }}
 			
 			{{ content }}
