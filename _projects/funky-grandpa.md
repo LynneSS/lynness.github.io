@@ -1,6 +1,6 @@
 ---
 project-title: Funky Grandpa Sweater
-subtitle: Version 2.0
+subtitle: version 2.0
 img: funky-grandpa.jpg
 img-path: "/assets/img/funky-grandpa"
 folder: funky-grandpa

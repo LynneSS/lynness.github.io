@@ -1,6 +1,6 @@
 ---
 project-title: Twice-Woven Rug
-subtitle: Handwoven & hand-dyed
+subtitle: handwoven & hand-dyed
 img: twice-woven2.jpg
 folder: twice-woven
 status: in progress

@@ -1,6 +1,6 @@
 ---
 project-title: Finnish Twill Runner
-subtitle: For the 75th anniversary book
+subtitle: for the 75th anniversary book
 img: finnish1.jpg
 img-path: "/assets/img/finnish-twill"
 folder: finnish-twill

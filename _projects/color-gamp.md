@@ -1,6 +1,6 @@
 ---
 project-title: Color Gamp Huck Blanket
-subtitle: For Laurel, 2014
+subtitle: for Laurel, 2014
 status: finished
 img: gamp1.jpg
 img-path: "/assets/img/color-gamp"

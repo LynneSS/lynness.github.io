@@ -1,6 +1,6 @@
 ---
 project-title: Sami Bracelets
-subtitle: For Christmas presents
+subtitle: for Christmas presents
 img: sami-bracelets-done3.jpg
 img-path: "/assets/img/sami-bracelets"
 folder: sami-bracelets

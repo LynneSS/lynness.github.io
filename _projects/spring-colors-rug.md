@@ -1,6 +1,6 @@
 ---
 project-title: Spring Colors Rug
-subtitle: Colors from Spring rosepath rug
+subtitle: colors from Spring Rosepath Rug
 img: spring-colors-rug-fabric.jpg
 img-path: "/assets/img/spring-colors-rug"
 folder: spring-colors-rug

@@ -1,6 +1,6 @@
 ---
 project-title: Huck Scarf
-subtitle: In yak and silk
+subtitle: in yak and silk
 img: huck-finished.jpg
 img-path: "/assets/img/huck-scarf"
 folder: huck-scarf
