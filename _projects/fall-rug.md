@@ -160,3 +160,17 @@ Check the remaining fabrics:
 * Green vines: 2.58/stripe, 3 stripes remaining. 3 x 2.58 = 7.74 oz needed. OK
 
 ![First few stripes of new plan]({{ page.img-path }}/fall-rug-reboot-3.jpg){: .center-image }
+
+
+---
+
+<article class="post-content">
+	{% for post in site.posts | sort: date %}
+		{% if post.project-title == "page.project-title" %}
+			{{ post.date }}, {{ post.title }}
+			
+			{{ content }}
+			
+		{% endif %}	
+	{% endfor %}
+</article>
