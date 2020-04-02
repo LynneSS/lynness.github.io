@@ -163,3 +163,11 @@ Check the remaining fabrics:
 
 
 ---
+
+{% for page in site.pages %}
+	{% if page.category == "Fall Rosepath Rug" %}
+		{{ page.title }} - {{ page.date | date: site.date_format }}
+	{% endif %}
+{% endfor %}
+
+

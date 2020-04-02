@@ -2,7 +2,7 @@
 title: Spring rug reboot
 folder: fall-rug
 img: fall-rug-fabric.jpg
-project-title: Fall Rosepath Rug
+category: Fall Rosepath Rug
 ---
 ![Fabrics for the new rug](/assets/img/{{ page.folder }}/{{ page.img }}){: .center-image }
 

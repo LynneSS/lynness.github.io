@@ -1,6 +1,6 @@
 ---
-project-title: Experiments with Theo Moorman Inslay
-subtitle: with leftover yarn
+project-title: Inlay
+subtitle: Experiments with Theo Moorman Inslay
 img: inlay15.jpg
 img-path: "/assets/img/inlay"
 folder: inlay
