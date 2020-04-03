@@ -166,11 +166,10 @@ Check the remaining fabrics:
 
 {% for post in site.posts reversed %}
 	 {% if post.project-title == 'Fall Rosepath Rug' %}
-		### {{ post.title }}
-
-		{{ post.date | date: site.date_format }}
 		
 		{{ post.content }}
+		
+		---
 		
 	{% endif %}
 {% endfor %}
