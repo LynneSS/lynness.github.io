@@ -29,3 +29,15 @@ Mostly blues.
 ## Finished rug
 
 ![Progress on the rug 2]({{ page.img-path }}/rosepath-twill-done.jpg){: .center-image }
+
+---
+
+{% for post in site.posts reversed %}
+	 {% if post.project-title == 'Twill Rag Rug' %}
+		<h3>{{ post.title }}</h3>
+		<p>{{ post.date | date: site.date_format }}</p>
+		
+		{{ post.content }}
+		
+	{% endif %}
+{% endfor %}

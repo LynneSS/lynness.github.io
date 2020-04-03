@@ -22,3 +22,15 @@ On the same warp as <a href="{{ site.baseurl }}/projects/pick-pick/pick-pick.htm
 
 ## Progress
 ![First stripe]({{ page.img-path }}/spring-colors-rug-first-stripe.jpg){: .center-image }
+
+---
+
+{% for post in site.posts reversed %}
+	 {% if post.project-title == 'Spring Colors Rug' %}
+		<h3>{{ post.title }}</h3>
+		<p>{{ post.date | date: site.date_format }}</p>
+		
+		{{ post.content }}
+		
+	{% endif %}
+{% endfor %}
