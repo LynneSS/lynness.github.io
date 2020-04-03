@@ -7,5 +7,7 @@
 			<img src="/assets/img/{{ post.folder }}/{{ post.img }}"/>
 			<p>{{ post.date | date: site.date_format }}</p>
 		</a>
+		
+		{{ content }}
 	{% endif %}
 {% endfor %}   
