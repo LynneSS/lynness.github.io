@@ -5,6 +5,7 @@ img: fall-rug-gold-curlicues.jpg
 img-path: "/assets/img/fall-rug"
 project-title: Fall Rosepath Rug
 ---
+
 ![Fabric with gold medallions]({{ page.img-path }}/fall-rug-gold-curlicues.jpg){: .center-image }<br />
 
 ### Solid stripes

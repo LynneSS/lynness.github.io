@@ -169,7 +169,5 @@ Check the remaining fabrics:
 		
 		{{ post.content }}
 		
-		---
-		
 	{% endif %}
 {% endfor %}
