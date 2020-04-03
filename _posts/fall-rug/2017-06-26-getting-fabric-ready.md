@@ -5,7 +5,7 @@ img: fall-rug-gold-curlicues.jpg
 img-path: "/assets/img/fall-rug"
 project-title: Fall Rosepath Rug
 ---
-![Fabric with gold medallions]({{ page.img-path }}/{{ page.img }}){: .center-image }<br />
+![Fabric with gold medallions]({{ page.img-path }}/fall-rug-gold-curlicues.jpg){: .center-image }<br />
 
 ### Solid stripes
 * Purpe w/border = 15.21 g/sqft = 1 inch strips
