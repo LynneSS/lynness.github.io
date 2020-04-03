@@ -1,14 +1,15 @@
 <aside class="projects">
 	<ul class="mt1 list-reset">
-	  {% for post in site.posts limit:10 %}
-	    <li>
-			<a href="{{ post.url }}">
-				<h3>{{ post.title }}</h3>
-				<img src="/assets/img/{{ post.folder }}/{{ post.img }}"/>
-				<p>{{ post.date | date: site.date_format }}</p>
-			</a>
-		</li>
-		<hr />
+	    {% for project in site.projects %}
+			{% if project.status == "in progress" %}
+				<li>
+					<a href="/projects/{{ project.folder }}/{{ project.folder }}.html">
+						<h3>{{ project.project-title }}</h3>
+						<img src="/projects/{{ project.folder }}/{{ project.img }}"/>
+					</a>
+				</li>
+				<hr />
+			{% endif %}
 		{% endfor %}
 	</ul>
-</aside>
+</aside>	
