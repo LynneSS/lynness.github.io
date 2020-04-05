@@ -4,7 +4,7 @@ subtitle:
 img: towel-class-dornick-all.jpg
 folder: towel-class
 status: finished
-tags: weaving towels
+tags: weaving towels huck twill plain
 ---
 <section id="photos">
 <a href="towel-class-dornick.jpg">

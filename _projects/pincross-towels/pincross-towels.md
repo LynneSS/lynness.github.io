@@ -4,7 +4,7 @@ subtitle: Christmas 2016
 img: pincross-towels-sample6.jpg
 folder: pincross-towels
 status: finished
-tags: weaving towels gift
+tags: weaving towels twill
 started: 09/2/2016
 ---
 <p class="center">({{ page.started }}–{{ page.finished }})</p>

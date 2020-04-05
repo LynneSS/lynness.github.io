@@ -22,7 +22,7 @@ title: Home
 <section id="photos">
 	{% for project in site.projects %}
 	{% if project.status == "finished" %}
-		<a class="hide-display" href="/projects/{{ project.folder }}/{{ project.folder }}.html">
+	<a class="hide-display" href="/projects/{{ project.folder }}/{{ project.folder }}.html">
 			<img src="/projects/{{ project.folder }}/{{ project.img }}" />
 			<span class="click-title">{{ project.project-title }}<br/>
 				{% if project.subtitle %}

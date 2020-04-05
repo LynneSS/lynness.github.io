@@ -4,7 +4,7 @@ subtitle: using up old sheets
 folder: pick-pick
 img: pick-pick-new-green.jpg
 status: finished
-tags: rug weaving
+tags: rug weaving plain
 started: Spring 2018
 finished: 15 September 2018
 ---

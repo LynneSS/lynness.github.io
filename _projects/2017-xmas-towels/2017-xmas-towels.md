@@ -4,7 +4,7 @@ subtitle: fistful of stripes
 img: 2017-xmas-sampler2.jpg
 folder: 2017-xmas-towels
 status: finished
-tags: weaving gifts towels
+tags: weaving towels plain
 started: 11/15/2015
 finished: 3/23/2016
 ---

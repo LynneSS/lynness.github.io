@@ -4,7 +4,7 @@ subtitle: bamboo yarn from Pat
 img: bamboo-off-loom.jpg
 folder: bamboo-scarf
 status: finished
-tags: scarf weaving
+tags: scarf weaving plain
 finished: 26 Mar 2020
 ---
 ### Hand-painted bamboo for warp
