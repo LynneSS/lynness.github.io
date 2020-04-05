@@ -5,8 +5,12 @@
 <ul>
 {% for project in site.projects %}
 	{% if project.tags contains "weaving" %}
-		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
-	{% endif %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
 {% endfor %}
 </ul>
 
@@ -14,7 +18,11 @@
 <ul>
 {% for project in site.projects %}
 	{% if project.tags contains "knitting" %}
-		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
 		{% endif %}
 {% endfor %}
 </ul>
@@ -23,7 +31,11 @@
 <ul>
 {% for project in site.projects %}
 	{% if project.tags contains "spinning" %}
-		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
 		{% endif %}
 {% endfor %}
 </ul>
@@ -32,7 +44,14 @@
 <ul>
 {% for project in site.projects %}
 	{% if project.tags contains "sewing" or project.tag contains "braiding" %}
-		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>, {{ project.subtitle }}</li>
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
 		{% endif %}
 {% endfor %}
 </ul>
+
+
+{{ site.tags.towels }}
