@@ -1,19 +1,130 @@
 ---
-title: Tags
 ---
-<h2>Tags</h2>
-
-<div id="archives">
-{% for tag in site.tags %}
-  <div class="archive-group">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <h3 id="#{{ tag_name | slugize }}">{{ tag_name }}</h3>
-    <a name="{{ tag_name | slugize }}"></a>
-    {% for post in site.tags[tag_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.heading }}</a>-<small>{{ post.title }}</small></h4>
-    </article>
-    {% endfor %}
-  </div>
+<h1>Tags</h1>
+<h2>Blankets, afghans, and quilts</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "blanket" or project.tags contains "afghan" or project.tags contains "quilt" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+	{% endif %}
 {% endfor %}
-</div>
+</ul>
+
+<h2>Rugs</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "rug" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+
+<h2>Scarves and shawls</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "scarf" or project.tags contains "shawl" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+
+<h2>Sweaters</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "sweater" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+
+<h2>Towels</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "towel" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+
+<h2>Other types of projects</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "inlay" or project.tags contains "runner" or project.tags contains "bracelet" or project.tags contains "braiding" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+
+<h1>Weave structures</h1>
+<h2>Huck</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "huck" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+<h2>Rosepath</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "rosepath" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+<h2>Twill</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "twill" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
+<h2>Plain weave</h2>
+<ul>
+{% for project in site.projects %}
+	{% if project.tags contains "plain" %}
+		<li><a href="/projects/{{ project.folder }}/{{ project.folder }}.html">{{ project.project-title }}</a>
+			{% if project.subtitle %}
+				- <span class="click-text">{{ project.subtitle }}</span><br />
+			{% endif %}
+		</li>
+		{% endif %}
+{% endfor %}
+</ul>
