@@ -5,7 +5,7 @@ img: dr-who-scarf.jpg
 img-path: "/assets/img/dr-who"
 folder: dr-who
 status: finished
-tag: weaving scarf
+tag: weaving scarf plain
 ---
 ## Weaving plan
 ![Fiber label](dr-who-plan-1.jpg){: .center-image }

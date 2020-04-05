@@ -1,6 +1,6 @@
 ---
 project-title: Fall Rosepath Rug
-subtitle: Same pattern as Spring rosepath rug
+subtitle: same pattern as Spring rosepath rug
 img: fall-rug-reboot-3.jpg
 folder: fall-rug
 status: finished

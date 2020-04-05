@@ -4,7 +4,7 @@ subtitle: Christmas 2016
 img: spring-fever-laurel.jpg
 folder: spring-fever
 status: finished
-tags: knitting scarf gift
+tags: knitting scarf 
 started: 10/8/2016
 finished: 12/23/2016
 ---
