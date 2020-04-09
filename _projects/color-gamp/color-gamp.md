@@ -30,6 +30,8 @@ From Jaggerspun:
 
 ![Project plan](gamp-plan.jpg){: .center-image }
 
+![Heddle count](gamp-wound.jpg){: .center-image }
+
 ![Heddle count](gamp-heddle-count.jpg){: .center-image }
 
 ![Warp order](gamp-warp-order.jpg){: .center-image }
@@ -51,3 +53,15 @@ Length, 55+28=83.
 ![Washed blanket 1](gamp1.jpg){: .center-image }
 ![Washed blanket 2](gamp2.jpg){: .center-image }
 
+<section id="photos">
+<img src="gamp-inset1.jpg" />
+<img src="gamp-inset2.jpg" />
+<img src="gamp-inset3.jpg" />
+<img src="gamp-inset4.jpg" />
+<img src="gamp-inset5.jpg" />
+<img src="gamp-inset6.jpg" />
+<img src="gamp-inset7.jpg" />
+<img src="gamp-inset8.jpg" />
+<img src="gamp-inset9.jpg" />
+<img src="gamp-inset10.jpg" />
+</section>
