@@ -427,3 +427,8 @@ span.click-text {
 		line-height: 1rem;
 	}
 }
+
+/* Columns */
+	.columns-2 {
+		columns: 2 200px;
+		  
