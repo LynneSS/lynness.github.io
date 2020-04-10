@@ -7,21 +7,23 @@ status: finished
 tags: scarf weaving plain
 finished: 26 Mar 2020
 ---
-### Hand-painted bamboo for warp
-From Light's Creek Studios
-Greenville CA 95947
+![Finished scarf]({{ page.img }}){: .center-image }
 
+## Warp
+###Hand-painted bamboo for warp
 Purchased from a shop in Mineral CA.
 
-![Skein of yarn]({{ page.img }}){: .center-image }
+![Yarn label](bamboo-label.jpg){: .center-image }
 
-### Tencel for warp:
+![Yarn skein](bamboo-yarn.jpg){: .center-image }
+
+### Tencel
 8/2, 8 oz, 1680 yds, WPI = 33
 
-### Tencel for weft:
-* Navy
-
 ![Cones of tencel](bamboo-warp-colors.jpg){: .center-image }
+
+## Tencel
+Black
 
 ### Project plan
 
