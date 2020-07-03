@@ -4,12 +4,12 @@ folder: 2020-rugs
 ---
 
 ## Rug 1
-<table class=table-img>
+<table class="table-img">
 	<tr><td><img src="2020-rug1-fabric.jpg" /></td><td><img src="2020-rug1-fabricB/W.jpg" /></td></tr>
 </table>
 
 ## Rug 2
-<table class=table-img>
+<table class="table-img">
 	<tr><td><img src="green-boats.jpg" /></td><td></td></tr>
 	<tr><td><img src="byzantine.jpg" /></td><td></td></tr>
 	<tr><td><img src="yellow&flowers.jpg" /></td><td></td></tr>
@@ -17,7 +17,7 @@ folder: 2020-rugs
 </table>
 
 ## Rug 3
-<table class=table-img>
+<table class="table-img">
 	<tr><td><img src="beige1.jpg" /></td><td></td></tr>
 	<tr><td><img src="beige2.jpg" /></td><td></td></tr>
 	<tr><td><img src="fish.jpg" /></td><td></td></tr>
@@ -26,7 +26,7 @@ folder: 2020-rugs
 </table>
 
 ## Rug 4
-<table class=table-img>
+<table class="table-img">
 	<tr><td><img src="green-gold-dots.jpg" /></td><td></td></tr>
 	<tr><td><img src="green-snowflakes.jpg" /></td><td></td></tr>
 	<tr><td><img src="green-trees.jpg" /></td><td></td></tr>
