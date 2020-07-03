@@ -5,27 +5,18 @@ folder: 2020-rugs
 
 ## Rug 1
 <table class="table-img">
-	<tr><td><img src="2020-rug1-fabric.jpg" /></td><td><img src="2020-rug1-fabricB/W.jpg" /></td></tr>
+	<tr>
+		<td><img src="2020-rug1-fabric.jpg" /></td>
+		<td><img src="2020-rug1-fabricB/W.jpg" /></td>
+	</tr>
 </table>
 
 ## Rug 2
 <table class="table-img">
-	<tr>
-		<td rowspan="3"><img src="green-boats.jpg" /></td>
-		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="byzantine.jpg" /></td>
-		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="yellow&flowers.jpg" /></td>
-		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="peach-sheet.jpg" /></td>
-		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
-	</tr>
+	<tr><td rowspan="3"><img src="green-boats.jpg" /></td><td>sq ft<br />weight<<br />g/sq ft</td></tr>
+	<tr><td colspan="3"><img src="byzantine.jpg" /></td><td>sq ft<br />weight<<br />g/sq ft</td></tr>
+	<tr><td colspan="3"><img src="yellow&flowers.jpg" /></td><td>sq ft<br />weight<<br />g/sq ft</td></tr>
+	<tr><td colspan="3"><img src="peach-sheet.jpg" /></td><td>sq ft<br />weight<<br />g/sq ft</td></tr>
 </table>
 
 ## Rug 3
