@@ -36,5 +36,4 @@ folder: 2020-rugs
 	<td><img src="holly.jpg" /><br />43 g / 28 sq ft = 12.25 g/sq ft<br />+ 298 g in scraps</td></tr>
 	<tr><td><img src="red-trees.jpg" /><br />398 g / 34.3 sq ft = 11.6 g/sq ft</td>
 	<td><img src="white-gold.jpg" /><br />530 g / 43.2 sq ft = 12.3 g/sq ft</td></tr>
-</tbody>
 </table>
