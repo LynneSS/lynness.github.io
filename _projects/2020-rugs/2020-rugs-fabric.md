@@ -9,7 +9,7 @@ folder: 2020-rugs
 | 2020-rug1-fabric.jpg | 2020-rug1-fabricB/W.jpg |
 
 ## Rug 2
-|                         |              |
+| Fabric | Amounts |
 | :---------------------: | :----------- |
 | ![](green-boats.jpg)    |              |
 | ![](byzantine.jpg)      |              |
