@@ -433,6 +433,6 @@ span.click-text {
 		columns: 2 200px;
 		
 /* Tables */
-	#table-img img {
+	.table-img {
 		max-width: 300px;
 	}
