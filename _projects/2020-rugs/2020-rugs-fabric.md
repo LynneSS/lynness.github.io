@@ -4,7 +4,7 @@ folder: 2020-rugs
 ---
 
 ## Rug 1
-<table>
+<table class=table-img>
 <tbody>
 	<tr><td><img src="2020-rug1-fabric.jpg" alt="" /></td><td><img src="2020-rug1-fabricB/W.jpg" alt="" /></td></tr>
 </tbody>
