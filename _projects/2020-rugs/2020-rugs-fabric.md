@@ -12,19 +12,19 @@ folder: 2020-rugs
 <table class="table-img">
 	<tr>
 		<td colspan="3"><img src="green-boats.jpg" /></td>
-		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
 	</tr>
 	<tr>
 		<td colspan="3"><img src="byzantine.jpg" /></td>
-		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
 	</tr>
 	<tr>
 		<td colspan="3"><img src="yellow&flowers.jpg" /></td>
-		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
 	</tr>
 	<tr>
 		<td colspan="3"><img src="peach-sheet.jpg" /></td>
-		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
 	</tr>
 </table>
 
