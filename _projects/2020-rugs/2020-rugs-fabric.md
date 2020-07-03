@@ -34,3 +34,9 @@ folder: 2020-rugs
 | ![](holly.jpg)            | |
 | ![](red-trees.jpg)        | |
 | ![](white-gold.jpg)       | |
+
+<table>
+<tbody>
+	<tr><td><img src="2020-rug1-fabric.jpg" alt="" /></td><td><img src="2020-rug1-fabric.jpg" alt="" /></td></tr>
+</tbody>
+</table>
