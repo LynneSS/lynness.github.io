@@ -10,15 +10,22 @@ folder: 2020-rugs
 
 ## Rug 2
 <table class="table-img">
-	<thead><tr>
-		<th></th><th>Sq ft</th><th>Weight</th><th>g/sq ft</th>
-	</tr></thead>
-	<tbody>
-		<tr><td><img src="green-boats.jpg" /></td><td></td></tr>
-		<tr><td><img src="byzantine.jpg" /></td><td></td></tr>
-		<tr><td><img src="yellow&flowers.jpg" /></td><td></td></tr>
-		<tr><td><img src="peach-sheet.jpg" /></td><td></td></tr>
-	</tbody>
+	<tr>
+		<td colspan="3"><img src="green-boats.jpg" /></td>
+		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="byzantine.jpg" /></td>
+		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="yellow&flowers.jpg" /></td>
+		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="peach-sheet.jpg" /></td>
+		<td>sq ft</td><td>weight</td><td>g/sq ft</td>
+	</tr>
 </table>
 
 ## Rug 3
