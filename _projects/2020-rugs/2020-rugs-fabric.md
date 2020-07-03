@@ -5,40 +5,32 @@ folder: 2020-rugs
 
 ## Rug 1
 <table class=table-img>
-<tbody>
-	<tr><td><img src="2020-rug1-fabric.jpg" alt="" /></td><td><img src="2020-rug1-fabricB/W.jpg" alt="" /></td></tr>
-</tbody>
+	<tr><td><img src="2020-rug1-fabric.jpg" /></td><td><img src="2020-rug1-fabricB/W.jpg" /></td></tr>
 </table>
 
 ## Rug 2
-<table>
-<tbody>
-	<tr><td><img src="green-boats.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="byzantine.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="yellow&flowers.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="peach-sheet.jpg" alt="" /></td><td></td></tr>
-</tbody>
+<table class=table-img>
+	<tr><td><img src="green-boats.jpg" /></td><td></td></tr>
+	<tr><td><img src="byzantine.jpg" /></td><td></td></tr>
+	<tr><td><img src="yellow&flowers.jpg" /></td><td></td></tr>
+	<tr><td><img src="peach-sheet.jpg" /></td><td></td></tr>
 </table>
 
 ## Rug 3
-<table>
-<tbody>
-	<tr><td><img src="beige1.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="beige2.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="fish.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="purple-bird.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="zebra.jpg" alt="" /></td><td></td></tr>
-</tbody>
+<table class=table-img>
+	<tr><td><img src="beige1.jpg" /></td><td></td></tr>
+	<tr><td><img src="beige2.jpg" /></td><td></td></tr>
+	<tr><td><img src="fish.jpg" /></td><td></td></tr>
+	<tr><td><img src="purple-bird.jpg" /></td><td></td></tr>
+	<tr><td><img src="zebra.jpg" /></td><td></td></tr>
 </table>
 
 ## Rug 4
-<table>
-<tbody>
-	<tr><td><img src="green-gold-dots.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="green-snowflakes.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="green-trees.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="holly.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="red-trees.jpg" alt="" /></td><td></td></tr>
-	<tr><td><img src="white-gold.jpg" alt="" /></td><td></td></tr>
-</tbody>
+<table class=table-img>
+	<tr><td><img src="green-gold-dots.jpg" /></td><td></td></tr>
+	<tr><td><img src="green-snowflakes.jpg" /></td><td></td></tr>
+	<tr><td><img src="green-trees.jpg" /></td><td></td></tr>
+	<tr><td><img src="holly.jpg" /></td><td></td></tr>
+	<tr><td><img src="red-trees.jpg" /></td><td></td></tr>
+	<tr><td><img src="white-gold.jpg" /></td><td></td></tr>
 </table>
