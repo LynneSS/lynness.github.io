@@ -11,7 +11,7 @@ folder: 2020-rugs
 ## Rug 2
 <table class="table-img">
 	<tr>
-		<td colspan="3"><img src="green-boats.jpg" /></td>
+		<td rowspan="3"><img src="green-boats.jpg" /></td>
 		<tr><td>sq ft</td></tr><tr><td>weight</td></tr><tr><td>g/sq ft</td></tr>
 	</tr>
 	<tr>
