@@ -7,7 +7,7 @@ folder: 2020-rugs
 <table class="table-img">
 	<tr>
 		<td><img src="2020-rug1-fabric.jpg" /></td>
-		<td><img src="2020-rug1-fabricB/W.jpg" /></td>
+		<td><img src="2020-rug1-fabricBW.jpg" /></td>
 	</tr>
 </table>
 
@@ -32,7 +32,7 @@ folder: 2020-rugs
 <table class="table-img">
 	<tr><td><img src="green-gold-dots.jpg" /><br />127 g / 11.0 sq ft = 11.5 g/sq ft</td>
 	<td><img src="green-snowflakes.jpg" /><br />69 g / 39.4 sq ft = 211.9 g/sq ft</td></tr>
-	<tr><td><img src="green-trees.jpg" />510 g / sq ft = g/sq ft</td>
+	<tr><td><img src="green-trees.jpg" /><br />510 g / sq ft = g/sq ft</td>
 	<td><img src="holly.jpg" /><br />43 g / 28 sq ft = 12.25 g/sq ft<br />+ 298 g in scraps</td></tr>
 	<tr><td><img src="red-trees.jpg" /><br />398 g / 34.3 sq ft = 11.6 g/sq ft</td>
 	<td><img src="white-gold.jpg" /><br />530 g / 43.2 sq ft = 12.3 g/sq ft</td></tr>
