@@ -11,7 +11,7 @@ folder: 2020-rugs
 ## Rug 2
 <table class="table-img">
 	<thead><tr>
-		<td></td><td>Sq ft</td><td>Weight</td><td>g/sq ft</td>
+		<th></th><th>Sq ft</th><th>Weight</th><th>g/sq ft</th>
 	</tr></thead>
 	<tbody>
 		<tr><td><img src="green-boats.jpg" /></td><td></td></tr>
@@ -24,7 +24,7 @@ folder: 2020-rugs
 ## Rug 3
 <table class="table-img">
 	<thead><tr>
-		<td></td><td>Sq ft</td><td>Weight</td><td>g/sq ft</td>
+		<th></th><th>Sq ft</th><th>Weight</th><th>g/sq ft</th>
 	</tr></thead>
 	<tbody>
 		<tr><td><img src="beige1.jpg" /></td><td></td></tr>
@@ -38,7 +38,7 @@ folder: 2020-rugs
 ## Rug 4
 <table class="table-img">
 	<thead><tr>
-		<td></td><td>Sq ft</td><td>Weight</td><td>g/sq ft</td>
+		<th></th><th>Sq ft</th><th>Weight</th><th>g/sq ft</th>
 	</tr></thead>
 	<tbody>
 		<tr><td><img src="green-gold-dots.jpg" /></td><td></td></tr>
