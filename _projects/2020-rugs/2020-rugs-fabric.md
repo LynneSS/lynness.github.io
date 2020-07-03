@@ -5,10 +5,7 @@ folder: 2020-rugs
 
 ## Rug 1
 <table>
-	<tr>
-		<td>![](img/2020-rug1-fabric.jpg)</td>
-		<td>![](img/2020-rug1-fabricBW.jpg)</td>
-	</tr>
+	<tr><td><img class="table-img" src="img/2020-rug1-fabric.jpg" /></td><td><img class="table-img" src="img/2020-rug1-fabricBW.jpg" /></td></tr>
 </table>
 
 ## Rug 2
