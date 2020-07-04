@@ -18,7 +18,7 @@ folder: 2020-rugs
 	<td><img class="table-img" src="img/byzantine.jpg" /><br />141 g / 24.4 sq ft = 5.8 g/sq ft</td></tr>
 	<tr><td><img class="table-img" src="img/yellow&flowers.jpg" /><br />441 g / 40 sq ft = 11.0 g/sq ft</td>
 	<td><img class="table-img" src="img/peach-sheet.jpg" /><br />377 g / 36.9 sq ft = 10.2 g/sq ft</td></tr>
-	<tr><td><img class="table-img" src="img/yellow-sheet.jpg" /><br />755 g /  sq ft = g/sq ft</td>
+	<tr><td><img class="table-img" src="img/yellow-sheet.jpg" /><br />755 g /  sq ft = g/sq ft</td></tr>
 </table>
 
 ## Rug 3
