@@ -5,21 +5,21 @@ folder: 2020-rugs
 
 ## Rug 1
 <table>
-	<tr><td><img class="table-img" src="img/2020-rug1-fabric.jpg" /></td><td><img class="table-img" src="img/2020-rug1-fabricBW.jpg" /></td></tr>
+	<tr><td><img class="table-img" src="img/2020-rug1-fabric.jpg" /></td><td><img class="table-img" src="img/2020-rug1-fabric-bw.jpg" /></td></tr>
 </table>
 
 ## Rug 2
 <table>
-	<tr><td><img class="table-img" src="img/IMG_1041.jpg" /></td><td><img class="table-img" src="IMG_1041BW.jpg" /></td></tr>
-	<tr><td><img class="table-img" src="img/green-boats.jpg" /><br />g / sq ft = g/sq ft</td>
-	<td><img class="table-img" src="img/byzantine.jpg" /><br />g / sq ft = g/sq ft</td></tr>
-	<tr><td><img class="table-img" src="img/yellow&flowers.jpg" /><br />g / sq ft = g/sq ft</td>
-	<td><img class="table-img" src="img/peach-sheet.jpg" /><br />g / sq ft = g/sq ft</td></tr>
+	<tr><td><img class="table-img" src="img/IMG_1041.jpg" /></td><td><img class="table-img" src="IMG_1041-bw.jpg" /></td></tr>
+	<tr><td><img class="table-img" src="img/green-boats.jpg" /><br />446 g / 31.2 sq ft = g/sq ft</td>
+	<td><img class="table-img" src="img/byzantine.jpg" /><br />141 g / 24.4 sq ft = g/sq ft</td></tr>
+	<tr><td><img class="table-img" src="img/yellow&flowers.jpg" /><br />441 g / 40 sq ft = g/sq ft</td>
+	<td><img class="table-img" src="img/peach-sheet.jpg" /><br />377 g / 36.9 sq ft = g/sq ft</td></tr>
 </table>
 
 ## Rug 3
 <table>
-	<tr><td><img class="table-img" src="img/IMG_1038.jpg" /></td><td><img class="table-img" src="IMG_1038BW.jpg" /></td></tr>
+	<tr><td><img class="table-img" src="img/IMG_1038.jpg" /></td><td><img class="table-img" src="IMG_1038-bw.jpg" /></td></tr>
 	<tr><td><img class="table-img" src="img/beige1.jpg" /><br />118 g / 7.96 sq ft = 14.8 g/sq ft</td>
 	<td><img class="table-img" src="img/beige2.jpg" /><br />254 g / 12.0 sq ft = 21.2 g/sq ft</td></tr>
 	<tr><td><img class="table-img" src="img/fish.jpg" /><br />358 g / 15.16 sq ft = 23.6 g/sq ft</td>
@@ -29,7 +29,7 @@ folder: 2020-rugs
 
 ## Rug 4
 <table>
-	<tr><td><img class="table-img" src="img/IMG_1044.jpg" /></td><td><img class="table-img" src="IMG_1044BW.jpg" /></td></tr>
+	<tr><td><img class="table-img" src="img/IMG_1044.jpg" /></td><td><img class="table-img" src="IMG_1044-bw.jpg" /></td></tr>
 	<tr><td><img class="table-img" src="img/green-gold-dots.jpg" /><br />127 g / 11.0 sq ft = 11.5 g/sq ft</td>
 	<td><img class="table-img" src="img/green-snowflakes.jpg" /><br />69 g / 39.4 sq ft = 211.9 g/sq ft</td></tr>
 	<tr><td><img class="table-img" src="img/green-trees.jpg" /><br />510 g / sq ft = g/sq ft</td>
