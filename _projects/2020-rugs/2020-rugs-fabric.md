@@ -3,12 +3,15 @@ project-title: Fabric for rugs
 folder: 2020-rugs
 ---
 
+[Back to 2020 rugs](2020-rugs.html)
+
 ## Rug 1
 <table>
 	<tr><td><img class="table-img" src="img/2020-rug1-fabric.jpg" /></td><td><img class="table-img" src="img/2020-rug1-fabric-bw.jpg" /></td></tr>
 </table>
 
 ## Rug 2
+[Rug 2 homepage](2020-rugs-2.html)
 <table>
 	<tr><td><img class="table-img" src="img/IMG_1041.jpg" /></td><td><img class="table-img" src="IMG_1041-bw.jpg" /></td></tr>
 	<tr><td><img class="table-img" src="img/green-boats.jpg" /><br />446 g / 31.2 sq ft = g/sq ft</td>
@@ -18,6 +21,7 @@ folder: 2020-rugs
 </table>
 
 ## Rug 3
+[Rug 3 homepage](2020-rugs-3.html)
 <table>
 	<tr><td><img class="table-img" src="img/IMG_1038.jpg" /></td><td><img class="table-img" src="IMG_1038-bw.jpg" /></td></tr>
 	<tr><td><img class="table-img" src="img/beige1.jpg" /><br />118 g / 7.96 sq ft = 14.8 g/sq ft</td>
@@ -28,6 +32,7 @@ folder: 2020-rugs
 </table>
 
 ## Rug 4
+[Rug 4 homepage](2020-rugs-4.html)
 <table>
 	<tr><td><img class="table-img" src="img/IMG_1044.jpg" /></td><td><img class="table-img" src="IMG_1044-bw.jpg" /></td></tr>
 	<tr><td><img class="table-img" src="img/green-gold-dots.jpg" /><br />127 g / 11.0 sq ft = 11.5 g/sq ft</td>
