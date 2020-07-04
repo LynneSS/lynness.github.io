@@ -9,7 +9,7 @@ finished: 9/13/2017
 ---
 <p class="center">({{ page.started }}–{{ page.finished }}</p>
 
-Trying the Spring rug again with different fabrics. All quilt-weight cotton, purchased from S.R. Harris.
+Trying the [Spring rug](../spring-rug/spring-rug.html) again with different fabrics. All quilt-weight cotton, purchased from S.R. Harris.
 
 ![Fabrics for the new rug](fall-rug-fabric.jpg){: .center-image }
 
